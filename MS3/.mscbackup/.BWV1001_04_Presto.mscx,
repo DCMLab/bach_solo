@@ -100,13 +100,11 @@
         <trackName></trackName>
         <instrumentId>strings.violin</instrumentId>
         <Channel>
-          <controller ctrl="0" value="0"/>
           <controller ctrl="32" value="17"/>
           <program value="40"/>
           <synti>Fluid</synti>
           </Channel>
         <Channel name="harmony">
-          <controller ctrl="0" value="0"/>
           <controller ctrl="32" value="17"/>
           <program value="0"/>
           <synti>Fluid</synti>
@@ -1299,7 +1297,7 @@
       <Measure>
         <voice>
           <Harmony>
-            <name>V/III</name>
+            <name>VII</name>
             </Harmony>
           <Chord>
             <durationType>16th</durationType>
@@ -3053,7 +3051,7 @@
             <subtype>start-repeat</subtype>
             </BarLine>
           <Harmony>
-            <name>i.V{</name>
+            <name>{</name>
             </Harmony>
           <Chord>
             <durationType>16th</durationType>
@@ -3307,7 +3305,7 @@
           </LayoutBreak>
         <voice>
           <Harmony>
-            <name>iio</name>
+            <name>iio/iv</name>
             </Harmony>
           <Chord>
             <durationType>16th</durationType>
@@ -3363,7 +3361,7 @@
             <transposingClefType>G</transposingClefType>
             </Clef>
           <Harmony>
-            <name>V</name>
+            <name>V/iv</name>
             </Harmony>
           <Chord>
             <durationType>16th</durationType>
@@ -3415,7 +3413,7 @@
       <Measure>
         <voice>
           <Harmony>
-            <name>i</name>
+            <name>iv</name>
             </Harmony>
           <Chord>
             <durationType>16th</durationType>
