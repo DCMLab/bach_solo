@@ -330,6 +330,9 @@
               <tpc>18</tpc>
               </Note>
             </Chord>
+          <BarLine>
+            <subtype>dashed</subtype>
+            </BarLine>
           </voice>
         <voice>
           <StaffText>
