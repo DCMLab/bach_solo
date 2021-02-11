@@ -31,7 +31,7 @@
     <Order id="orchestral" customized="1">
       <name>Orchestral</name>
       <instrument id="piano">
-        <family id="keyboards">Keyboards</family>
+        <family id="keyboards">Tasteninstrumente</family>
         </instrument>
       <section id="woodwind" brackets="true" showSystemMarkings="true" barLineSpan="true" thinBrackets="true">
         <family>flutes</family>
@@ -136,6 +136,10 @@
           <program value="0"/>
           <synti>Fluid</synti>
           </Channel>
+        <Channel name="harmony">
+          <program value="0"/>
+          <synti>Fluid</synti>
+          </Channel>
         </Instrument>
       </Part>
     <Staff id="1">
@@ -146,6 +150,9 @@
             <sigN>4</sigN>
             <sigD>4</sigD>
             </TimeSig>
+          <Harmony>
+            <name>.a.i{</name>
+            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <Note>
@@ -161,6 +168,9 @@
               <tpc>18</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <name>v6</name>
+            </Harmony>
           <Chord>
             <durationType>32nd</durationType>
             <Note>
@@ -230,6 +240,9 @@
               <tpc>17</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <name>iv6</name>
+            </Harmony>
           <Chord>
             <durationType>16th</durationType>
             <Note>
@@ -263,6 +276,9 @@
               <tpc>17</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <name>i64</name>
+            </Harmony>
           <Chord>
             <durationType>16th</durationType>
             <Note>
@@ -330,27 +346,24 @@
               <tpc>18</tpc>
               </Note>
             </Chord>
-          <BarLine>
-            <subtype>dashed</subtype>
-            </BarLine>
           </voice>
         <voice>
           <StaffText>
             <family>Times New Roman</family>
             <size>15.552</size>
-            <offset x="-10.0134" y="-4.70756"/>
+            <offset x="-8.6134" y="-5.70756"/>
             <text>Grave</text>
             </StaffText>
           <StaffText>
             <family>Times New Roman</family>
             <size>15.552</size>
-            <offset x="34.125" y="-9"/>
+            <offset x="34.125" y="-11"/>
             <text>BWV 1003</text>
             </StaffText>
           <StaffText>
             <family>Times New Roman</family>
             <size>9</size>
-            <offset x="66.4688" y="-6.28125"/>
+            <offset x="72.4688" y="-7.28125"/>
             <text>Johann Sebastian Bach</text>
             </StaffText>
           <Chord>
@@ -387,6 +400,9 @@
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <name>iv</name>
+            </Harmony>
           <Chord>
             <dots>1</dots>
             <durationType>16th</durationType>
@@ -439,6 +455,9 @@
               <tpc>19</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <name>V65/V</name>
+            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Spanner type="Slur">
@@ -490,6 +509,9 @@
               <tpc>17</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <name>V}</name>
+            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Articulation>
@@ -533,6 +555,9 @@
               <tpc>18</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <name>#viio7{</name>
+            </Harmony>
           <Chord>
             <dots>1</dots>
             <durationType>16th</durationType>
@@ -653,6 +678,9 @@
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <name>i</name>
+            </Harmony>
           <Chord>
             <durationType>32nd</durationType>
             <Spanner type="Slur">
@@ -725,6 +753,9 @@
               <tpc>13</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <name>VI6</name>
+            </Harmony>
           <Chord>
             <BeamMode>begin</BeamMode>
             <dots>1</dots>
@@ -768,6 +799,9 @@
               <tpc>13</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <name>V6/VI</name>
+            </Harmony>
           <Chord>
             <dots>1</dots>
             <durationType>16th</durationType>
@@ -836,6 +870,9 @@
               <tpc>14</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <name>V65/VI</name>
+            </Harmony>
           <Chord>
             <durationType>32nd</durationType>
             <Spanner type="Slur">
@@ -899,6 +936,9 @@
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <name>VI</name>
+            </Harmony>
           <Chord>
             <dots>1</dots>
             <durationType>eighth</durationType>
@@ -972,6 +1012,9 @@
               <tpc>14</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <name>V2/III</name>
+            </Harmony>
           <Chord>
             <dots>1</dots>
             <durationType>32nd</durationType>
@@ -1065,6 +1108,9 @@
               <tpc>19</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <name>III6</name>
+            </Harmony>
           <Chord>
             <BeamMode>begin</BeamMode>
             <dots>1</dots>
@@ -1325,9 +1371,6 @@
             <durationType>64th</durationType>
             <Spanner type="Slur">
               <Slur>
-                <SlurSegment no="0">
-                  <o4 x="0.132056" y="-1.71673"/>
-                  </SlurSegment>
                 </Slur>
               <next>
                 <location>
@@ -6032,12 +6075,6 @@
           <Spanner type="Trill">
             <Trill>
               <subtype>prallprall</subtype>
-              <Segment>
-                <subtype>0</subtype>
-                <offset x="0.9107" y="-1.28697"/>
-                <off2 x="-0.796863" y="0"/>
-                <minDistance>-0.183025</minDistance>
-                </Segment>
               </Trill>
             <next>
               <location>
@@ -6049,11 +6086,6 @@
             <Trill>
               <subtype>prallprall</subtype>
               <placement>below</placement>
-              <Segment>
-                <subtype>0</subtype>
-                <offset x="1.36605" y="3.42489"/>
-                <off2 x="-1.30143" y="0"/>
-                </Segment>
               </Trill>
             <next>
               <location>
