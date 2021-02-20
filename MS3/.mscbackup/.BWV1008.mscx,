@@ -101,6 +101,7 @@
         <trackName></trackName>
         <instrumentId>strings.cello</instrumentId>
         <Channel>
+          <controller ctrl="0" value="0"/>
           <controller ctrl="32" value="17"/>
           <program value="42"/>
           <synti>Fluid</synti>
@@ -118,6 +119,7 @@
         <trackName></trackName>
         <instrumentId>strings.cello</instrumentId>
         <Channel>
+          <controller ctrl="0" value="0"/>
           <controller ctrl="32" value="17"/>
           <program value="42"/>
           <synti>Fluid</synti>
@@ -350,14 +352,11 @@
             </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="12/16">
         <voice>
           <Rest>
             <durationType>measure</durationType>
             <duration>3/4</duration>
-            </Rest>
-          <Rest>
-            <durationType>quarter</durationType>
             </Rest>
           </voice>
         </Measure>
@@ -429,29 +428,23 @@
             </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="12/16">
         <voice>
           <Rest>
             <durationType>measure</durationType>
             <duration>3/4</duration>
             </Rest>
-          <Rest>
-            <durationType>quarter</durationType>
-            </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="12/16">
         <voice>
           <Rest>
             <durationType>measure</durationType>
             <duration>3/4</duration>
             </Rest>
-          <Rest>
-            <durationType>quarter</durationType>
-            </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="12/16">
         <LayoutBreak>
           <subtype>line</subtype>
           </LayoutBreak>
@@ -460,30 +453,21 @@
             <durationType>measure</durationType>
             <duration>3/4</duration>
             </Rest>
-          <Rest>
-            <durationType>quarter</durationType>
-            </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="12/16">
         <voice>
           <Rest>
             <durationType>measure</durationType>
             <duration>3/4</duration>
             </Rest>
-          <Rest>
-            <durationType>quarter</durationType>
-            </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="12/16">
         <voice>
           <Rest>
             <durationType>measure</durationType>
             <duration>3/4</duration>
-            </Rest>
-          <Rest>
-            <durationType>quarter</durationType>
             </Rest>
           </voice>
         </Measure>
@@ -6726,7 +6710,7 @@
             </Chord>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="12/16">
         <voice>
           <Chord>
             <durationType>16th</durationType>
@@ -6830,9 +6814,6 @@
               <tpc>15</tpc>
               </Note>
             </Chord>
-          <Rest>
-            <durationType>quarter</durationType>
-            </Rest>
           </voice>
         </Measure>
       <Measure>
@@ -7405,7 +7386,7 @@
             </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="12/16">
         <voice>
           <Clef>
             <concertClefType>F</concertClefType>
@@ -7498,12 +7479,9 @@
               <tpc>18</tpc>
               </Note>
             </Chord>
-          <Rest>
-            <durationType>quarter</durationType>
-            </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="12/16">
         <voice>
           <Chord>
             <durationType>16th</durationType>
@@ -7592,12 +7570,9 @@
               <tpc>16</tpc>
               </Note>
             </Chord>
-          <Rest>
-            <durationType>quarter</durationType>
-            </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="12/16">
         <voice>
           <Chord>
             <durationType>16th</durationType>
@@ -7686,12 +7661,9 @@
               <tpc>15</tpc>
               </Note>
             </Chord>
-          <Rest>
-            <durationType>quarter</durationType>
-            </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="12/16">
         <voice>
           <Clef>
             <concertClefType>F</concertClefType>
@@ -7781,12 +7753,9 @@
               <tpc>16</tpc>
               </Note>
             </Chord>
-          <Rest>
-            <durationType>quarter</durationType>
-            </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="12/16">
         <voice>
           <Chord>
             <durationType>16th</durationType>
@@ -7875,9 +7844,6 @@
               <tpc>16</tpc>
               </Note>
             </Chord>
-          <Rest>
-            <durationType>quarter</durationType>
-            </Rest>
           </voice>
         </Measure>
       <Measure>
