@@ -18,7 +18,7 @@
     <metaTag name="arranger"></metaTag>
     <metaTag name="composer"></metaTag>
     <metaTag name="copyright"></metaTag>
-    <metaTag name="creationDate">2021-03-08</metaTag>
+    <metaTag name="creationDate">2021-02-21</metaTag>
     <metaTag name="lyricist"></metaTag>
     <metaTag name="movementNumber"></metaTag>
     <metaTag name="movementTitle"></metaTag>
@@ -185,18 +185,138 @@
             </Chord>
           </voice>
         <voice>
+          <location>
+            <fractions>-69/2</fractions>
+            </location>
           <Chord>
             <durationType>quarter</durationType>
+            <Note>
+              <pitch>36</pitch>
+              <tpc>14</tpc>
+              </Note>
+            <Note>
+              <pitch>45</pitch>
+              <tpc>17</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>55</pitch>
+              <tpc>15</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <Accidental>
+                <subtype>accidentalSharp</subtype>
+                </Accidental>
+              <pitch>54</pitch>
+              <tpc>20</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>16th</durationType>
             <Note>
               <pitch>52</pitch>
               <tpc>18</tpc>
               </Note>
             </Chord>
           <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>54</pitch>
+              <tpc>20</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>55</pitch>
+              <tpc>15</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>52</pitch>
+              <tpc>18</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>54</pitch>
+              <tpc>20</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>breve</durationType>
+            <Note>
+              <Spanner type="Tie">
+                <Tie>
+                  </Tie>
+                <next>
+                  <location>
+                    <fractions>2/1</fractions>
+                    </location>
+                  </next>
+                </Spanner>
+              <pitch>57</pitch>
+              <tpc>17</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <Spanner type="Tie">
+                <prev>
+                  <location>
+                    <fractions>-2/1</fractions>
+                    </location>
+                  </prev>
+                </Spanner>
+              <pitch>57</pitch>
+              <tpc>17</tpc>
+              </Note>
+            </Chord>
+          <Chord>
             <durationType>quarter</durationType>
             <Note>
-              <pitch>50</pitch>
+              <pitch>47</pitch>
+              <tpc>19</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>55</pitch>
+              <tpc>15</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>62</pitch>
               <tpc>16</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>55</pitch>
+              <tpc>15</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <Accidental>
+                <subtype>accidentalNatural</subtype>
+                </Accidental>
+              <pitch>53</pitch>
+              <tpc>13</tpc>
               </Note>
             </Chord>
           </voice>
@@ -256,22 +376,7 @@
               </Note>
             </Chord>
           </voice>
-        <voice>
-          <Chord>
-            <durationType>quarter</durationType>
-            <Note>
-              <pitch>52</pitch>
-              <tpc>18</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>quarter</durationType>
-            <Note>
-              <pitch>53</pitch>
-              <tpc>13</tpc>
-              </Note>
-            </Chord>
-          </voice>
+        <voice/>
         <voice>
           <Chord>
             <durationType>quarter</durationType>
@@ -364,25 +469,7 @@
               </Note>
             </Chord>
           </voice>
-        <voice>
-          <Chord>
-            <durationType>eighth</durationType>
-            <Note>
-              <pitch>47</pitch>
-              <tpc>19</tpc>
-              </Note>
-            </Chord>
-          <location>
-            <fractions>1/8</fractions>
-            </location>
-          <Chord>
-            <durationType>eighth</durationType>
-            <Note>
-              <pitch>36</pitch>
-              <tpc>14</tpc>
-              </Note>
-            </Chord>
-          </voice>
+        <voice/>
         <voice>
           <location>
             <fractions>1/4</fractions>
@@ -547,26 +634,6 @@
               </Note>
             </Chord>
           </voice>
-        <voice>
-          <Chord>
-            <durationType>quarter</durationType>
-            <Note>
-              <pitch>40</pitch>
-              <tpc>18</tpc>
-              </Note>
-            <Note>
-              <pitch>48</pitch>
-              <tpc>14</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>quarter</durationType>
-            <Note>
-              <pitch>45</pitch>
-              <tpc>17</tpc>
-              </Note>
-            </Chord>
-          </voice>
         </Measure>
       <Measure>
         <voice>
@@ -640,25 +707,7 @@
               </Note>
             </Chord>
           </voice>
-        <voice>
-          <Chord>
-            <durationType>quarter</durationType>
-            <Note>
-              <Accidental>
-                <subtype>accidentalSharp</subtype>
-                </Accidental>
-              <pitch>54</pitch>
-              <tpc>20</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>quarter</durationType>
-            <Note>
-              <pitch>50</pitch>
-              <tpc>16</tpc>
-              </Note>
-            </Chord>
-          </voice>
+        <voice/>
         <voice>
           <Chord>
             <durationType>quarter</durationType>
@@ -790,28 +839,7 @@
               </Note>
             </Chord>
           </voice>
-        <voice>
-          <Chord>
-            <durationType>eighth</durationType>
-            <Note>
-              <Accidental>
-                <subtype>accidentalSharp</subtype>
-                </Accidental>
-              <pitch>49</pitch>
-              <tpc>21</tpc>
-              </Note>
-            </Chord>
-          <location>
-            <fractions>1/8</fractions>
-            </location>
-          <Chord>
-            <durationType>eighth</durationType>
-            <Note>
-              <pitch>49</pitch>
-              <tpc>21</tpc>
-              </Note>
-            </Chord>
-          </voice>
+        <voice/>
         <voice>
           <Chord>
             <durationType>eighth</durationType>
@@ -841,18 +869,6 @@
               </Note>
             </Chord>
           </voice>
-        <voice>
-          <location>
-            <fractions>1/4</fractions>
-            </location>
-          <Chord>
-            <durationType>half</durationType>
-            <Note>
-              <pitch>43</pitch>
-              <tpc>15</tpc>
-              </Note>
-            </Chord>
-          </voice>
         </Measure>
       <Measure>
         <startRepeat/>
@@ -866,16 +882,6 @@
             </Chord>
           <Chord>
             <durationType>16th</durationType>
-            <Spanner type="Slur">
-              <Slur>
-                <up>down</up>
-                </Slur>
-              <next>
-                <location>
-                  <fractions>1/16</fractions>
-                  </location>
-                </next>
-              </Spanner>
             <Note>
               <pitch>53</pitch>
               <tpc>13</tpc>
@@ -883,13 +889,6 @@
             </Chord>
           <Chord>
             <durationType>16th</durationType>
-            <Spanner type="Slur">
-              <prev>
-                <location>
-                  <fractions>-1/16</fractions>
-                  </location>
-                </prev>
-              </Spanner>
             <Note>
               <pitch>52</pitch>
               <tpc>18</tpc>
@@ -955,390 +954,29 @@
               </Note>
             </Chord>
           </voice>
+        </Measure>
+      <Measure>
         <voice>
-          <Chord>
-            <durationType>quarter</durationType>
-            <Note>
-              <pitch>43</pitch>
-              <tpc>15</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>quarter</durationType>
-            <Note>
-              <pitch>43</pitch>
-              <tpc>15</tpc>
-              </Note>
-            </Chord>
-          </voice>
-        <voice>
-          <Chord>
-            <durationType>quarter</durationType>
-            <Note>
-              <pitch>59</pitch>
-              <tpc>19</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>quarter</durationType>
-            <Note>
-              <pitch>59</pitch>
-              <tpc>19</tpc>
-              </Note>
-            </Chord>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>3/4</duration>
+            </Rest>
           </voice>
         </Measure>
       <Measure>
         <voice>
-          <Chord>
-            <durationType>eighth</durationType>
-            <Note>
-              <pitch>50</pitch>
-              <tpc>16</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>16th</durationType>
-            <Spanner type="Slur">
-              <Slur>
-                <up>down</up>
-                </Slur>
-              <next>
-                <location>
-                  <fractions>1/16</fractions>
-                  </location>
-                </next>
-              </Spanner>
-            <Note>
-              <pitch>53</pitch>
-              <tpc>13</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>16th</durationType>
-            <Spanner type="Slur">
-              <prev>
-                <location>
-                  <fractions>-1/16</fractions>
-                  </location>
-                </prev>
-              </Spanner>
-            <Note>
-              <pitch>52</pitch>
-              <tpc>18</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <dots>1</dots>
-            <durationType>eighth</durationType>
-            <Note>
-              <pitch>53</pitch>
-              <tpc>13</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>16th</durationType>
-            <Note>
-              <pitch>52</pitch>
-              <tpc>18</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>16th</durationType>
-            <Spanner type="Slur">
-              <Slur>
-                </Slur>
-              <next>
-                <location>
-                  <fractions>3/16</fractions>
-                  </location>
-                </next>
-              </Spanner>
-            <Note>
-              <pitch>50</pitch>
-              <tpc>16</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>16th</durationType>
-            <Note>
-              <pitch>48</pitch>
-              <tpc>14</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>16th</durationType>
-            <Note>
-              <pitch>50</pitch>
-              <tpc>16</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>16th</durationType>
-            <Spanner type="Slur">
-              <prev>
-                <location>
-                  <fractions>-3/16</fractions>
-                  </location>
-                </prev>
-              </Spanner>
-            <Note>
-              <pitch>47</pitch>
-              <tpc>19</tpc>
-              </Note>
-            </Chord>
-          </voice>
-        <voice>
-          <Chord>
-            <durationType>quarter</durationType>
-            <Note>
-              <Accidental>
-                <subtype>accidentalSharp</subtype>
-                </Accidental>
-              <pitch>44</pitch>
-              <tpc>22</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>quarter</durationType>
-            <Note>
-              <pitch>44</pitch>
-              <tpc>22</tpc>
-              </Note>
-            </Chord>
-          </voice>
-        <voice>
-          <Chord>
-            <durationType>quarter</durationType>
-            <Note>
-              <pitch>59</pitch>
-              <tpc>19</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>quarter</durationType>
-            <Note>
-              <pitch>59</pitch>
-              <tpc>19</tpc>
-              </Note>
-            </Chord>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>3/4</duration>
+            </Rest>
           </voice>
         </Measure>
       <Measure>
         <voice>
-          <Chord>
-            <durationType>16th</durationType>
-            <Spanner type="Slur">
-              <Slur>
-                </Slur>
-              <next>
-                <location>
-                  <fractions>3/16</fractions>
-                  </location>
-                </next>
-              </Spanner>
-            <Note>
-              <pitch>48</pitch>
-              <tpc>14</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>16th</durationType>
-            <Note>
-              <pitch>52</pitch>
-              <tpc>18</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>16th</durationType>
-            <Note>
-              <Accidental>
-                <subtype>accidentalSharp</subtype>
-                </Accidental>
-              <pitch>56</pitch>
-              <tpc>22</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>16th</durationType>
-            <Spanner type="Slur">
-              <prev>
-                <location>
-                  <fractions>-3/16</fractions>
-                  </location>
-                </prev>
-              </Spanner>
-            <Note>
-              <pitch>59</pitch>
-              <tpc>19</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <dots>1</dots>
-            <durationType>eighth</durationType>
-            <Spanner type="Slur">
-              <Slur>
-                </Slur>
-              <next>
-                <location>
-                  <fractions>7/32</fractions>
-                  </location>
-                </next>
-              </Spanner>
-            <Note>
-              <pitch>57</pitch>
-              <tpc>17</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>32nd</durationType>
-            <Note>
-              <pitch>59</pitch>
-              <tpc>19</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>32nd</durationType>
-            <Spanner type="Slur">
-              <prev>
-                <location>
-                  <fractions>-7/32</fractions>
-                  </location>
-                </prev>
-              </Spanner>
-            <Note>
-              <pitch>60</pitch>
-              <tpc>14</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>eighth</durationType>
-            <Note>
-              <pitch>50</pitch>
-              <tpc>16</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>eighth</durationType>
-            <Note>
-              <pitch>59</pitch>
-              <tpc>19</tpc>
-              </Note>
-            </Chord>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <Chord>
-            <durationType>eighth</durationType>
-            <Spanner type="Slur">
-              <Slur>
-                </Slur>
-              <next>
-                <location>
-                  <fractions>1/8</fractions>
-                  </location>
-                </next>
-              </Spanner>
-            <Note>
-              <pitch>57</pitch>
-              <tpc>17</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>eighth</durationType>
-            <Spanner type="Slur">
-              <prev>
-                <location>
-                  <fractions>-1/8</fractions>
-                  </location>
-                </prev>
-              </Spanner>
-            <Note>
-              <Accidental>
-                <subtype>accidentalSharp</subtype>
-                </Accidental>
-              <pitch>54</pitch>
-              <tpc>20</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>16th</durationType>
-            <Spanner type="Slur">
-              <Slur>
-                </Slur>
-              <next>
-                <location>
-                  <fractions>3/16</fractions>
-                  </location>
-                </next>
-              </Spanner>
-            <Note>
-              <pitch>57</pitch>
-              <tpc>17</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>16th</durationType>
-            <Note>
-              <Accidental>
-                <subtype>accidentalSharp</subtype>
-                </Accidental>
-              <pitch>56</pitch>
-              <tpc>22</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>16th</durationType>
-            <Note>
-              <pitch>54</pitch>
-              <tpc>20</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>16th</durationType>
-            <Spanner type="Slur">
-              <prev>
-                <location>
-                  <fractions>-3/16</fractions>
-                  </location>
-                </prev>
-              </Spanner>
-            <Note>
-              <pitch>52</pitch>
-              <tpc>18</tpc>
-              </Note>
-            </Chord>
-          <Beam>
-            <StemDirection>down</StemDirection>
-            </Beam>
-          <Chord>
-            <durationType>eighth</durationType>
-            <Articulation>
-              <subtype>ornamentTrill</subtype>
-              </Articulation>
-            <Note>
-              <pitch>50</pitch>
-              <tpc>16</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>16th</durationType>
-            <Note>
-              <Accidental>
-                <subtype>accidentalSharp</subtype>
-                </Accidental>
-              <pitch>49</pitch>
-              <tpc>21</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>16th</durationType>
-            <Note>
-              <pitch>50</pitch>
-              <tpc>16</tpc>
-              </Note>
-            </Chord>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>3/4</duration>
+            </Rest>
           </voice>
         </Measure>
       <Measure>
@@ -1596,19 +1234,7 @@
               </Note>
             </Chord>
           </voice>
-        <voice>
-          <location>
-            <fractions>1/4</fractions>
-            </location>
-          <Chord>
-            <durationType>half</durationType>
-            <StemDirection>up</StemDirection>
-            <Note>
-              <pitch>53</pitch>
-              <tpc>13</tpc>
-              </Note>
-            </Chord>
-          </voice>
+        <voice/>
         <voice>
           <location>
             <fractions>1/4</fractions>
@@ -1636,358 +1262,33 @@
         </Measure>
       <Measure>
         <voice>
-          <Chord>
-            <dots>1</dots>
-            <durationType>eighth</durationType>
-            <Note>
-              <Accidental>
-                <subtype>accidentalSharp</subtype>
-                </Accidental>
-              <pitch>54</pitch>
-              <tpc>20</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>32nd</durationType>
-            <Spanner type="Slur">
-              <Slur>
-                <up>down</up>
-                </Slur>
-              <next>
-                <location>
-                  <fractions>1/32</fractions>
-                  </location>
-                </next>
-              </Spanner>
-            <Note>
-              <pitch>55</pitch>
-              <tpc>15</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>32nd</durationType>
-            <Spanner type="Slur">
-              <prev>
-                <location>
-                  <fractions>-1/32</fractions>
-                  </location>
-                </prev>
-              </Spanner>
-            <Note>
-              <pitch>57</pitch>
-              <tpc>17</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>16th</durationType>
-            <Spanner type="Slur">
-              <Slur>
-                </Slur>
-              <next>
-                <location>
-                  <fractions>3/16</fractions>
-                  </location>
-                </next>
-              </Spanner>
-            <Note>
-              <pitch>55</pitch>
-              <tpc>15</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>16th</durationType>
-            <Note>
-              <pitch>54</pitch>
-              <tpc>20</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>16th</durationType>
-            <Note>
-              <pitch>52</pitch>
-              <tpc>18</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>16th</durationType>
-            <Spanner type="Slur">
-              <prev>
-                <location>
-                  <fractions>-3/16</fractions>
-                  </location>
-                </prev>
-              </Spanner>
-            <Note>
-              <pitch>54</pitch>
-              <tpc>20</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>16th</durationType>
-            <Spanner type="Slur">
-              <Slur>
-                </Slur>
-              <next>
-                <location>
-                  <fractions>3/16</fractions>
-                  </location>
-                </next>
-              </Spanner>
-            <Note>
-              <pitch>55</pitch>
-              <tpc>15</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>16th</durationType>
-            <Note>
-              <pitch>52</pitch>
-              <tpc>18</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>16th</durationType>
-            <Note>
-              <pitch>54</pitch>
-              <tpc>20</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>16th</durationType>
-            <Spanner type="Slur">
-              <prev>
-                <location>
-                  <fractions>-3/16</fractions>
-                  </location>
-                </prev>
-              </Spanner>
-            <Note>
-              <pitch>57</pitch>
-              <tpc>17</tpc>
-              </Note>
-            </Chord>
-          </voice>
-        <voice>
-          <Chord>
-            <durationType>quarter</durationType>
-            <Note>
-              <pitch>36</pitch>
-              <tpc>14</tpc>
-              </Note>
-            <Note>
-              <pitch>45</pitch>
-              <tpc>17</tpc>
-              </Note>
-            </Chord>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>3/4</duration>
+            </Rest>
           </voice>
         </Measure>
       <Measure>
         <voice>
-          <Chord>
-            <dots>1</dots>
-            <durationType>eighth</durationType>
-            <Note>
-              <pitch>60</pitch>
-              <tpc>14</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>32nd</durationType>
-            <Spanner type="Slur">
-              <Slur>
-                <up>down</up>
-                </Slur>
-              <next>
-                <location>
-                  <fractions>1/32</fractions>
-                  </location>
-                </next>
-              </Spanner>
-            <Note>
-              <pitch>62</pitch>
-              <tpc>16</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>32nd</durationType>
-            <Spanner type="Slur">
-              <prev>
-                <location>
-                  <fractions>-1/32</fractions>
-                  </location>
-                </prev>
-              </Spanner>
-            <Note>
-              <pitch>64</pitch>
-              <tpc>18</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>16th</durationType>
-            <Spanner type="Slur">
-              <Slur>
-                </Slur>
-              <next>
-                <location>
-                  <fractions>3/16</fractions>
-                  </location>
-                </next>
-              </Spanner>
-            <Note>
-              <pitch>62</pitch>
-              <tpc>16</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>16th</durationType>
-            <Note>
-              <pitch>60</pitch>
-              <tpc>14</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>16th</durationType>
-            <Note>
-              <pitch>59</pitch>
-              <tpc>19</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>16th</durationType>
-            <Spanner type="Slur">
-              <prev>
-                <location>
-                  <fractions>-3/16</fractions>
-                  </location>
-                </prev>
-              </Spanner>
-            <Note>
-              <pitch>60</pitch>
-              <tpc>14</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>16th</durationType>
-            <Spanner type="Slur">
-              <Slur>
-                </Slur>
-              <next>
-                <location>
-                  <fractions>3/16</fractions>
-                  </location>
-                </next>
-              </Spanner>
-            <Note>
-              <pitch>62</pitch>
-              <tpc>16</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>16th</durationType>
-            <Note>
-              <pitch>59</pitch>
-              <tpc>19</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>16th</durationType>
-            <Note>
-              <pitch>60</pitch>
-              <tpc>14</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>16th</durationType>
-            <Spanner type="Slur">
-              <prev>
-                <location>
-                  <fractions>-3/16</fractions>
-                  </location>
-                </prev>
-              </Spanner>
-            <Note>
-              <pitch>64</pitch>
-              <tpc>18</tpc>
-              </Note>
-            </Chord>
-          </voice>
-        <voice>
-          <Chord>
-            <durationType>quarter</durationType>
-            <Note>
-              <pitch>45</pitch>
-              <tpc>17</tpc>
-              </Note>
-            <Note>
-              <Accidental>
-                <subtype>accidentalSharp</subtype>
-                </Accidental>
-              <pitch>54</pitch>
-              <tpc>20</tpc>
-              </Note>
-            </Chord>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>3/4</duration>
+            </Rest>
           </voice>
         </Measure>
       <Measure>
         <voice>
-          <Chord>
-            <durationType>eighth</durationType>
-            <Note>
-              <pitch>62</pitch>
-              <tpc>16</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>eighth</durationType>
-            <Note>
-              <pitch>47</pitch>
-              <tpc>19</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>eighth</durationType>
-            <Note>
-              <pitch>48</pitch>
-              <tpc>14</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>eighth</durationType>
-            <Note>
-              <pitch>57</pitch>
-              <tpc>17</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>eighth</durationType>
-            <Note>
-              <pitch>59</pitch>
-              <tpc>19</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>eighth</durationType>
-            <Note>
-              <pitch>60</pitch>
-              <tpc>14</tpc>
-              </Note>
-            </Chord>
-          </voice>
-        <voice>
-          <location>
-            <fractions>1/2</fractions>
-            </location>
-          <Chord>
-            <durationType>quarter</durationType>
-            <Note>
-              <pitch>50</pitch>
-              <tpc>16</tpc>
-              </Note>
-            </Chord>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>3/4</duration>
+            </Rest>
           </voice>
         </Measure>
       <Measure>
         <voice>
+          <Beam>
+            <StemDirection>up</StemDirection>
+            </Beam>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -2106,7 +1407,6 @@
             <durationType>16th</durationType>
             <Spanner type="Slur">
               <Slur>
-                <up>down</up>
                 </Slur>
               <next>
                 <location>
@@ -2284,15 +1584,6 @@
             </Chord>
           <Chord>
             <durationType>16th</durationType>
-            <Spanner type="Slur">
-              <Slur>
-                </Slur>
-              <next>
-                <location>
-                  <fractions>1/8</fractions>
-                  </location>
-                </next>
-              </Spanner>
             <Note>
               <pitch>62</pitch>
               <tpc>16</tpc>
@@ -2307,13 +1598,6 @@
             </Chord>
           <Chord>
             <durationType>16th</durationType>
-            <Spanner type="Slur">
-              <prev>
-                <location>
-                  <fractions>-1/8</fractions>
-                  </location>
-                </prev>
-              </Spanner>
             <Note>
               <Accidental>
                 <subtype>accidentalNatural</subtype>
@@ -2324,9 +1608,13 @@
             </Chord>
           </voice>
         <voice>
-          <location>
-            <fractions>1/4</fractions>
-            </location>
+          <Chord>
+            <durationType>quarter</durationType>
+            <Note>
+              <pitch>40</pitch>
+              <tpc>18</tpc>
+              </Note>
+            </Chord>
           <Chord>
             <durationType>quarter</durationType>
             <Note>
@@ -2422,6 +1710,18 @@
           <Chord>
             <durationType>half</durationType>
             <Note>
+              <pitch>36</pitch>
+              <tpc>14</tpc>
+              </Note>
+            <Note>
+              <pitch>43</pitch>
+              <tpc>15</tpc>
+              </Note>
+            <Note>
+              <pitch>52</pitch>
+              <tpc>18</tpc>
+              </Note>
+            <Note>
               <pitch>60</pitch>
               <tpc>14</tpc>
               </Note>
@@ -2429,43 +1729,6 @@
           <Fermata>
             <subtype>fermataAbove</subtype>
             </Fermata>
-          </voice>
-        <voice>
-          <location>
-            <fractions>1/4</fractions>
-            </location>
-          <Chord>
-            <durationType>half</durationType>
-            <StemDirection>up</StemDirection>
-            <Note>
-              <pitch>52</pitch>
-              <tpc>18</tpc>
-              </Note>
-            </Chord>
-          </voice>
-        <voice>
-          <location>
-            <fractions>1/4</fractions>
-            </location>
-          <Chord>
-            <durationType>half</durationType>
-            <Note>
-              <pitch>43</pitch>
-              <tpc>15</tpc>
-              </Note>
-            </Chord>
-          </voice>
-        <voice>
-          <location>
-            <fractions>1/4</fractions>
-            </location>
-          <Chord>
-            <durationType>half</durationType>
-            <Note>
-              <pitch>36</pitch>
-              <tpc>14</tpc>
-              </Note>
-            </Chord>
           </voice>
         </Measure>
       </Staff>
