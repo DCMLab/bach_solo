@@ -777,20 +777,15 @@
             </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <voice>
           <Rest>
             <durationType>measure</durationType>
             <duration>3/8</duration>
             </Rest>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>5/8</duration>
-            </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <LayoutBreak>
           <subtype>line</subtype>
           </LayoutBreak>
@@ -799,66 +794,41 @@
             <durationType>measure</durationType>
             <duration>3/8</duration>
             </Rest>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>5/8</duration>
-            </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <voice>
           <Rest>
             <durationType>measure</durationType>
             <duration>3/8</duration>
             </Rest>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>5/8</duration>
-            </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <voice>
           <Rest>
             <durationType>measure</durationType>
             <duration>3/8</duration>
             </Rest>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>5/8</duration>
-            </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <voice>
           <Rest>
             <durationType>measure</durationType>
             <duration>3/8</duration>
             </Rest>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>5/8</duration>
-            </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <voice>
           <Rest>
             <durationType>measure</durationType>
             <duration>3/8</duration>
             </Rest>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>5/8</duration>
-            </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <LayoutBreak>
           <subtype>line</subtype>
           </LayoutBreak>
@@ -867,66 +837,41 @@
             <durationType>measure</durationType>
             <duration>3/8</duration>
             </Rest>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>5/8</duration>
-            </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <voice>
           <Rest>
             <durationType>measure</durationType>
             <duration>3/8</duration>
             </Rest>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>5/8</duration>
-            </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <voice>
           <Rest>
             <durationType>measure</durationType>
             <duration>3/8</duration>
             </Rest>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>5/8</duration>
-            </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <voice>
           <Rest>
             <durationType>measure</durationType>
             <duration>3/8</duration>
             </Rest>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>5/8</duration>
-            </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <voice>
           <Rest>
             <durationType>measure</durationType>
             <duration>3/8</duration>
             </Rest>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>5/8</duration>
-            </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <LayoutBreak>
           <subtype>line</subtype>
           </LayoutBreak>
@@ -934,79 +879,6 @@
           <Rest>
             <durationType>measure</durationType>
             <duration>3/8</duration>
-            </Rest>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>5/8</duration>
-            </Rest>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <Rest>
-            <durationType>measure</durationType>
-            <duration>3/8</duration>
-            </Rest>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>5/8</duration>
-            </Rest>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <Rest>
-            <durationType>measure</durationType>
-            <duration>3/8</duration>
-            </Rest>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>5/8</duration>
-            </Rest>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <Rest>
-            <durationType>measure</durationType>
-            <duration>3/8</duration>
-            </Rest>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>5/8</duration>
-            </Rest>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <Rest>
-            <durationType>measure</durationType>
-            <duration>3/8</duration>
-            </Rest>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>5/8</duration>
-            </Rest>
-          </voice>
-        </Measure>
-      <Measure>
-        <LayoutBreak>
-          <subtype>line</subtype>
-          </LayoutBreak>
-        <voice>
-          <Rest>
-            <durationType>measure</durationType>
-            <duration>3/8</duration>
-            </Rest>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>5/8</duration>
             </Rest>
           </voice>
         </Measure>
@@ -1146,59 +1018,39 @@
             </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <voice>
           <Rest>
             <durationType>measure</durationType>
             <duration>3/8</duration>
             </Rest>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>5/8</duration>
-            </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <voice>
           <Rest>
             <durationType>measure</durationType>
             <duration>3/8</duration>
             </Rest>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>5/8</duration>
-            </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <voice>
           <Rest>
             <durationType>measure</durationType>
             <duration>3/8</duration>
             </Rest>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>5/8</duration>
-            </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <voice>
           <Rest>
             <durationType>measure</durationType>
             <duration>3/8</duration>
             </Rest>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>5/8</duration>
-            </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <LayoutBreak>
           <subtype>line</subtype>
           </LayoutBreak>
@@ -1207,66 +1059,41 @@
             <durationType>measure</durationType>
             <duration>3/8</duration>
             </Rest>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>5/8</duration>
-            </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <voice>
           <Rest>
             <durationType>measure</durationType>
             <duration>3/8</duration>
             </Rest>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>5/8</duration>
-            </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <voice>
           <Rest>
             <durationType>measure</durationType>
             <duration>3/8</duration>
             </Rest>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>5/8</duration>
-            </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <voice>
           <Rest>
             <durationType>measure</durationType>
             <duration>3/8</duration>
             </Rest>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>5/8</duration>
-            </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <voice>
           <Rest>
             <durationType>measure</durationType>
             <duration>3/8</duration>
             </Rest>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>5/8</duration>
-            </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <LayoutBreak>
           <subtype>line</subtype>
           </LayoutBreak>
@@ -1275,66 +1102,41 @@
             <durationType>measure</durationType>
             <duration>3/8</duration>
             </Rest>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>5/8</duration>
-            </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <voice>
           <Rest>
             <durationType>measure</durationType>
             <duration>3/8</duration>
             </Rest>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>5/8</duration>
-            </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <voice>
           <Rest>
             <durationType>measure</durationType>
             <duration>3/8</duration>
             </Rest>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>5/8</duration>
-            </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <voice>
           <Rest>
             <durationType>measure</durationType>
             <duration>3/8</duration>
             </Rest>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>5/8</duration>
-            </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <voice>
           <Rest>
             <durationType>measure</durationType>
             <duration>3/8</duration>
             </Rest>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>5/8</duration>
-            </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <LayoutBreak>
           <subtype>line</subtype>
           </LayoutBreak>
@@ -1343,66 +1145,41 @@
             <durationType>measure</durationType>
             <duration>3/8</duration>
             </Rest>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>5/8</duration>
-            </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <voice>
           <Rest>
             <durationType>measure</durationType>
             <duration>3/8</duration>
             </Rest>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>5/8</duration>
-            </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <voice>
           <Rest>
             <durationType>measure</durationType>
             <duration>3/8</duration>
             </Rest>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>5/8</duration>
-            </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <voice>
           <Rest>
             <durationType>measure</durationType>
             <duration>3/8</duration>
             </Rest>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>5/8</duration>
-            </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <voice>
           <Rest>
             <durationType>measure</durationType>
             <duration>3/8</duration>
             </Rest>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>5/8</duration>
-            </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <LayoutBreak>
           <subtype>line</subtype>
           </LayoutBreak>
@@ -1411,66 +1188,41 @@
             <durationType>measure</durationType>
             <duration>3/8</duration>
             </Rest>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>5/8</duration>
-            </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <voice>
           <Rest>
             <durationType>measure</durationType>
             <duration>3/8</duration>
             </Rest>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>5/8</duration>
-            </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <voice>
           <Rest>
             <durationType>measure</durationType>
             <duration>3/8</duration>
             </Rest>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>5/8</duration>
-            </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <voice>
           <Rest>
             <durationType>measure</durationType>
             <duration>3/8</duration>
             </Rest>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>5/8</duration>
-            </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <voice>
           <Rest>
             <durationType>measure</durationType>
             <duration>3/8</duration>
             </Rest>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>5/8</duration>
-            </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <LayoutBreak>
           <subtype>line</subtype>
           </LayoutBreak>
@@ -1479,10 +1231,58 @@
             <durationType>measure</durationType>
             <duration>3/8</duration>
             </Rest>
+          </voice>
+        </Measure>
+      <Measure len="3/8">
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>3/8</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>3/8</duration>
+            </Rest>
           <Rest>
             <dots>1</dots>
             <durationType>half</durationType>
             <duration>5/8</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>3/8</duration>
+            </Rest>
+          <Rest>
+            <dots>1</dots>
+            <durationType>half</durationType>
+            <duration>5/8</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure len="3/8">
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>3/8</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure len="3/8">
+        <LayoutBreak>
+          <subtype>line</subtype>
+          </LayoutBreak>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>3/8</duration>
             </Rest>
           </voice>
         </Measure>
@@ -1554,59 +1354,39 @@
             </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <voice>
           <Rest>
             <durationType>measure</durationType>
             <duration>3/8</duration>
             </Rest>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>5/8</duration>
-            </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <voice>
           <Rest>
             <durationType>measure</durationType>
             <duration>3/8</duration>
             </Rest>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>5/8</duration>
-            </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <voice>
           <Rest>
             <durationType>measure</durationType>
             <duration>3/8</duration>
             </Rest>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>5/8</duration>
-            </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <voice>
           <Rest>
             <durationType>measure</durationType>
             <duration>3/8</duration>
             </Rest>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>5/8</duration>
-            </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <LayoutBreak>
           <subtype>line</subtype>
           </LayoutBreak>
@@ -1615,66 +1395,41 @@
             <durationType>measure</durationType>
             <duration>3/8</duration>
             </Rest>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>5/8</duration>
-            </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <voice>
           <Rest>
             <durationType>measure</durationType>
             <duration>3/8</duration>
             </Rest>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>5/8</duration>
-            </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <voice>
           <Rest>
             <durationType>measure</durationType>
             <duration>3/8</duration>
             </Rest>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>5/8</duration>
-            </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <voice>
           <Rest>
             <durationType>measure</durationType>
             <duration>3/8</duration>
             </Rest>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>5/8</duration>
-            </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <voice>
           <Rest>
             <durationType>measure</durationType>
             <duration>3/8</duration>
             </Rest>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>5/8</duration>
-            </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <LayoutBreak>
           <subtype>line</subtype>
           </LayoutBreak>
@@ -1683,10 +1438,48 @@
             <durationType>measure</durationType>
             <duration>3/8</duration>
             </Rest>
+          </voice>
+        </Measure>
+      <Measure len="3/8">
+        <voice>
           <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>5/8</duration>
+            <durationType>measure</durationType>
+            <duration>3/8</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure len="3/8">
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>3/8</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure len="3/8">
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>3/8</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure len="3/8">
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>3/8</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure len="3/8">
+        <LayoutBreak>
+          <subtype>line</subtype>
+          </LayoutBreak>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>3/8</duration>
             </Rest>
           </voice>
         </Measure>
@@ -1894,59 +1687,39 @@
             </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <voice>
           <Rest>
             <durationType>measure</durationType>
             <duration>3/8</duration>
             </Rest>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>5/8</duration>
-            </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <voice>
           <Rest>
             <durationType>measure</durationType>
             <duration>3/8</duration>
             </Rest>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>5/8</duration>
-            </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <voice>
           <Rest>
             <durationType>measure</durationType>
             <duration>3/8</duration>
             </Rest>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>5/8</duration>
-            </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <voice>
           <Rest>
             <durationType>measure</durationType>
             <duration>3/8</duration>
             </Rest>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>5/8</duration>
-            </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <LayoutBreak>
           <subtype>line</subtype>
           </LayoutBreak>
@@ -1955,66 +1728,41 @@
             <durationType>measure</durationType>
             <duration>3/8</duration>
             </Rest>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>5/8</duration>
-            </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <voice>
           <Rest>
             <durationType>measure</durationType>
             <duration>3/8</duration>
             </Rest>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>5/8</duration>
-            </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <voice>
           <Rest>
             <durationType>measure</durationType>
             <duration>3/8</duration>
             </Rest>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>5/8</duration>
-            </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <voice>
           <Rest>
             <durationType>measure</durationType>
             <duration>3/8</duration>
             </Rest>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>5/8</duration>
-            </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <voice>
           <Rest>
             <durationType>measure</durationType>
             <duration>3/8</duration>
             </Rest>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>5/8</duration>
-            </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <LayoutBreak>
           <subtype>line</subtype>
           </LayoutBreak>
@@ -2023,66 +1771,41 @@
             <durationType>measure</durationType>
             <duration>3/8</duration>
             </Rest>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>5/8</duration>
-            </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <voice>
           <Rest>
             <durationType>measure</durationType>
             <duration>3/8</duration>
             </Rest>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>5/8</duration>
-            </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <voice>
           <Rest>
             <durationType>measure</durationType>
             <duration>3/8</duration>
             </Rest>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>5/8</duration>
-            </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <voice>
           <Rest>
             <durationType>measure</durationType>
             <duration>3/8</duration>
             </Rest>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>5/8</duration>
-            </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <voice>
           <Rest>
             <durationType>measure</durationType>
             <duration>3/8</duration>
             </Rest>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>5/8</duration>
-            </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <LayoutBreak>
           <subtype>line</subtype>
           </LayoutBreak>
@@ -2091,66 +1814,33 @@
             <durationType>measure</durationType>
             <duration>3/8</duration>
             </Rest>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>5/8</duration>
-            </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <voice>
           <Rest>
             <durationType>measure</durationType>
             <duration>3/8</duration>
             </Rest>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>5/8</duration>
-            </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <voice>
           <Rest>
             <durationType>measure</durationType>
             <duration>3/8</duration>
             </Rest>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>5/8</duration>
-            </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <voice>
           <Rest>
             <durationType>measure</durationType>
             <duration>3/8</duration>
             </Rest>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>5/8</duration>
-            </Rest>
           </voice>
         </Measure>
-      <Measure>
-        <voice>
-          <Rest>
-            <durationType>measure</durationType>
-            <duration>3/8</duration>
-            </Rest>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>5/8</duration>
-            </Rest>
-          </voice>
-        </Measure>
-      <Measure>
+      <Measure len="3/8">
         <LayoutBreak>
           <subtype>line</subtype>
           </LayoutBreak>
@@ -2158,66 +1848,6 @@
           <Rest>
             <durationType>measure</durationType>
             <duration>3/8</duration>
-            </Rest>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>5/8</duration>
-            </Rest>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <Rest>
-            <durationType>measure</durationType>
-            <duration>3/8</duration>
-            </Rest>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>5/8</duration>
-            </Rest>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <Rest>
-            <durationType>measure</durationType>
-            <duration>3/8</duration>
-            </Rest>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>5/8</duration>
-            </Rest>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <Rest>
-            <durationType>measure</durationType>
-            <duration>3/8</duration>
-            </Rest>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>5/8</duration>
-            </Rest>
-          </voice>
-        </Measure>
-      <Measure>
-        <LayoutBreak>
-          <subtype>line</subtype>
-          </LayoutBreak>
-        <voice>
-          <Rest>
-            <durationType>measure</durationType>
-            <duration>3/8</duration>
-            </Rest>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>5/8</duration>
             </Rest>
           </voice>
         </Measure>
@@ -2425,72 +2055,47 @@
             </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <voice>
           <Rest>
             <durationType>measure</durationType>
             <duration>3/8</duration>
             </Rest>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>5/8</duration>
-            </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <voice>
           <Rest>
             <durationType>measure</durationType>
             <duration>3/8</duration>
             </Rest>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>5/8</duration>
-            </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <voice>
           <Rest>
             <durationType>measure</durationType>
             <duration>3/8</duration>
             </Rest>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>5/8</duration>
-            </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <voice>
           <Rest>
             <durationType>measure</durationType>
             <duration>3/8</duration>
             </Rest>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>5/8</duration>
-            </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <voice>
           <Rest>
             <durationType>measure</durationType>
             <duration>3/8</duration>
             </Rest>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>5/8</duration>
-            </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <LayoutBreak>
           <subtype>line</subtype>
           </LayoutBreak>
@@ -2499,66 +2104,41 @@
             <durationType>measure</durationType>
             <duration>3/8</duration>
             </Rest>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>5/8</duration>
-            </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <voice>
           <Rest>
             <durationType>measure</durationType>
             <duration>3/8</duration>
             </Rest>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>5/8</duration>
-            </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="6/16">
         <voice>
           <Rest>
             <durationType>measure</durationType>
             <duration>3/8</duration>
             </Rest>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>5/8</duration>
-            </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="6/16">
         <voice>
           <Rest>
             <durationType>measure</durationType>
             <duration>3/8</duration>
             </Rest>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>5/8</duration>
-            </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="6/16">
         <voice>
           <Rest>
             <durationType>measure</durationType>
             <duration>3/8</duration>
             </Rest>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>5/8</duration>
-            </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="6/16">
         <LayoutBreak>
           <subtype>line</subtype>
           </LayoutBreak>
@@ -2567,79 +2147,49 @@
             <durationType>measure</durationType>
             <duration>3/8</duration>
             </Rest>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>5/8</duration>
-            </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="6/16">
         <voice>
           <Rest>
             <durationType>measure</durationType>
             <duration>3/8</duration>
             </Rest>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>5/8</duration>
-            </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="6/16">
         <voice>
           <Rest>
             <durationType>measure</durationType>
             <duration>3/8</duration>
             </Rest>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>5/8</duration>
-            </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="6/16">
         <voice>
           <Rest>
             <durationType>measure</durationType>
             <duration>3/8</duration>
             </Rest>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>5/8</duration>
-            </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="6/16">
         <voice>
           <Rest>
             <durationType>measure</durationType>
             <duration>3/8</duration>
             </Rest>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>5/8</duration>
-            </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="6/16">
         <voice>
           <Rest>
             <durationType>measure</durationType>
             <duration>3/8</duration>
             </Rest>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>5/8</duration>
-            </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="6/16">
         <LayoutBreak>
           <subtype>line</subtype>
           </LayoutBreak>
@@ -2648,79 +2198,49 @@
             <durationType>measure</durationType>
             <duration>3/8</duration>
             </Rest>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>5/8</duration>
-            </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="6/16">
         <voice>
           <Rest>
             <durationType>measure</durationType>
             <duration>3/8</duration>
             </Rest>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>5/8</duration>
-            </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="6/16">
         <voice>
           <Rest>
             <durationType>measure</durationType>
             <duration>3/8</duration>
             </Rest>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>5/8</duration>
-            </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="6/16">
         <voice>
           <Rest>
             <durationType>measure</durationType>
             <duration>3/8</duration>
             </Rest>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>5/8</duration>
-            </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="6/16">
         <voice>
           <Rest>
             <durationType>measure</durationType>
             <duration>3/8</duration>
             </Rest>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>5/8</duration>
-            </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="6/16">
         <voice>
           <Rest>
             <durationType>measure</durationType>
             <duration>3/8</duration>
             </Rest>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>5/8</duration>
-            </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="6/16">
         <LayoutBreak>
           <subtype>line</subtype>
           </LayoutBreak>
@@ -2728,11 +2248,6 @@
           <Rest>
             <durationType>measure</durationType>
             <duration>3/8</duration>
-            </Rest>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>5/8</duration>
             </Rest>
           </voice>
         </Measure>
@@ -6701,159 +6216,99 @@
             </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <voice>
           <Rest>
             <durationType>measure</durationType>
             <duration>3/8</duration>
-            </Rest>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>5/8</duration>
             </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <voice>
           <Rest>
             <durationType>measure</durationType>
             <duration>3/8</duration>
-            </Rest>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>5/8</duration>
             </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <voice>
           <Rest>
             <durationType>measure</durationType>
             <duration>3/8</duration>
-            </Rest>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>5/8</duration>
             </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <voice>
           <Rest>
             <durationType>measure</durationType>
             <duration>3/8</duration>
-            </Rest>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>5/8</duration>
             </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <voice>
           <Rest>
             <durationType>measure</durationType>
             <duration>3/8</duration>
-            </Rest>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>5/8</duration>
             </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <voice>
           <Rest>
             <durationType>measure</durationType>
             <duration>3/8</duration>
-            </Rest>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>5/8</duration>
             </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <voice>
           <Rest>
             <durationType>measure</durationType>
             <duration>3/8</duration>
-            </Rest>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>5/8</duration>
             </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <voice>
           <Rest>
             <durationType>measure</durationType>
             <duration>3/8</duration>
-            </Rest>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>5/8</duration>
             </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <voice>
           <Rest>
             <durationType>measure</durationType>
             <duration>3/8</duration>
-            </Rest>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>5/8</duration>
             </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <voice>
           <Rest>
             <durationType>measure</durationType>
             <duration>3/8</duration>
-            </Rest>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>5/8</duration>
             </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <voice>
           <Rest>
             <durationType>measure</durationType>
             <duration>3/8</duration>
-            </Rest>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>5/8</duration>
             </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <voice>
           <Rest>
             <durationType>measure</durationType>
             <duration>3/8</duration>
-            </Rest>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>5/8</duration>
             </Rest>
           </voice>
         </Measure>
@@ -6987,341 +6442,211 @@
             </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <voice>
           <Rest>
             <durationType>measure</durationType>
             <duration>3/8</duration>
-            </Rest>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>5/8</duration>
             </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <voice>
           <Rest>
             <durationType>measure</durationType>
             <duration>3/8</duration>
-            </Rest>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>5/8</duration>
             </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <voice>
           <Rest>
             <durationType>measure</durationType>
             <duration>3/8</duration>
-            </Rest>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>5/8</duration>
             </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <voice>
           <Rest>
             <durationType>measure</durationType>
             <duration>3/8</duration>
             </Rest>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>5/8</duration>
-            </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <voice>
           <Rest>
             <durationType>measure</durationType>
             <duration>3/8</duration>
-            </Rest>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>5/8</duration>
             </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <voice>
           <Rest>
             <durationType>measure</durationType>
             <duration>3/8</duration>
-            </Rest>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>5/8</duration>
             </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <voice>
           <Rest>
             <durationType>measure</durationType>
             <duration>3/8</duration>
-            </Rest>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>5/8</duration>
             </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <voice>
           <Rest>
             <durationType>measure</durationType>
             <duration>3/8</duration>
-            </Rest>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>5/8</duration>
             </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <voice>
           <Rest>
             <durationType>measure</durationType>
             <duration>3/8</duration>
             </Rest>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>5/8</duration>
-            </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <voice>
           <Rest>
             <durationType>measure</durationType>
             <duration>3/8</duration>
-            </Rest>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>5/8</duration>
             </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <voice>
           <Rest>
             <durationType>measure</durationType>
             <duration>3/8</duration>
-            </Rest>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>5/8</duration>
             </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <voice>
           <Rest>
             <durationType>measure</durationType>
             <duration>3/8</duration>
-            </Rest>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>5/8</duration>
             </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <voice>
           <Rest>
             <durationType>measure</durationType>
             <duration>3/8</duration>
-            </Rest>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>5/8</duration>
             </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <voice>
           <Rest>
             <durationType>measure</durationType>
             <duration>3/8</duration>
             </Rest>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>5/8</duration>
-            </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <voice>
           <Rest>
             <durationType>measure</durationType>
             <duration>3/8</duration>
-            </Rest>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>5/8</duration>
             </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <voice>
           <Rest>
             <durationType>measure</durationType>
             <duration>3/8</duration>
-            </Rest>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>5/8</duration>
             </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <voice>
           <Rest>
             <durationType>measure</durationType>
             <duration>3/8</duration>
-            </Rest>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>5/8</duration>
             </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <voice>
           <Rest>
             <durationType>measure</durationType>
             <duration>3/8</duration>
-            </Rest>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>5/8</duration>
             </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <voice>
           <Rest>
             <durationType>measure</durationType>
             <duration>3/8</duration>
-            </Rest>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>5/8</duration>
             </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <voice>
           <Rest>
             <durationType>measure</durationType>
             <duration>3/8</duration>
-            </Rest>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>5/8</duration>
             </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <voice>
           <Rest>
             <durationType>measure</durationType>
             <duration>3/8</duration>
-            </Rest>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>5/8</duration>
             </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <voice>
           <Rest>
             <durationType>measure</durationType>
             <duration>3/8</duration>
-            </Rest>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>5/8</duration>
             </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <voice>
           <Rest>
             <durationType>measure</durationType>
             <duration>3/8</duration>
-            </Rest>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>5/8</duration>
             </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <voice>
           <Rest>
             <durationType>measure</durationType>
             <duration>3/8</duration>
-            </Rest>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>5/8</duration>
             </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <voice>
           <Rest>
             <durationType>measure</durationType>
             <duration>3/8</duration>
-            </Rest>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>5/8</duration>
             </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <voice>
           <Rest>
             <durationType>measure</durationType>
             <duration>3/8</duration>
-            </Rest>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>5/8</duration>
             </Rest>
           </voice>
         </Measure>
@@ -7351,29 +6676,19 @@
             </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <voice>
           <Rest>
             <durationType>measure</durationType>
             <duration>3/8</duration>
-            </Rest>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>5/8</duration>
             </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <voice>
           <Rest>
             <durationType>measure</durationType>
             <duration>3/8</duration>
-            </Rest>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>5/8</duration>
             </Rest>
           </voice>
         </Measure>
@@ -7442,199 +6757,124 @@
             </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <voice>
           <Rest>
             <durationType>measure</durationType>
             <duration>3/8</duration>
-            </Rest>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>5/8</duration>
             </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <voice>
           <Rest>
             <durationType>measure</durationType>
             <duration>3/8</duration>
-            </Rest>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>5/8</duration>
             </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <voice>
           <Rest>
             <durationType>measure</durationType>
             <duration>3/8</duration>
             </Rest>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>5/8</duration>
-            </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <voice>
           <Rest>
             <durationType>measure</durationType>
             <duration>3/8</duration>
-            </Rest>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>5/8</duration>
             </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <voice>
           <Rest>
             <durationType>measure</durationType>
             <duration>3/8</duration>
-            </Rest>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>5/8</duration>
             </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <voice>
           <Rest>
             <durationType>measure</durationType>
             <duration>3/8</duration>
-            </Rest>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>5/8</duration>
             </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <voice>
           <Rest>
             <durationType>measure</durationType>
             <duration>3/8</duration>
-            </Rest>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>5/8</duration>
             </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <voice>
           <Rest>
             <durationType>measure</durationType>
             <duration>3/8</duration>
-            </Rest>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>5/8</duration>
             </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <voice>
           <Rest>
             <durationType>measure</durationType>
             <duration>3/8</duration>
-            </Rest>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>5/8</duration>
             </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <voice>
           <Rest>
             <durationType>measure</durationType>
             <duration>3/8</duration>
-            </Rest>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>5/8</duration>
             </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <voice>
           <Rest>
             <durationType>measure</durationType>
             <duration>3/8</duration>
-            </Rest>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>5/8</duration>
             </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <voice>
           <Rest>
             <durationType>measure</durationType>
             <duration>3/8</duration>
-            </Rest>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>5/8</duration>
             </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <voice>
           <Rest>
             <durationType>measure</durationType>
             <duration>3/8</duration>
-            </Rest>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>5/8</duration>
             </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <voice>
           <Rest>
             <durationType>measure</durationType>
             <duration>3/8</duration>
             </Rest>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>5/8</duration>
-            </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <voice>
           <Rest>
             <durationType>measure</durationType>
             <duration>3/8</duration>
             </Rest>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>5/8</duration>
-            </Rest>
           </voice>
         </Measure>
       <Measure>
@@ -7832,250 +7072,155 @@
             </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <voice>
           <Rest>
             <durationType>measure</durationType>
             <duration>3/8</duration>
-            </Rest>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>5/8</duration>
             </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <voice>
           <Rest>
             <durationType>measure</durationType>
             <duration>3/8</duration>
-            </Rest>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>5/8</duration>
             </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <voice>
           <Rest>
             <durationType>measure</durationType>
             <duration>3/8</duration>
-            </Rest>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>5/8</duration>
             </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <voice>
           <Rest>
             <durationType>measure</durationType>
             <duration>3/8</duration>
             </Rest>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>5/8</duration>
-            </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <voice>
           <Rest>
             <durationType>measure</durationType>
             <duration>3/8</duration>
-            </Rest>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>5/8</duration>
             </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <voice>
           <Rest>
             <durationType>measure</durationType>
             <duration>3/8</duration>
-            </Rest>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>5/8</duration>
             </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <voice>
           <Rest>
             <durationType>measure</durationType>
             <duration>3/8</duration>
-            </Rest>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>5/8</duration>
             </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <voice>
           <Rest>
             <durationType>measure</durationType>
             <duration>3/8</duration>
             </Rest>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>5/8</duration>
-            </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <voice>
           <Rest>
             <durationType>measure</durationType>
             <duration>3/8</duration>
-            </Rest>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>5/8</duration>
             </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <voice>
           <Rest>
             <durationType>measure</durationType>
             <duration>3/8</duration>
-            </Rest>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>5/8</duration>
             </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <voice>
           <Rest>
             <durationType>measure</durationType>
             <duration>3/8</duration>
-            </Rest>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>5/8</duration>
             </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <voice>
           <Rest>
             <durationType>measure</durationType>
             <duration>3/8</duration>
             </Rest>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>5/8</duration>
-            </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <voice>
           <Rest>
             <durationType>measure</durationType>
             <duration>3/8</duration>
-            </Rest>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>5/8</duration>
             </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <voice>
           <Rest>
             <durationType>measure</durationType>
             <duration>3/8</duration>
-            </Rest>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>5/8</duration>
             </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <voice>
           <Rest>
             <durationType>measure</durationType>
             <duration>3/8</duration>
-            </Rest>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>5/8</duration>
             </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <voice>
           <Rest>
             <durationType>measure</durationType>
             <duration>3/8</duration>
             </Rest>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>5/8</duration>
-            </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <voice>
           <Rest>
             <durationType>measure</durationType>
             <duration>3/8</duration>
-            </Rest>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>5/8</duration>
             </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <voice>
           <Rest>
             <durationType>measure</durationType>
             <duration>3/8</duration>
-            </Rest>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>5/8</duration>
             </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <voice>
           <Rest>
             <durationType>measure</durationType>
             <duration>3/8</duration>
-            </Rest>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>5/8</duration>
             </Rest>
           </voice>
         </Measure>
@@ -8274,302 +7419,187 @@
             </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <voice>
           <Rest>
             <durationType>measure</durationType>
             <duration>3/8</duration>
             </Rest>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>5/8</duration>
-            </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <voice>
           <Rest>
             <durationType>measure</durationType>
             <duration>3/8</duration>
-            </Rest>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>5/8</duration>
             </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <voice>
           <Rest>
             <durationType>measure</durationType>
             <duration>3/8</duration>
-            </Rest>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>5/8</duration>
             </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <voice>
           <Rest>
             <durationType>measure</durationType>
             <duration>3/8</duration>
-            </Rest>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>5/8</duration>
             </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <voice>
           <Rest>
             <durationType>measure</durationType>
             <duration>3/8</duration>
             </Rest>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>5/8</duration>
-            </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <voice>
           <Rest>
             <durationType>measure</durationType>
             <duration>3/8</duration>
-            </Rest>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>5/8</duration>
             </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <voice>
           <Rest>
             <durationType>measure</durationType>
             <duration>3/8</duration>
-            </Rest>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>5/8</duration>
             </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="6/16">
         <voice>
           <Rest>
             <durationType>measure</durationType>
             <duration>3/8</duration>
-            </Rest>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>5/8</duration>
             </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="6/16">
         <voice>
           <Rest>
             <durationType>measure</durationType>
             <duration>3/8</duration>
             </Rest>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>5/8</duration>
-            </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="6/16">
         <voice>
           <Rest>
             <durationType>measure</durationType>
             <duration>3/8</duration>
-            </Rest>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>5/8</duration>
             </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="6/16">
         <voice>
           <Rest>
             <durationType>measure</durationType>
             <duration>3/8</duration>
-            </Rest>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>5/8</duration>
             </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="6/16">
         <voice>
           <Rest>
             <durationType>measure</durationType>
             <duration>3/8</duration>
-            </Rest>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>5/8</duration>
             </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="6/16">
         <voice>
           <Rest>
             <durationType>measure</durationType>
             <duration>3/8</duration>
             </Rest>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>5/8</duration>
-            </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="6/16">
         <voice>
           <Rest>
             <durationType>measure</durationType>
             <duration>3/8</duration>
-            </Rest>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>5/8</duration>
             </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="6/16">
         <voice>
           <Rest>
             <durationType>measure</durationType>
             <duration>3/8</duration>
-            </Rest>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>5/8</duration>
             </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="6/16">
         <voice>
           <Rest>
             <durationType>measure</durationType>
             <duration>3/8</duration>
-            </Rest>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>5/8</duration>
             </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="6/16">
         <voice>
           <Rest>
             <durationType>measure</durationType>
             <duration>3/8</duration>
             </Rest>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>5/8</duration>
-            </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="6/16">
         <voice>
           <Rest>
             <durationType>measure</durationType>
             <duration>3/8</duration>
-            </Rest>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>5/8</duration>
             </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="6/16">
         <voice>
           <Rest>
             <durationType>measure</durationType>
             <duration>3/8</duration>
-            </Rest>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>5/8</duration>
             </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="6/16">
         <voice>
           <Rest>
             <durationType>measure</durationType>
             <duration>3/8</duration>
-            </Rest>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>5/8</duration>
             </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="6/16">
         <voice>
           <Rest>
             <durationType>measure</durationType>
             <duration>3/8</duration>
             </Rest>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>5/8</duration>
-            </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="6/16">
         <voice>
           <Rest>
             <durationType>measure</durationType>
             <duration>3/8</duration>
-            </Rest>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>5/8</duration>
             </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="6/16">
         <voice>
           <Rest>
             <durationType>measure</durationType>
             <duration>3/8</duration>
-            </Rest>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>5/8</duration>
             </Rest>
           </voice>
         </Measure>
@@ -24009,159 +23039,99 @@
             </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <voice>
           <Rest>
             <durationType>measure</durationType>
             <duration>3/8</duration>
-            </Rest>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>5/8</duration>
             </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <voice>
           <Rest>
             <durationType>measure</durationType>
             <duration>3/8</duration>
-            </Rest>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>5/8</duration>
             </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <voice>
           <Rest>
             <durationType>measure</durationType>
             <duration>3/8</duration>
-            </Rest>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>5/8</duration>
             </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <voice>
           <Rest>
             <durationType>measure</durationType>
             <duration>3/8</duration>
-            </Rest>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>5/8</duration>
             </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <voice>
           <Rest>
             <durationType>measure</durationType>
             <duration>3/8</duration>
-            </Rest>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>5/8</duration>
             </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <voice>
           <Rest>
             <durationType>measure</durationType>
             <duration>3/8</duration>
-            </Rest>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>5/8</duration>
             </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <voice>
           <Rest>
             <durationType>measure</durationType>
             <duration>3/8</duration>
-            </Rest>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>5/8</duration>
             </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <voice>
           <Rest>
             <durationType>measure</durationType>
             <duration>3/8</duration>
-            </Rest>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>5/8</duration>
             </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <voice>
           <Rest>
             <durationType>measure</durationType>
             <duration>3/8</duration>
-            </Rest>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>5/8</duration>
             </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <voice>
           <Rest>
             <durationType>measure</durationType>
             <duration>3/8</duration>
-            </Rest>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>5/8</duration>
             </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <voice>
           <Rest>
             <durationType>measure</durationType>
             <duration>3/8</duration>
-            </Rest>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>5/8</duration>
             </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <voice>
           <Rest>
             <durationType>measure</durationType>
             <duration>3/8</duration>
-            </Rest>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>5/8</duration>
             </Rest>
           </voice>
         </Measure>
@@ -24295,341 +23265,211 @@
             </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <voice>
           <Rest>
             <durationType>measure</durationType>
             <duration>3/8</duration>
-            </Rest>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>5/8</duration>
             </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <voice>
           <Rest>
             <durationType>measure</durationType>
             <duration>3/8</duration>
-            </Rest>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>5/8</duration>
             </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <voice>
           <Rest>
             <durationType>measure</durationType>
             <duration>3/8</duration>
-            </Rest>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>5/8</duration>
             </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <voice>
           <Rest>
             <durationType>measure</durationType>
             <duration>3/8</duration>
             </Rest>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>5/8</duration>
-            </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <voice>
           <Rest>
             <durationType>measure</durationType>
             <duration>3/8</duration>
-            </Rest>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>5/8</duration>
             </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <voice>
           <Rest>
             <durationType>measure</durationType>
             <duration>3/8</duration>
-            </Rest>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>5/8</duration>
             </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <voice>
           <Rest>
             <durationType>measure</durationType>
             <duration>3/8</duration>
-            </Rest>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>5/8</duration>
             </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <voice>
           <Rest>
             <durationType>measure</durationType>
             <duration>3/8</duration>
-            </Rest>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>5/8</duration>
             </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <voice>
           <Rest>
             <durationType>measure</durationType>
             <duration>3/8</duration>
             </Rest>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>5/8</duration>
-            </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <voice>
           <Rest>
             <durationType>measure</durationType>
             <duration>3/8</duration>
-            </Rest>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>5/8</duration>
             </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <voice>
           <Rest>
             <durationType>measure</durationType>
             <duration>3/8</duration>
-            </Rest>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>5/8</duration>
             </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <voice>
           <Rest>
             <durationType>measure</durationType>
             <duration>3/8</duration>
-            </Rest>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>5/8</duration>
             </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <voice>
           <Rest>
             <durationType>measure</durationType>
             <duration>3/8</duration>
-            </Rest>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>5/8</duration>
             </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <voice>
           <Rest>
             <durationType>measure</durationType>
             <duration>3/8</duration>
             </Rest>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>5/8</duration>
-            </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <voice>
           <Rest>
             <durationType>measure</durationType>
             <duration>3/8</duration>
-            </Rest>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>5/8</duration>
             </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <voice>
           <Rest>
             <durationType>measure</durationType>
             <duration>3/8</duration>
-            </Rest>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>5/8</duration>
             </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <voice>
           <Rest>
             <durationType>measure</durationType>
             <duration>3/8</duration>
-            </Rest>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>5/8</duration>
             </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <voice>
           <Rest>
             <durationType>measure</durationType>
             <duration>3/8</duration>
-            </Rest>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>5/8</duration>
             </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <voice>
           <Rest>
             <durationType>measure</durationType>
             <duration>3/8</duration>
-            </Rest>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>5/8</duration>
             </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <voice>
           <Rest>
             <durationType>measure</durationType>
             <duration>3/8</duration>
-            </Rest>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>5/8</duration>
             </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <voice>
           <Rest>
             <durationType>measure</durationType>
             <duration>3/8</duration>
-            </Rest>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>5/8</duration>
             </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <voice>
           <Rest>
             <durationType>measure</durationType>
             <duration>3/8</duration>
-            </Rest>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>5/8</duration>
             </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <voice>
           <Rest>
             <durationType>measure</durationType>
             <duration>3/8</duration>
-            </Rest>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>5/8</duration>
             </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <voice>
           <Rest>
             <durationType>measure</durationType>
             <duration>3/8</duration>
-            </Rest>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>5/8</duration>
             </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <voice>
           <Rest>
             <durationType>measure</durationType>
             <duration>3/8</duration>
-            </Rest>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>5/8</duration>
             </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <voice>
           <Rest>
             <durationType>measure</durationType>
             <duration>3/8</duration>
-            </Rest>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>5/8</duration>
             </Rest>
           </voice>
         </Measure>
@@ -24659,29 +23499,19 @@
             </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <voice>
           <Rest>
             <durationType>measure</durationType>
             <duration>3/8</duration>
-            </Rest>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>5/8</duration>
             </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <voice>
           <Rest>
             <durationType>measure</durationType>
             <duration>3/8</duration>
-            </Rest>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>5/8</duration>
             </Rest>
           </voice>
         </Measure>
@@ -24750,199 +23580,124 @@
             </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <voice>
           <Rest>
             <durationType>measure</durationType>
             <duration>3/8</duration>
-            </Rest>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>5/8</duration>
             </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <voice>
           <Rest>
             <durationType>measure</durationType>
             <duration>3/8</duration>
-            </Rest>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>5/8</duration>
             </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <voice>
           <Rest>
             <durationType>measure</durationType>
             <duration>3/8</duration>
             </Rest>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>5/8</duration>
-            </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <voice>
           <Rest>
             <durationType>measure</durationType>
             <duration>3/8</duration>
-            </Rest>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>5/8</duration>
             </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <voice>
           <Rest>
             <durationType>measure</durationType>
             <duration>3/8</duration>
-            </Rest>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>5/8</duration>
             </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <voice>
           <Rest>
             <durationType>measure</durationType>
             <duration>3/8</duration>
-            </Rest>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>5/8</duration>
             </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <voice>
           <Rest>
             <durationType>measure</durationType>
             <duration>3/8</duration>
-            </Rest>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>5/8</duration>
             </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <voice>
           <Rest>
             <durationType>measure</durationType>
             <duration>3/8</duration>
-            </Rest>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>5/8</duration>
             </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <voice>
           <Rest>
             <durationType>measure</durationType>
             <duration>3/8</duration>
-            </Rest>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>5/8</duration>
             </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <voice>
           <Rest>
             <durationType>measure</durationType>
             <duration>3/8</duration>
-            </Rest>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>5/8</duration>
             </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <voice>
           <Rest>
             <durationType>measure</durationType>
             <duration>3/8</duration>
-            </Rest>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>5/8</duration>
             </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <voice>
           <Rest>
             <durationType>measure</durationType>
             <duration>3/8</duration>
-            </Rest>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>5/8</duration>
             </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <voice>
           <Rest>
             <durationType>measure</durationType>
             <duration>3/8</duration>
-            </Rest>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>5/8</duration>
             </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <voice>
           <Rest>
             <durationType>measure</durationType>
             <duration>3/8</duration>
             </Rest>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>5/8</duration>
-            </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <voice>
           <Rest>
             <durationType>measure</durationType>
             <duration>3/8</duration>
             </Rest>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>5/8</duration>
-            </Rest>
           </voice>
         </Measure>
       <Measure>
@@ -25140,250 +23895,155 @@
             </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <voice>
           <Rest>
             <durationType>measure</durationType>
             <duration>3/8</duration>
-            </Rest>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>5/8</duration>
             </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <voice>
           <Rest>
             <durationType>measure</durationType>
             <duration>3/8</duration>
-            </Rest>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>5/8</duration>
             </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <voice>
           <Rest>
             <durationType>measure</durationType>
             <duration>3/8</duration>
-            </Rest>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>5/8</duration>
             </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <voice>
           <Rest>
             <durationType>measure</durationType>
             <duration>3/8</duration>
             </Rest>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>5/8</duration>
-            </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <voice>
           <Rest>
             <durationType>measure</durationType>
             <duration>3/8</duration>
-            </Rest>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>5/8</duration>
             </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <voice>
           <Rest>
             <durationType>measure</durationType>
             <duration>3/8</duration>
-            </Rest>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>5/8</duration>
             </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <voice>
           <Rest>
             <durationType>measure</durationType>
             <duration>3/8</duration>
-            </Rest>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>5/8</duration>
             </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <voice>
           <Rest>
             <durationType>measure</durationType>
             <duration>3/8</duration>
             </Rest>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>5/8</duration>
-            </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <voice>
           <Rest>
             <durationType>measure</durationType>
             <duration>3/8</duration>
-            </Rest>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>5/8</duration>
             </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <voice>
           <Rest>
             <durationType>measure</durationType>
             <duration>3/8</duration>
-            </Rest>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>5/8</duration>
             </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <voice>
           <Rest>
             <durationType>measure</durationType>
             <duration>3/8</duration>
-            </Rest>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>5/8</duration>
             </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <voice>
           <Rest>
             <durationType>measure</durationType>
             <duration>3/8</duration>
             </Rest>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>5/8</duration>
-            </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <voice>
           <Rest>
             <durationType>measure</durationType>
             <duration>3/8</duration>
-            </Rest>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>5/8</duration>
             </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <voice>
           <Rest>
             <durationType>measure</durationType>
             <duration>3/8</duration>
-            </Rest>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>5/8</duration>
             </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <voice>
           <Rest>
             <durationType>measure</durationType>
             <duration>3/8</duration>
-            </Rest>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>5/8</duration>
             </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <voice>
           <Rest>
             <durationType>measure</durationType>
             <duration>3/8</duration>
             </Rest>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>5/8</duration>
-            </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <voice>
           <Rest>
             <durationType>measure</durationType>
             <duration>3/8</duration>
-            </Rest>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>5/8</duration>
             </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <voice>
           <Rest>
             <durationType>measure</durationType>
             <duration>3/8</duration>
-            </Rest>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>5/8</duration>
             </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <voice>
           <Rest>
             <durationType>measure</durationType>
             <duration>3/8</duration>
-            </Rest>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>5/8</duration>
             </Rest>
           </voice>
         </Measure>
@@ -25582,302 +24242,187 @@
             </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <voice>
           <Rest>
             <durationType>measure</durationType>
             <duration>3/8</duration>
             </Rest>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>5/8</duration>
-            </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <voice>
           <Rest>
             <durationType>measure</durationType>
             <duration>3/8</duration>
-            </Rest>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>5/8</duration>
             </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <voice>
           <Rest>
             <durationType>measure</durationType>
             <duration>3/8</duration>
-            </Rest>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>5/8</duration>
             </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <voice>
           <Rest>
             <durationType>measure</durationType>
             <duration>3/8</duration>
-            </Rest>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>5/8</duration>
             </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <voice>
           <Rest>
             <durationType>measure</durationType>
             <duration>3/8</duration>
             </Rest>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>5/8</duration>
-            </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <voice>
           <Rest>
             <durationType>measure</durationType>
             <duration>3/8</duration>
-            </Rest>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>5/8</duration>
             </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <voice>
           <Rest>
             <durationType>measure</durationType>
             <duration>3/8</duration>
-            </Rest>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>5/8</duration>
             </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="6/16">
         <voice>
           <Rest>
             <durationType>measure</durationType>
             <duration>3/8</duration>
-            </Rest>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>5/8</duration>
             </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="6/16">
         <voice>
           <Rest>
             <durationType>measure</durationType>
             <duration>3/8</duration>
             </Rest>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>5/8</duration>
-            </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="6/16">
         <voice>
           <Rest>
             <durationType>measure</durationType>
             <duration>3/8</duration>
-            </Rest>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>5/8</duration>
             </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="6/16">
         <voice>
           <Rest>
             <durationType>measure</durationType>
             <duration>3/8</duration>
-            </Rest>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>5/8</duration>
             </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="6/16">
         <voice>
           <Rest>
             <durationType>measure</durationType>
             <duration>3/8</duration>
-            </Rest>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>5/8</duration>
             </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="6/16">
         <voice>
           <Rest>
             <durationType>measure</durationType>
             <duration>3/8</duration>
             </Rest>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>5/8</duration>
-            </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="6/16">
         <voice>
           <Rest>
             <durationType>measure</durationType>
             <duration>3/8</duration>
-            </Rest>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>5/8</duration>
             </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="6/16">
         <voice>
           <Rest>
             <durationType>measure</durationType>
             <duration>3/8</duration>
-            </Rest>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>5/8</duration>
             </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="6/16">
         <voice>
           <Rest>
             <durationType>measure</durationType>
             <duration>3/8</duration>
-            </Rest>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>5/8</duration>
             </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="6/16">
         <voice>
           <Rest>
             <durationType>measure</durationType>
             <duration>3/8</duration>
             </Rest>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>5/8</duration>
-            </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="6/16">
         <voice>
           <Rest>
             <durationType>measure</durationType>
             <duration>3/8</duration>
-            </Rest>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>5/8</duration>
             </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="6/16">
         <voice>
           <Rest>
             <durationType>measure</durationType>
             <duration>3/8</duration>
-            </Rest>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>5/8</duration>
             </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="6/16">
         <voice>
           <Rest>
             <durationType>measure</durationType>
             <duration>3/8</duration>
-            </Rest>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>5/8</duration>
             </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="6/16">
         <voice>
           <Rest>
             <durationType>measure</durationType>
             <duration>3/8</duration>
             </Rest>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>5/8</duration>
-            </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="6/16">
         <voice>
           <Rest>
             <durationType>measure</durationType>
             <duration>3/8</duration>
-            </Rest>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>5/8</duration>
             </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="6/16">
         <voice>
           <Rest>
             <durationType>measure</durationType>
             <duration>3/8</duration>
-            </Rest>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>5/8</duration>
             </Rest>
           </voice>
         </Measure>
@@ -33108,7 +31653,7 @@
             </Chord>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <voice>
           <Chord>
             <durationType>16th</durationType>
@@ -33155,11 +31700,6 @@
               <tpc>17</tpc>
               </Note>
             </Chord>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>10/16</duration>
-            </Rest>
           </voice>
         <voice>
           <location>
@@ -33181,7 +31721,7 @@
             </Chord>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <voice>
           <Chord>
             <durationType>16th</durationType>
@@ -33228,11 +31768,6 @@
               <tpc>16</tpc>
               </Note>
             </Chord>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>10/16</duration>
-            </Rest>
           </voice>
         <voice>
           <location>
@@ -33251,7 +31786,7 @@
             </Chord>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <voice>
           <Clef>
             <concertClefType>F</concertClefType>
@@ -33299,14 +31834,9 @@
               <tpc>15</tpc>
               </Note>
             </Chord>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>10/16</duration>
-            </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <voice>
           <Chord>
             <durationType>16th</durationType>
@@ -33350,14 +31880,9 @@
               <tpc>14</tpc>
               </Note>
             </Chord>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>10/16</duration>
-            </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <voice>
           <Chord>
             <durationType>16th</durationType>
@@ -33401,14 +31926,9 @@
               <tpc>13</tpc>
               </Note>
             </Chord>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>10/16</duration>
-            </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <voice>
           <Chord>
             <durationType>16th</durationType>
@@ -33452,14 +31972,9 @@
               <tpc>12</tpc>
               </Note>
             </Chord>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>10/16</duration>
-            </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <voice>
           <Chord>
             <durationType>16th</durationType>
@@ -33503,14 +32018,9 @@
               <tpc>11</tpc>
               </Note>
             </Chord>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>10/16</duration>
-            </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <voice>
           <Clef>
             <concertClefType>F</concertClefType>
@@ -33558,14 +32068,9 @@
               <tpc>14</tpc>
               </Note>
             </Chord>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>10/16</duration>
-            </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <voice>
           <Chord>
             <durationType>16th</durationType>
@@ -33612,14 +32117,9 @@
               <tpc>17</tpc>
               </Note>
             </Chord>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>10/16</duration>
-            </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <voice>
           <Chord>
             <durationType>16th</durationType>
@@ -33656,14 +32156,9 @@
               <tpc>12</tpc>
               </Note>
             </Chord>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>5/8</duration>
-            </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <voice>
           <Chord>
             <durationType>eighth</durationType>
@@ -33700,14 +32195,9 @@
               <tpc>10</tpc>
               </Note>
             </Chord>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>10/16</duration>
-            </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <voice>
           <Chord>
             <durationType>16th</durationType>
@@ -33751,11 +32241,6 @@
               <tpc>15</tpc>
               </Note>
             </Chord>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>10/16</duration>
-            </Rest>
           </voice>
         </Measure>
       <Measure>
@@ -34332,7 +32817,7 @@
             </Chord>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <voice>
           <Clef>
             <concertClefType>F</concertClefType>
@@ -34373,14 +32858,9 @@
               <tpc>11</tpc>
               </Note>
             </Chord>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>10/16</duration>
-            </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <voice>
           <Chord>
             <durationType>16th</durationType>
@@ -34424,14 +32904,9 @@
               <tpc>16</tpc>
               </Note>
             </Chord>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>10/16</duration>
-            </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <voice>
           <Chord>
             <durationType>16th</durationType>
@@ -34475,14 +32950,9 @@
               <tpc>14</tpc>
               </Note>
             </Chord>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>10/16</duration>
-            </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <voice>
           <Chord>
             <durationType>16th</durationType>
@@ -34532,14 +33002,9 @@
               <tpc>15</tpc>
               </Note>
             </Chord>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>10/16</duration>
-            </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <voice>
           <Chord>
             <durationType>16th</durationType>
@@ -34569,14 +33034,9 @@
               <tpc>16</tpc>
               </Note>
             </Chord>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>5/8</duration>
-            </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <voice>
           <Clef>
             <concertClefType>F</concertClefType>
@@ -34624,14 +33084,9 @@
               <tpc>11</tpc>
               </Note>
             </Chord>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>10/16</duration>
-            </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <voice>
           <Chord>
             <durationType>16th</durationType>
@@ -34681,14 +33136,9 @@
               <tpc>13</tpc>
               </Note>
             </Chord>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>10/16</duration>
-            </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <voice>
           <Chord>
             <durationType>16th</durationType>
@@ -34732,14 +33182,9 @@
               <tpc>14</tpc>
               </Note>
             </Chord>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>10/16</duration>
-            </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <voice>
           <Chord>
             <durationType>16th</durationType>
@@ -34786,14 +33231,9 @@
               <tpc>14</tpc>
               </Note>
             </Chord>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>10/16</duration>
-            </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <voice>
           <Chord>
             <durationType>16th</durationType>
@@ -34843,14 +33283,9 @@
               <tpc>13</tpc>
               </Note>
             </Chord>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>10/16</duration>
-            </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <voice>
           <Clef>
             <concertClefType>F</concertClefType>
@@ -34901,14 +33336,9 @@
               <tpc>19</tpc>
               </Note>
             </Chord>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>10/16</duration>
-            </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <voice>
           <Chord>
             <durationType>16th</durationType>
@@ -34958,14 +33388,9 @@
               <tpc>11</tpc>
               </Note>
             </Chord>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>10/16</duration>
-            </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <voice>
           <Chord>
             <durationType>16th</durationType>
@@ -35012,14 +33437,9 @@
               <tpc>10</tpc>
               </Note>
             </Chord>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>10/16</duration>
-            </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <voice>
           <Chord>
             <durationType>16th</durationType>
@@ -35063,14 +33483,9 @@
               <tpc>15</tpc>
               </Note>
             </Chord>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>10/16</duration>
-            </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <voice>
           <Chord>
             <durationType>16th</durationType>
@@ -35114,14 +33529,9 @@
               <tpc>12</tpc>
               </Note>
             </Chord>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>10/16</duration>
-            </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <voice>
           <Clef>
             <concertClefType>F</concertClefType>
@@ -35172,14 +33582,9 @@
               <tpc>17</tpc>
               </Note>
             </Chord>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>10/16</duration>
-            </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <voice>
           <Chord>
             <durationType>16th</durationType>
@@ -35223,14 +33628,9 @@
               <tpc>10</tpc>
               </Note>
             </Chord>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>10/16</duration>
-            </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <voice>
           <Chord>
             <durationType>16th</durationType>
@@ -35274,14 +33674,9 @@
               <tpc>12</tpc>
               </Note>
             </Chord>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>10/16</duration>
-            </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <voice>
           <Chord>
             <durationType>eighth</durationType>
@@ -35307,14 +33702,9 @@
               <tpc>17</tpc>
               </Note>
             </Chord>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>5/8</duration>
-            </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <voice>
           <Chord>
             <durationType>eighth</durationType>
@@ -35351,14 +33741,9 @@
               <tpc>12</tpc>
               </Note>
             </Chord>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>10/16</duration>
-            </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <voice>
           <Clef>
             <concertClefType>F</concertClefType>
@@ -35391,14 +33776,9 @@
               <tpc>8</tpc>
               </Note>
             </Chord>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>5/8</duration>
-            </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <voice>
           <Chord>
             <durationType>eighth</durationType>
@@ -35438,14 +33818,9 @@
               <tpc>15</tpc>
               </Note>
             </Chord>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>10/16</duration>
-            </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <voice>
           <Chord>
             <durationType>16th</durationType>
@@ -35498,14 +33873,9 @@
               <tpc>15</tpc>
               </Note>
             </Chord>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>10/16</duration>
-            </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <voice>
           <Chord>
             <durationType>16th</durationType>
@@ -35558,14 +33928,9 @@
               <tpc>14</tpc>
               </Note>
             </Chord>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>10/16</duration>
-            </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <voice>
           <Chord>
             <durationType>16th</durationType>
@@ -35612,14 +33977,9 @@
               <tpc>8</tpc>
               </Note>
             </Chord>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>10/16</duration>
-            </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <voice>
           <Clef>
             <concertClefType>F</concertClefType>
@@ -35639,11 +33999,6 @@
               <tpc>16</tpc>
               </Note>
             </Chord>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>5/8</duration>
-            </Rest>
           </voice>
         </Measure>
       <Measure>
@@ -35766,7 +34121,7 @@
             </Chord>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <voice>
           <Chord>
             <durationType>16th</durationType>
@@ -35813,14 +34168,9 @@
               <tpc>15</tpc>
               </Note>
             </Chord>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>10/16</duration>
-            </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <voice>
           <Chord>
             <durationType>16th</durationType>
@@ -35864,11 +34214,6 @@
               <tpc>14</tpc>
               </Note>
             </Chord>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>10/16</duration>
-            </Rest>
           </voice>
         </Measure>
       <Measure>
@@ -36181,7 +34526,7 @@
             </Chord>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <voice>
           <Clef>
             <concertClefType>F</concertClefType>
@@ -36229,14 +34574,9 @@
               <tpc>16</tpc>
               </Note>
             </Chord>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>10/16</duration>
-            </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <voice>
           <Chord>
             <durationType>16th</durationType>
@@ -36283,14 +34623,9 @@
               <tpc>10</tpc>
               </Note>
             </Chord>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>10/16</duration>
-            </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <voice>
           <Chord>
             <durationType>16th</durationType>
@@ -36337,14 +34672,9 @@
               <tpc>18</tpc>
               </Note>
             </Chord>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>10/16</duration>
-            </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <voice>
           <Chord>
             <durationType>16th</durationType>
@@ -36388,14 +34718,9 @@
               <tpc>15</tpc>
               </Note>
             </Chord>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>10/16</duration>
-            </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <voice>
           <Chord>
             <durationType>16th</durationType>
@@ -36439,14 +34764,9 @@
               <tpc>13</tpc>
               </Note>
             </Chord>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>10/16</duration>
-            </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <voice>
           <Clef>
             <concertClefType>F</concertClefType>
@@ -36497,14 +34817,9 @@
               <tpc>16</tpc>
               </Note>
             </Chord>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>10/16</duration>
-            </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <voice>
           <Chord>
             <durationType>16th</durationType>
@@ -36551,14 +34866,9 @@
               <tpc>15</tpc>
               </Note>
             </Chord>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>10/16</duration>
-            </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <voice>
           <Chord>
             <durationType>16th</durationType>
@@ -36602,14 +34912,9 @@
               <tpc>16</tpc>
               </Note>
             </Chord>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>10/16</duration>
-            </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <voice>
           <Chord>
             <durationType>16th</durationType>
@@ -36656,14 +34961,9 @@
               <tpc>15</tpc>
               </Note>
             </Chord>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>10/16</duration>
-            </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <voice>
           <Chord>
             <durationType>16th</durationType>
@@ -36710,14 +35010,9 @@
               <tpc>15</tpc>
               </Note>
             </Chord>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>10/16</duration>
-            </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <voice>
           <Clef>
             <concertClefType>F</concertClefType>
@@ -36768,14 +35063,9 @@
               <tpc>14</tpc>
               </Note>
             </Chord>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>10/16</duration>
-            </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <voice>
           <Chord>
             <durationType>16th</durationType>
@@ -36822,14 +35112,9 @@
               <tpc>12</tpc>
               </Note>
             </Chord>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>10/16</duration>
-            </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <voice>
           <Chord>
             <durationType>16th</durationType>
@@ -36876,14 +35161,9 @@
               <tpc>10</tpc>
               </Note>
             </Chord>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>10/16</duration>
-            </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <voice>
           <Chord>
             <durationType>16th</durationType>
@@ -36930,14 +35210,9 @@
               <tpc>15</tpc>
               </Note>
             </Chord>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>10/16</duration>
-            </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <voice>
           <Chord>
             <durationType>16th</durationType>
@@ -36981,11 +35256,6 @@
               <tpc>13</tpc>
               </Note>
             </Chord>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>10/16</duration>
-            </Rest>
           </voice>
         </Measure>
       <Measure>
@@ -37865,7 +36135,7 @@
             </Chord>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <voice>
           <Clef>
             <concertClefType>F</concertClefType>
@@ -37913,14 +36183,9 @@
               <tpc>15</tpc>
               </Note>
             </Chord>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>10/16</duration>
-            </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <voice>
           <Chord>
             <durationType>eighth</durationType>
@@ -37943,14 +36208,9 @@
               <tpc>16</tpc>
               </Note>
             </Chord>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>5/8</duration>
-            </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <voice>
           <Chord>
             <durationType>eighth</durationType>
@@ -37987,14 +36247,9 @@
               <tpc>11</tpc>
               </Note>
             </Chord>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>10/16</duration>
-            </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <voice>
           <Chord>
             <durationType>eighth</durationType>
@@ -38023,14 +36278,9 @@
               <tpc>19</tpc>
               </Note>
             </Chord>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>5/8</duration>
-            </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <voice>
           <Chord>
             <durationType>eighth</durationType>
@@ -38067,14 +36317,9 @@
               <tpc>14</tpc>
               </Note>
             </Chord>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>10/16</duration>
-            </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <voice>
           <Clef>
             <concertClefType>F</concertClefType>
@@ -38128,14 +36373,9 @@
               <tpc>13</tpc>
               </Note>
             </Chord>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>10/16</duration>
-            </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <voice>
           <Chord>
             <durationType>16th</durationType>
@@ -38185,14 +36425,9 @@
               <tpc>15</tpc>
               </Note>
             </Chord>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>10/16</duration>
-            </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <voice>
           <Chord>
             <durationType>16th</durationType>
@@ -38236,14 +36471,9 @@
               <tpc>16</tpc>
               </Note>
             </Chord>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>10/16</duration>
-            </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <voice>
           <Chord>
             <durationType>16th</durationType>
@@ -38287,14 +36517,9 @@
               <tpc>13</tpc>
               </Note>
             </Chord>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>10/16</duration>
-            </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <voice>
           <Chord>
             <durationType>16th</durationType>
@@ -38338,14 +36563,9 @@
               <tpc>16</tpc>
               </Note>
             </Chord>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>10/16</duration>
-            </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <voice>
           <Clef>
             <concertClefType>F</concertClefType>
@@ -38393,14 +36613,9 @@
               <tpc>12</tpc>
               </Note>
             </Chord>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>10/16</duration>
-            </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <voice>
           <Chord>
             <durationType>16th</durationType>
@@ -38447,14 +36662,9 @@
               <tpc>14</tpc>
               </Note>
             </Chord>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>10/16</duration>
-            </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <voice>
           <Chord>
             <durationType>16th</durationType>
@@ -38498,14 +36708,9 @@
               <tpc>11</tpc>
               </Note>
             </Chord>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>10/16</duration>
-            </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <voice>
           <Chord>
             <durationType>16th</durationType>
@@ -38549,14 +36754,9 @@
               <tpc>13</tpc>
               </Note>
             </Chord>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>10/16</duration>
-            </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <voice>
           <Chord>
             <durationType>16th</durationType>
@@ -38600,14 +36800,9 @@
               <tpc>10</tpc>
               </Note>
             </Chord>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>10/16</duration>
-            </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <voice>
           <Clef>
             <concertClefType>F</concertClefType>
@@ -38658,14 +36853,9 @@
               <tpc>19</tpc>
               </Note>
             </Chord>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>10/16</duration>
-            </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <voice>
           <Chord>
             <durationType>16th</durationType>
@@ -38709,14 +36899,9 @@
               <tpc>14</tpc>
               </Note>
             </Chord>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>10/16</duration>
-            </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <voice>
           <Chord>
             <durationType>16th</durationType>
@@ -38763,14 +36948,9 @@
               <tpc>16</tpc>
               </Note>
             </Chord>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>10/16</duration>
-            </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <voice>
           <Chord>
             <durationType>16th</durationType>
@@ -38817,11 +36997,6 @@
               <tpc>16</tpc>
               </Note>
             </Chord>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>10/16</duration>
-            </Rest>
           </voice>
         </Measure>
       <Measure>
@@ -39713,7 +37888,7 @@
             </Chord>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <voice>
           <Clef>
             <concertClefType>F</concertClefType>
@@ -39761,14 +37936,9 @@
               <tpc>13</tpc>
               </Note>
             </Chord>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>10/16</duration>
-            </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <voice>
           <Chord>
             <durationType>16th</durationType>
@@ -39818,14 +37988,9 @@
               <tpc>15</tpc>
               </Note>
             </Chord>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>10/16</duration>
-            </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <voice>
           <Chord>
             <durationType>16th</durationType>
@@ -39869,14 +38034,9 @@
               <tpc>14</tpc>
               </Note>
             </Chord>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>10/16</duration>
-            </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <voice>
           <Chord>
             <durationType>16th</durationType>
@@ -39923,14 +38083,9 @@
               <tpc>16</tpc>
               </Note>
             </Chord>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>10/16</duration>
-            </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <voice>
           <Chord>
             <durationType>16th</durationType>
@@ -39977,14 +38132,9 @@
               <tpc>15</tpc>
               </Note>
             </Chord>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>10/16</duration>
-            </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <voice>
           <Chord>
             <durationType>16th</durationType>
@@ -40037,14 +38187,9 @@
               <tpc>17</tpc>
               </Note>
             </Chord>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>10/16</duration>
-            </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <voice>
           <Clef>
             <concertClefType>F</concertClefType>
@@ -40098,14 +38243,9 @@
               <tpc>13</tpc>
               </Note>
             </Chord>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>10/16</duration>
-            </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="6/16">
         <voice>
           <Chord>
             <durationType>16th</durationType>
@@ -40149,14 +38289,9 @@
               <tpc>11</tpc>
               </Note>
             </Chord>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>10/16</duration>
-            </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="6/16">
         <voice>
           <Chord>
             <durationType>16th</durationType>
@@ -40200,14 +38335,9 @@
               <tpc>15</tpc>
               </Note>
             </Chord>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>10/16</duration>
-            </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="6/16">
         <voice>
           <Chord>
             <durationType>16th</durationType>
@@ -40254,14 +38384,9 @@
               <tpc>14</tpc>
               </Note>
             </Chord>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>10/16</duration>
-            </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="6/16">
         <voice>
           <Chord>
             <durationType>16th</durationType>
@@ -40311,14 +38436,9 @@
               <tpc>17</tpc>
               </Note>
             </Chord>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>10/16</duration>
-            </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="6/16">
         <voice>
           <Clef>
             <concertClefType>F</concertClefType>
@@ -40376,14 +38496,9 @@
               <tpc>19</tpc>
               </Note>
             </Chord>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>10/16</duration>
-            </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="6/16">
         <voice>
           <Chord>
             <durationType>16th</durationType>
@@ -40430,14 +38545,9 @@
               <tpc>15</tpc>
               </Note>
             </Chord>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>10/16</duration>
-            </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="6/16">
         <voice>
           <Chord>
             <durationType>eighth</durationType>
@@ -40480,14 +38590,9 @@
               <tpc>15</tpc>
               </Note>
             </Chord>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>10/16</duration>
-            </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="6/16">
         <voice>
           <Chord>
             <durationType>eighth</durationType>
@@ -40510,14 +38615,9 @@
               <tpc>13</tpc>
               </Note>
             </Chord>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>5/8</duration>
-            </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="6/16">
         <voice>
           <Chord>
             <durationType>eighth</durationType>
@@ -40554,14 +38654,9 @@
               <tpc>15</tpc>
               </Note>
             </Chord>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>10/16</duration>
-            </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="6/16">
         <voice>
           <Chord>
             <durationType>eighth</durationType>
@@ -40584,14 +38679,9 @@
               <tpc>16</tpc>
               </Note>
             </Chord>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>5/8</duration>
-            </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="6/16">
         <voice>
           <Clef>
             <concertClefType>F</concertClefType>
@@ -40632,14 +38722,9 @@
               <tpc>11</tpc>
               </Note>
             </Chord>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>10/16</duration>
-            </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="6/16">
         <voice>
           <Chord>
             <durationType>eighth</durationType>
@@ -40668,14 +38753,9 @@
               <tpc>19</tpc>
               </Note>
             </Chord>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>5/8</duration>
-            </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="6/16">
         <voice>
           <Chord>
             <durationType>eighth</durationType>
@@ -40712,14 +38792,9 @@
               <tpc>14</tpc>
               </Note>
             </Chord>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>10/16</duration>
-            </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="6/16">
         <voice>
           <Chord>
             <durationType>eighth</durationType>
@@ -40762,14 +38837,9 @@
               <tpc>14</tpc>
               </Note>
             </Chord>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>10/16</duration>
-            </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="6/16">
         <voice>
           <Chord>
             <durationType>16th</durationType>
@@ -40819,14 +38889,9 @@
               <tpc>16</tpc>
               </Note>
             </Chord>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>10/16</duration>
-            </Rest>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="6/16">
         <voice>
           <Chord>
             <durationType>16th</durationType>
@@ -40876,11 +38941,6 @@
               <tpc>14</tpc>
               </Note>
             </Chord>
-          <Rest>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <duration>10/16</duration>
-            </Rest>
           </voice>
         </Measure>
       <Measure>
