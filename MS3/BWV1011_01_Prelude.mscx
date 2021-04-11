@@ -771,7 +771,11 @@
               <tpc>10</tpc>
               </Note>
             </Chord>
+          <Beam>
+            <StemDirection>up</StemDirection>
+            </Beam>
           <Chord>
+            <BeamMode>begin</BeamMode>
             <dots>1</dots>
             <durationType>eighth</durationType>
             <Note>
@@ -1091,6 +1095,7 @@
             <durationType>quarter</durationType>
             <Articulation>
               <subtype>ornamentTrill</subtype>
+              <offset x="0" y="0.9"/>
               </Articulation>
             <Note>
               <pitch>51</pitch>
@@ -1310,6 +1315,7 @@
               </Note>
             </Chord>
           <Chord>
+            <BeamMode>begin</BeamMode>
             <dots>1</dots>
             <durationType>eighth</durationType>
             <Note>
@@ -1718,6 +1724,15 @@
               </Note>
             </Chord>
           </voice>
+        <voice>
+          <Chord>
+            <durationType>quarter</durationType>
+            <Note>
+              <pitch>53</pitch>
+              <tpc>13</tpc>
+              </Note>
+            </Chord>
+          </voice>
         </Measure>
       <Measure>
         <voice>
@@ -1819,9 +1834,6 @@
               <tpc>12</tpc>
               </Note>
             </Chord>
-          <location>
-            <fractions>1/4</fractions>
-            </location>
           </voice>
         </Measure>
       <Measure>
@@ -13762,6 +13774,7 @@
             <durationType>16th</durationType>
             <Spanner type="Slur">
               <Slur>
+                <up>down</up>
                 </Slur>
               <next>
                 <location>
@@ -13836,6 +13849,7 @@
             <durationType>16th</durationType>
             <Spanner type="Slur">
               <Slur>
+                <up>down</up>
                 </Slur>
               <next>
                 <location>
