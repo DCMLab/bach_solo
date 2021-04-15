@@ -437,6 +437,7 @@
             <durationType>quarter</durationType>
             <Articulation>
               <subtype>ornamentTrill</subtype>
+              <offset x="0" y="1"/>
               </Articulation>
             <Note>
               <pitch>51</pitch>
@@ -3017,9 +3018,6 @@
               <tpc>13</tpc>
               </Note>
             </Chord>
-          <location>
-            <fractions>1/4</fractions>
-            </location>
           </voice>
         </Measure>
       <Measure>
@@ -3790,10 +3788,7 @@
               </Note>
             </Chord>
           <location>
-            <fractions>1/8</fractions>
-            </location>
-          <location>
-            <fractions>1/4</fractions>
+            <fractions>3/8</fractions>
             </location>
           <Chord>
             <durationType>quarter</durationType>
@@ -3921,9 +3916,6 @@
               <tpc>14</tpc>
               </Note>
             </Chord>
-          <location>
-            <fractions>1/4</fractions>
-            </location>
           </voice>
         </Measure>
       <Measure>
