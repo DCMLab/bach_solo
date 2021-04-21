@@ -168,6 +168,7 @@
               </Note>
             </Chord>
           <Chord>
+            <BeamMode>mid</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <pitch>72</pitch>
@@ -182,6 +183,7 @@
               </Note>
             </Chord>
           <Chord>
+            <BeamMode>mid</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <Accidental>
@@ -248,6 +250,7 @@
               </Note>
             </Chord>
           <Chord>
+            <BeamMode>mid</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <pitch>71</pitch>
@@ -262,6 +265,7 @@
               </Note>
             </Chord>
           <Chord>
+            <BeamMode>mid</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <pitch>77</pitch>
@@ -294,6 +298,7 @@
               </Note>
             </Chord>
           <Chord>
+            <BeamMode>mid</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <pitch>72</pitch>
@@ -333,6 +338,7 @@
               </Note>
             </Chord>
           <Chord>
+            <BeamMode>mid</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <pitch>72</pitch>
@@ -347,6 +353,7 @@
               </Note>
             </Chord>
           <Chord>
+            <BeamMode>mid</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <Accidental>
@@ -410,6 +417,7 @@
               </Note>
             </Chord>
           <Chord>
+            <BeamMode>mid</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <pitch>71</pitch>
@@ -424,6 +432,7 @@
               </Note>
             </Chord>
           <Chord>
+            <BeamMode>mid</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <Accidental>
@@ -440,10 +449,6 @@
               <tpc>15</tpc>
               </Note>
             </Chord>
-          <Clef>
-            <concertClefType>G</concertClefType>
-            <transposingClefType>G</transposingClefType>
-            </Clef>
           </voice>
         </Measure>
       <Measure>
@@ -457,6 +462,9 @@
             </Chord>
           <Chord>
             <durationType>quarter</durationType>
+            <Articulation>
+              <subtype>ornamentShortTrill</subtype>
+              </Articulation>
             <Note>
               <pitch>74</pitch>
               <tpc>16</tpc>
@@ -495,6 +503,7 @@
               </Note>
             </Chord>
           <Chord>
+            <BeamMode>mid</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <pitch>74</pitch>
@@ -509,6 +518,7 @@
               </Note>
             </Chord>
           <Chord>
+            <BeamMode>mid</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <pitch>71</pitch>
@@ -762,10 +772,6 @@
               <tpc>15</tpc>
               </Note>
             </Chord>
-          <Clef>
-            <concertClefType>G</concertClefType>
-            <transposingClefType>G</transposingClefType>
-            </Clef>
           </voice>
         </Measure>
       <Measure>
@@ -998,6 +1004,7 @@
           </voice>
         </Measure>
       <Measure>
+        <endRepeat>2</endRepeat>
         <voice>
           <Chord>
             <dots>1</dots>
@@ -1007,10 +1014,6 @@
               <tpc>14</tpc>
               </Note>
             </Chord>
-          <Clef>
-            <concertClefType>G</concertClefType>
-            <transposingClefType>G</transposingClefType>
-            </Clef>
           </voice>
         </Measure>
       <Measure>
@@ -1030,6 +1033,7 @@
               </Note>
             </Chord>
           <Chord>
+            <BeamMode>mid</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <pitch>71</pitch>
@@ -1044,6 +1048,7 @@
               </Note>
             </Chord>
           <Chord>
+            <BeamMode>mid</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <pitch>81</pitch>
@@ -1101,6 +1106,7 @@
               </Note>
             </Chord>
           <Chord>
+            <BeamMode>mid</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <Accidental>
@@ -1118,6 +1124,7 @@
               </Note>
             </Chord>
           <Chord>
+            <BeamMode>mid</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <pitch>83</pitch>
@@ -1275,10 +1282,6 @@
               <tpc>17</tpc>
               </Note>
             </Chord>
-          <Clef>
-            <concertClefType>G</concertClefType>
-            <transposingClefType>G</transposingClefType>
-            </Clef>
           </voice>
         </Measure>
       <Measure>
@@ -1497,6 +1500,7 @@
               </Note>
             </Chord>
           <Chord>
+            <BeamMode>mid</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <pitch>69</pitch>
@@ -1504,6 +1508,7 @@
               </Note>
             </Chord>
           <Chord>
+            <BeamMode>mid</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <pitch>65</pitch>
@@ -1518,6 +1523,7 @@
               </Note>
             </Chord>
           <Chord>
+            <BeamMode>mid</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <pitch>65</pitch>
@@ -1550,6 +1556,7 @@
               </Note>
             </Chord>
           <Chord>
+            <BeamMode>mid</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <pitch>74</pitch>
@@ -1564,6 +1571,7 @@
               </Note>
             </Chord>
           <Chord>
+            <BeamMode>mid</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <pitch>81</pitch>
@@ -1577,10 +1585,6 @@
               <tpc>15</tpc>
               </Note>
             </Chord>
-          <Clef>
-            <concertClefType>G</concertClefType>
-            <transposingClefType>G</transposingClefType>
-            </Clef>
           </voice>
         </Measure>
       <Measure>
@@ -1600,6 +1604,7 @@
               </Note>
             </Chord>
           <Chord>
+            <BeamMode>mid</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <pitch>74</pitch>
@@ -1614,6 +1619,7 @@
               </Note>
             </Chord>
           <Chord>
+            <BeamMode>mid</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <Accidental>
@@ -1652,6 +1658,7 @@
               </Note>
             </Chord>
           <Chord>
+            <BeamMode>mid</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <pitch>71</pitch>
@@ -1666,6 +1673,7 @@
               </Note>
             </Chord>
           <Chord>
+            <BeamMode>mid</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <pitch>77</pitch>
@@ -1698,6 +1706,7 @@
               </Note>
             </Chord>
           <Chord>
+            <BeamMode>mid</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <pitch>71</pitch>
@@ -1712,6 +1721,7 @@
               </Note>
             </Chord>
           <Chord>
+            <BeamMode>mid</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <pitch>81</pitch>
@@ -1744,6 +1754,7 @@
               </Note>
             </Chord>
           <Chord>
+            <BeamMode>mid</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <pitch>83</pitch>
@@ -1758,6 +1769,7 @@
               </Note>
             </Chord>
           <Chord>
+            <BeamMode>mid</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <Accidental>
@@ -1793,6 +1805,7 @@
               </Note>
             </Chord>
           <Chord>
+            <BeamMode>mid</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <pitch>83</pitch>
@@ -1807,6 +1820,7 @@
               </Note>
             </Chord>
           <Chord>
+            <BeamMode>mid</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <Accidental>
@@ -1823,10 +1837,6 @@
               <tpc>17</tpc>
               </Note>
             </Chord>
-          <Clef>
-            <concertClefType>G</concertClefType>
-            <transposingClefType>G</transposingClefType>
-            </Clef>
           </voice>
         </Measure>
       <Measure>
@@ -1938,6 +1948,7 @@
               </Note>
             </Chord>
           <Chord>
+            <BeamMode>mid</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <pitch>72</pitch>
@@ -1952,6 +1963,7 @@
               </Note>
             </Chord>
           <Chord>
+            <BeamMode>mid</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <Accidental>
@@ -2008,6 +2020,7 @@
               </Note>
             </Chord>
           <Chord>
+            <BeamMode>mid</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <pitch>72</pitch>
@@ -2015,6 +2028,7 @@
               </Note>
             </Chord>
           <Chord>
+            <BeamMode>mid</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <pitch>74</pitch>
@@ -2029,6 +2043,7 @@
               </Note>
             </Chord>
           <Chord>
+            <BeamMode>mid</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <pitch>76</pitch>
@@ -2054,6 +2069,7 @@
               </Note>
             </Chord>
           <Chord>
+            <BeamMode>mid</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <Accidental>
@@ -2064,6 +2080,7 @@
               </Note>
             </Chord>
           <Chord>
+            <BeamMode>mid</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <pitch>81</pitch>
@@ -2081,6 +2098,7 @@
               </Note>
             </Chord>
           <Chord>
+            <BeamMode>mid</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <pitch>80</pitch>
@@ -2094,10 +2112,6 @@
               <tpc>19</tpc>
               </Note>
             </Chord>
-          <Clef>
-            <concertClefType>G</concertClefType>
-            <transposingClefType>G</transposingClefType>
-            </Clef>
           </voice>
         </Measure>
       <Measure>
@@ -2117,6 +2131,7 @@
               </Note>
             </Chord>
           <Chord>
+            <BeamMode>mid</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <pitch>71</pitch>
@@ -2131,6 +2146,7 @@
               </Note>
             </Chord>
           <Chord>
+            <BeamMode>mid</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <Accidental>
@@ -2399,10 +2415,6 @@
               <tpc>18</tpc>
               </Note>
             </Chord>
-          <Clef>
-            <concertClefType>G</concertClefType>
-            <transposingClefType>G</transposingClefType>
-            </Clef>
           </voice>
         </Measure>
       <Measure>
@@ -2651,6 +2663,7 @@
           </voice>
         </Measure>
       <Measure>
+        <endRepeat>2</endRepeat>
         <voice>
           <Fermata>
             <subtype>fermataAbove</subtype>

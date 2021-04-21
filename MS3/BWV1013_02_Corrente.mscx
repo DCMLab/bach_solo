@@ -401,10 +401,6 @@
               <tpc>16</tpc>
               </Note>
             </Chord>
-          <Clef>
-            <concertClefType>G</concertClefType>
-            <transposingClefType>G</transposingClefType>
-            </Clef>
           </voice>
         </Measure>
       <Measure>
@@ -468,6 +464,10 @@
           <Chord>
             <durationType>16th</durationType>
             <Note>
+              <Accidental>
+                <role>1</role>
+                <subtype>accidentalNatural</subtype>
+                </Accidental>
               <pitch>79</pitch>
               <tpc>15</tpc>
               </Note>
@@ -475,6 +475,10 @@
           <Chord>
             <durationType>16th</durationType>
             <Note>
+              <Accidental>
+                <role>1</role>
+                <subtype>accidentalNatural</subtype>
+                </Accidental>
               <pitch>77</pitch>
               <tpc>13</tpc>
               </Note>
@@ -655,10 +659,6 @@
               <tpc>13</tpc>
               </Note>
             </Chord>
-          <Clef>
-            <concertClefType>G</concertClefType>
-            <transposingClefType>G</transposingClefType>
-            </Clef>
           </voice>
         </Measure>
       <Measure>
@@ -844,6 +844,7 @@
             <durationType>quarter</durationType>
             <Articulation>
               <subtype>ornamentTrill</subtype>
+              <offset x="0.294159" y="1.02956"/>
               </Articulation>
             <Note>
               <pitch>71</pitch>
@@ -892,10 +893,6 @@
               <tpc>18</tpc>
               </Note>
             </Chord>
-          <Clef>
-            <concertClefType>G</concertClefType>
-            <transposingClefType>G</transposingClefType>
-            </Clef>
           </voice>
         </Measure>
       <Measure>
@@ -1065,10 +1062,10 @@
             <durationType>16th</durationType>
             <Note>
               <Accidental>
-                <subtype>accidentalFlat</subtype>
+                <subtype>accidentalSharp</subtype>
                 </Accidental>
               <pitch>63</pitch>
-              <tpc>11</tpc>
+              <tpc>23</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -1096,7 +1093,7 @@
             <durationType>16th</durationType>
             <Note>
               <pitch>63</pitch>
-              <tpc>11</tpc>
+              <tpc>23</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -1137,6 +1134,10 @@
           <Chord>
             <durationType>16th</durationType>
             <Note>
+              <Accidental>
+                <role>1</role>
+                <subtype>accidentalNatural</subtype>
+                </Accidental>
               <pitch>79</pitch>
               <tpc>15</tpc>
               </Note>
@@ -1151,10 +1152,6 @@
               <tpc>20</tpc>
               </Note>
             </Chord>
-          <Clef>
-            <concertClefType>G</concertClefType>
-            <transposingClefType>G</transposingClefType>
-            </Clef>
           </voice>
         </Measure>
       <Measure>
@@ -1460,10 +1457,6 @@
               <tpc>17</tpc>
               </Note>
             </Chord>
-          <Clef>
-            <concertClefType>G</concertClefType>
-            <transposingClefType>G</transposingClefType>
-            </Clef>
           </voice>
         </Measure>
       <Measure>
@@ -1473,10 +1466,10 @@
             <durationType>quarter</durationType>
             <Note>
               <Accidental>
-                <subtype>accidentalFlat</subtype>
+                <subtype>accidentalSharp</subtype>
                 </Accidental>
               <pitch>87</pitch>
-              <tpc>11</tpc>
+              <tpc>23</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -1612,10 +1605,10 @@
             <durationType>16th</durationType>
             <Note>
               <Accidental>
-                <subtype>accidentalFlat</subtype>
+                <subtype>accidentalSharp</subtype>
                 </Accidental>
               <pitch>75</pitch>
-              <tpc>11</tpc>
+              <tpc>23</tpc>
               </Note>
             </Chord>
           </voice>
@@ -1633,18 +1626,15 @@
             <durationType>16th</durationType>
             <Note>
               <Accidental>
-                <subtype>accidentalFlat</subtype>
+                <subtype>accidentalSharp</subtype>
                 </Accidental>
               <pitch>70</pitch>
-              <tpc>12</tpc>
+              <tpc>24</tpc>
               </Note>
             </Chord>
           <Chord>
             <durationType>16th</durationType>
             <Note>
-              <Accidental>
-                <subtype>accidentalNatural</subtype>
-                </Accidental>
               <pitch>71</pitch>
               <tpc>19</tpc>
               </Note>
@@ -1687,10 +1677,10 @@
             <durationType>16th</durationType>
             <Note>
               <Accidental>
-                <subtype>accidentalFlat</subtype>
+                <subtype>accidentalSharp</subtype>
                 </Accidental>
               <pitch>75</pitch>
-              <tpc>11</tpc>
+              <tpc>23</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -1700,10 +1690,6 @@
               <tpc>21</tpc>
               </Note>
             </Chord>
-          <Clef>
-            <concertClefType>G</concertClefType>
-            <transposingClefType>G</transposingClefType>
-            </Clef>
           </voice>
         </Measure>
       <Measure>
@@ -1712,10 +1698,10 @@
             <durationType>eighth</durationType>
             <Note>
               <Accidental>
-                <subtype>accidentalFlat</subtype>
+                <subtype>accidentalSharp</subtype>
                 </Accidental>
               <pitch>75</pitch>
-              <tpc>11</tpc>
+              <tpc>23</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -1752,9 +1738,6 @@
           <Chord>
             <durationType>16th</durationType>
             <Note>
-              <Accidental>
-                <subtype>accidentalNatural</subtype>
-                </Accidental>
               <pitch>76</pitch>
               <tpc>18</tpc>
               </Note>
@@ -1762,11 +1745,8 @@
           <Chord>
             <durationType>16th</durationType>
             <Note>
-              <Accidental>
-                <subtype>accidentalFlat</subtype>
-                </Accidental>
               <pitch>75</pitch>
-              <tpc>11</tpc>
+              <tpc>23</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -1860,10 +1840,10 @@
             <durationType>eighth</durationType>
             <Note>
               <Accidental>
-                <subtype>accidentalFlat</subtype>
+                <subtype>accidentalSharp</subtype>
                 </Accidental>
               <pitch>75</pitch>
-              <tpc>11</tpc>
+              <tpc>23</tpc>
               </Note>
             </Chord>
           </voice>
@@ -1926,10 +1906,10 @@
             <durationType>16th</durationType>
             <Note>
               <Accidental>
-                <subtype>accidentalFlat</subtype>
+                <subtype>accidentalSharp</subtype>
                 </Accidental>
               <pitch>75</pitch>
-              <tpc>11</tpc>
+              <tpc>23</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -1939,11 +1919,12 @@
               <tpc>18</tpc>
               </Note>
             </Chord>
-          <Clef>
-            <concertClefType>G</concertClefType>
-            <transposingClefType>G</transposingClefType>
-            </Clef>
+          <BarLine>
+            <subtype>end-start-repeat</subtype>
+            <span>0</span>
+            </BarLine>
           <Chord>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <pitch>71</pitch>
@@ -2019,6 +2000,10 @@
           <Chord>
             <durationType>eighth</durationType>
             <Note>
+              <Accidental>
+                <role>1</role>
+                <subtype>accidentalNatural</subtype>
+                </Accidental>
               <pitch>77</pitch>
               <tpc>13</tpc>
               </Note>
@@ -2065,6 +2050,10 @@
           <Chord>
             <durationType>quarter</durationType>
             <Note>
+              <Accidental>
+                <role>1</role>
+                <subtype>accidentalNatural</subtype>
+                </Accidental>
               <pitch>67</pitch>
               <tpc>15</tpc>
               </Note>
@@ -2208,10 +2197,6 @@
               <tpc>16</tpc>
               </Note>
             </Chord>
-          <Clef>
-            <concertClefType>G</concertClefType>
-            <transposingClefType>G</transposingClefType>
-            </Clef>
           </voice>
         </Measure>
       <Measure>
@@ -2476,10 +2461,6 @@
               <tpc>17</tpc>
               </Note>
             </Chord>
-          <Clef>
-            <concertClefType>G</concertClefType>
-            <transposingClefType>G</transposingClefType>
-            </Clef>
           </voice>
         </Measure>
       <Measure>
@@ -2750,10 +2731,6 @@
               <tpc>18</tpc>
               </Note>
             </Chord>
-          <Clef>
-            <concertClefType>G</concertClefType>
-            <transposingClefType>G</transposingClefType>
-            </Clef>
           </voice>
         </Measure>
       <Measure>
@@ -3021,10 +2998,6 @@
               <tpc>18</tpc>
               </Note>
             </Chord>
-          <Clef>
-            <concertClefType>G</concertClefType>
-            <transposingClefType>G</transposingClefType>
-            </Clef>
           </voice>
         </Measure>
       <Measure>
@@ -3289,10 +3262,6 @@
               <tpc>14</tpc>
               </Note>
             </Chord>
-          <Clef>
-            <concertClefType>G</concertClefType>
-            <transposingClefType>G</transposingClefType>
-            </Clef>
           </voice>
         </Measure>
       <Measure>
@@ -3560,10 +3529,6 @@
               <tpc>19</tpc>
               </Note>
             </Chord>
-          <Clef>
-            <concertClefType>G</concertClefType>
-            <transposingClefType>G</transposingClefType>
-            </Clef>
           </voice>
         </Measure>
       <Measure>
@@ -3572,10 +3537,10 @@
             <durationType>16th</durationType>
             <Note>
               <Accidental>
-                <subtype>accidentalFlat</subtype>
+                <subtype>accidentalSharp</subtype>
                 </Accidental>
               <pitch>63</pitch>
-              <tpc>11</tpc>
+              <tpc>23</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -3664,10 +3629,10 @@
             <durationType>16th</durationType>
             <Note>
               <Accidental>
-                <subtype>accidentalFlat</subtype>
+                <subtype>accidentalSharp</subtype>
                 </Accidental>
               <pitch>75</pitch>
-              <tpc>11</tpc>
+              <tpc>23</tpc>
               </Note>
             </Chord>
           </voice>
@@ -3744,10 +3709,10 @@
             <durationType>eighth</durationType>
             <Note>
               <Accidental>
-                <subtype>accidentalFlat</subtype>
+                <subtype>accidentalSharp</subtype>
                 </Accidental>
               <pitch>75</pitch>
-              <tpc>11</tpc>
+              <tpc>23</tpc>
               </Note>
             </Chord>
           </voice>
@@ -3839,10 +3804,6 @@
               <tpc>15</tpc>
               </Note>
             </Chord>
-          <Clef>
-            <concertClefType>G</concertClefType>
-            <transposingClefType>G</transposingClefType>
-            </Clef>
           </voice>
         </Measure>
       <Measure>
@@ -4106,10 +4067,6 @@
               <tpc>16</tpc>
               </Note>
             </Chord>
-          <Clef>
-            <concertClefType>G</concertClefType>
-            <transposingClefType>G</transposingClefType>
-            </Clef>
           </voice>
         </Measure>
       <Measure>
@@ -4206,18 +4163,15 @@
             <durationType>16th</durationType>
             <Note>
               <Accidental>
-                <subtype>accidentalFlat</subtype>
+                <subtype>accidentalSharp</subtype>
                 </Accidental>
               <pitch>75</pitch>
-              <tpc>11</tpc>
+              <tpc>23</tpc>
               </Note>
             </Chord>
           <Chord>
             <durationType>16th</durationType>
             <Note>
-              <Accidental>
-                <subtype>accidentalNatural</subtype>
-                </Accidental>
               <pitch>76</pitch>
               <tpc>18</tpc>
               </Note>
@@ -4277,11 +4231,8 @@
           <Chord>
             <durationType>16th</durationType>
             <Note>
-              <Accidental>
-                <subtype>accidentalFlat</subtype>
-                </Accidental>
               <pitch>75</pitch>
-              <tpc>11</tpc>
+              <tpc>23</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -4389,10 +4340,6 @@
               <tpc>22</tpc>
               </Note>
             </Chord>
-          <Clef>
-            <concertClefType>G</concertClefType>
-            <transposingClefType>G</transposingClefType>
-            </Clef>
           </voice>
         </Measure>
       <Measure>
@@ -4663,10 +4610,6 @@
               <tpc>16</tpc>
               </Note>
             </Chord>
-          <Clef>
-            <concertClefType>G</concertClefType>
-            <transposingClefType>G</transposingClefType>
-            </Clef>
           </voice>
         </Measure>
       <Measure>
@@ -4940,10 +4883,6 @@
               <tpc>19</tpc>
               </Note>
             </Chord>
-          <Clef>
-            <concertClefType>G</concertClefType>
-            <transposingClefType>G</transposingClefType>
-            </Clef>
           </voice>
         </Measure>
       <Measure>
@@ -4965,6 +4904,10 @@
           <Chord>
             <durationType>16th</durationType>
             <Note>
+              <Accidental>
+                <role>1</role>
+                <subtype>accidentalNatural</subtype>
+                </Accidental>
               <pitch>77</pitch>
               <tpc>13</tpc>
               </Note>
@@ -5084,6 +5027,10 @@
           <Chord>
             <durationType>16th</durationType>
             <Note>
+              <Accidental>
+                <role>1</role>
+                <subtype>accidentalNatural</subtype>
+                </Accidental>
               <pitch>79</pitch>
               <tpc>15</tpc>
               </Note>
@@ -5216,14 +5163,14 @@
           <Chord>
             <durationType>16th</durationType>
             <Note>
+              <Accidental>
+                <role>1</role>
+                <subtype>accidentalNatural</subtype>
+                </Accidental>
               <pitch>72</pitch>
               <tpc>14</tpc>
               </Note>
             </Chord>
-          <Clef>
-            <concertClefType>G</concertClefType>
-            <transposingClefType>G</transposingClefType>
-            </Clef>
           </voice>
         </Measure>
       <Measure>
@@ -5411,7 +5358,8 @@
             </Chord>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="5/8">
+        <endRepeat>2</endRepeat>
         <voice>
           <Chord>
             <durationType>16th</durationType>
@@ -5482,9 +5430,6 @@
               <tpc>17</tpc>
               </Note>
             </Chord>
-          <Rest>
-            <durationType>eighth</durationType>
-            </Rest>
           </voice>
         </Measure>
       </Staff>
