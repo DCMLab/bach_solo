@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <museScore version="3.02">
-  <programVersion>3.6.0</programVersion>
-  <programRevision>1977cb3</programRevision>
+  <programVersion>3.6.2</programVersion>
+  <programRevision>3224f34</programRevision>
   <Score>
     <LayerTag id="0" tag="default"></LayerTag>
     <currentLayer>0</currentLayer>
@@ -45,6 +45,7 @@
         <family>horns</family>
         <family>trumpets</family>
         <family>cornets</family>
+        <family>flugelhorns</family>
         <family>trombones</family>
         <family>tubas</family>
         </section>
