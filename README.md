@@ -20,3 +20,11 @@ Scores downloaded as CAP files from http://www.tobis-notenarchiv.de/bach/12-Kamm
 |BWV1011_05_GavotteI |      36|     0|        |          |         |
 |BWV1011_06_GavotteII|      22|     0|        |          |         |
 |BWV1011_07_Gique    |      72|     0|        |          |         |
+|BWV1012             |     111|     0|        |          |         |
+|BWV1012_01_Prelude  |     104|     0|        |          |         |
+|BWV1012_02_Allemande|      20|     0|        |          |         |
+|BWV1012_03_Courante |      72|     0|        |          |         |
+|BWV1012_04_Sarabande|      32|     0|        |          |         |
+|BWV1012_05_GavotteI |      28|     0|        |          |         |
+|BWV1012_06_GavotteII|      24|     0|        |          |         |
+|BWV1012_07_Gique    |      68|     0|        |          |         |
