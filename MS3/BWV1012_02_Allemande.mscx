@@ -1294,12 +1294,6 @@
               <tpc>21</tpc>
               </Note>
             </Chord>
-          <location>
-            <fractions>1/16</fractions>
-            </location>
-          <location>
-            <fractions>1/8</fractions>
-            </location>
           </voice>
         <voice>
           <location>
@@ -1312,12 +1306,6 @@
               <tpc>17</tpc>
               </Note>
             </Chord>
-          <location>
-            <fractions>1/16</fractions>
-            </location>
-          <location>
-            <fractions>1/8</fractions>
-            </location>
           </voice>
         </Measure>
       <Measure>
@@ -1536,12 +1524,6 @@
               <tpc>20</tpc>
               </Note>
             </Chord>
-          <location>
-            <fractions>1/16</fractions>
-            </location>
-          <location>
-            <fractions>1/8</fractions>
-            </location>
           </voice>
         <voice>
           <Chord>
@@ -3697,9 +3679,6 @@
               <tpc>19</tpc>
               </Note>
             </Chord>
-          <location>
-            <fractions>1/32</fractions>
-            </location>
           </voice>
         <voice>
           <Chord>
@@ -3710,9 +3689,6 @@
               <tpc>20</tpc>
               </Note>
             </Chord>
-          <location>
-            <fractions>13/32</fractions>
-            </location>
           </voice>
         </Measure>
       <Measure>
@@ -4317,10 +4293,7 @@
               </Note>
             </Chord>
           <location>
-            <fractions>1/32</fractions>
-            </location>
-          <location>
-            <fractions>3/8</fractions>
+            <fractions>13/32</fractions>
             </location>
           <Chord>
             <dots>1</dots>
@@ -4342,10 +4315,7 @@
               </Note>
             </Chord>
           <location>
-            <fractions>1/32</fractions>
-            </location>
-          <location>
-            <fractions>3/8</fractions>
+            <fractions>13/32</fractions>
             </location>
           <Chord>
             <dots>1</dots>
@@ -5481,6 +5451,7 @@
           </voice>
         </Measure>
       <Measure len="30/32">
+        <endRepeat>2</endRepeat>
         <voice>
           <Chord>
             <dots>1</dots>

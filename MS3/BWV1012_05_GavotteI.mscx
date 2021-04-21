@@ -156,6 +156,13 @@
             <sigN>2</sigN>
             <sigD>2</sigD>
             </TimeSig>
+          <StaffText>
+            <family>Times New Roman</family>
+            <size>12</size>
+            <bold>1</bold>
+            <offset x="-7.34375" y="-4.5"/>
+            <text>GAVOTTE I</text>
+            </StaffText>
           <Chord>
             <durationType>quarter</durationType>
             <Note>

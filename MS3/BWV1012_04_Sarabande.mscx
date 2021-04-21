@@ -704,9 +704,6 @@
               <tpc>17</tpc>
               </Note>
             </Chord>
-          <location>
-            <fractions>1/2</fractions>
-            </location>
           </voice>
         </Measure>
       <Measure>
@@ -2352,9 +2349,6 @@
               <tpc>18</tpc>
               </Note>
             </Chord>
-          <location>
-            <fractions>1/4</fractions>
-            </location>
           </voice>
         <voice>
           <Chord>
@@ -3297,6 +3291,7 @@
           </voice>
         </Measure>
       <Measure>
+        <endRepeat>2</endRepeat>
         <voice>
           <Chord>
             <durationType>quarter</durationType>
@@ -3319,6 +3314,9 @@
               <tpc>16</tpc>
               </Note>
             </Chord>
+          <Fermata>
+            <subtype>fermataAbove</subtype>
+            </Fermata>
           </voice>
         <voice>
           <Chord>
