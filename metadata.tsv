@@ -1,1 +1,13 @@
-""
+rel_paths	fnames	last_mc	last_mn	KeySig	TimeSig	label_count	composer	workTitle	movementNumber	movementTitle	workNumber	poet	lyricist	arranger	copyright	creationDate	platform	source	translator	musescore	ambitus	staff_1_ambitus	staff_1_instrument
+MS3	BWV1010_02_Allemande	41	40	1: -3	1: 2/2	0										2021-03-09	Apple Macintosh			3.6.0	36-67 (C2-G4)	36-67 (C2-G4)	Piano
+MS3	BWV1010_03_Courante	65	64	1: -3	1: 3/4	0										2021-03-09	Apple Macintosh			3.6.0	36-67 (C2-G4)	36-67 (C2-G4)	Piano
+MS3	BWV1010_04_Sarabande	32	32	1: -3	1: 3/4	0										2021-03-09	Apple Macintosh			3.6.0	36-67 (C2-G4)	36-67 (C2-G4)	Piano
+MS3	BWV1010_05_BourreeI	49	48	1: -3	1: 2/2	0										2021-03-09	Apple Macintosh			3.6.0	36-67 (C2-G4)	36-67 (C2-G4)	Piano
+MS3	BWV1010_06_BourreeII	13	12	1: -3	1: 4/4	0										2021-03-09	Apple Macintosh			3.6.0	39-60 (Eb2-C4)	39-60 (Eb2-C4)	Piano
+MS3	BWV1010_07_Gique	43	42	1: -3	1: 12/8	0										2021-03-09	Apple Macintosh			3.6.0	38-63 (D2-Eb4)	38-63 (D2-Eb4)	Piano
+MS3	BWV1011_01_Prelude	223	223	1: -3	1: 2/2, 27: 3/8	0										2021-03-09	Apple Macintosh			3.6.0	36-65 (C2-F4)	36-65 (C2-F4)	Piano
+MS3	BWV1011_02_Allemande	37	36	1: -3	1: 2/2	0										2021-03-09	Apple Macintosh			3.6.0	36-67 (C2-G4)	36-67 (C2-G4)	Piano
+MS3	BWV1011_03_Courante	25	24	1: -3	1: 3/2	0										2021-03-09	Apple Macintosh			3.6.0	36-67 (C2-G4)	36-67 (C2-G4)	Piano
+MS3	BWV1011_05_GavotteI	37	36	1: -3	1: 2/2	0										2021-03-09	Apple Macintosh			3.6.0	36-65 (C2-F4)	36-65 (C2-F4)	Piano
+MS3	BWV1011_06_GavotteII	23	22	1: -3	1: 2/2	0										2021-03-09	Apple Macintosh			3.6.0	36-65 (C2-F4)	36-65 (C2-F4)	Piano
+MS3	BWV1011_07_Gique	73	72	1: -3	1: 3/8	0										2021-03-09	Apple Macintosh			3.6.0	36-67 (C2-G4)	36-67 (C2-G4)	Piano
