@@ -15,19 +15,23 @@
     <showUnprintable>1</showUnprintable>
     <showFrames>1</showFrames>
     <showMargins>0</showMargins>
+    <metaTag name="annotators">Adrian Nagel</metaTag>
     <metaTag name="arranger"></metaTag>
-    <metaTag name="composer"></metaTag>
+    <metaTag name="composed_end">1723</metaTag>
+    <metaTag name="composed_start">1722</metaTag>
+    <metaTag name="composer">Bach, J.S.</metaTag>
     <metaTag name="copyright"></metaTag>
     <metaTag name="creationDate">2021-04-21</metaTag>
+    <metaTag name="harmony_version">2.3.0</metaTag>
     <metaTag name="lyricist"></metaTag>
-    <metaTag name="movementNumber"></metaTag>
+    <metaTag name="movementNumber">3</metaTag>
     <metaTag name="movementTitle"></metaTag>
     <metaTag name="platform">Apple Macintosh</metaTag>
     <metaTag name="poet"></metaTag>
     <metaTag name="source"></metaTag>
     <metaTag name="translator"></metaTag>
     <metaTag name="workNumber"></metaTag>
-    <metaTag name="workTitle"></metaTag>
+    <metaTag name="workTitle">Partita in A minor</metaTag>
     <Order id="orchestral" customized="1">
       <name>Orchestral</name>
       <instrument id="piano">
@@ -1018,7 +1022,7 @@
       <Measure>
         <voice>
           <Harmony>
-            <name></name>
+            <name/>
             </Harmony>
           <Harmony>
             <harmonyType>1</harmonyType>
