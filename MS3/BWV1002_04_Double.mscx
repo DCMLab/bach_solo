@@ -106,6 +106,12 @@
           <program value="42"/>
           <synti>Fluid</synti>
           </Channel>
+        <Channel name="harmony">
+          <controller ctrl="0" value="0"/>
+          <controller ctrl="32" value="17"/>
+          <program value="0"/>
+          <synti>Fluid</synti>
+          </Channel>
         </Instrument>
       </Part>
     <Staff id="1">
@@ -126,6 +132,9 @@
             <text>Double
 Presto</text>
             </StaffText>
+          <Harmony>
+            <name>.b.i{</name>
+            </Harmony>
           <Chord>
             <durationType>16th</durationType>
             <Note>
@@ -218,6 +227,9 @@ Presto</text>
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <name>V65</name>
+            </Harmony>
           <Chord>
             <durationType>16th</durationType>
             <Note>
@@ -315,6 +327,9 @@ Presto</text>
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <name>i</name>
+            </Harmony>
           <Chord>
             <durationType>16th</durationType>
             <Note>
@@ -415,6 +430,9 @@ Presto</text>
             <concertClefType>G</concertClefType>
             <transposingClefType>G</transposingClefType>
             </Clef>
+          <Harmony>
+            <name>V65/III</name>
+            </Harmony>
           <Chord>
             <durationType>16th</durationType>
             <Note>
@@ -503,6 +521,9 @@ Presto</text>
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <name>III</name>
+            </Harmony>
           <Chord>
             <durationType>16th</durationType>
             <Note>
@@ -591,6 +612,9 @@ Presto</text>
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <name>.bII6</name>
+            </Harmony>
           <Chord>
             <durationType>16th</durationType>
             <Note>
@@ -682,6 +706,9 @@ Presto</text>
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <name>V65</name>
+            </Harmony>
           <Chord>
             <durationType>16th</durationType>
             <Note>
@@ -745,6 +772,9 @@ Presto</text>
               <tpc>18</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <name>#viio7/iv</name>
+            </Harmony>
           <Chord>
             <durationType>16th</durationType>
             <Note>
@@ -790,6 +820,9 @@ Presto</text>
             <concertClefType>G</concertClefType>
             <transposingClefType>G</transposingClefType>
             </Clef>
+          <Harmony>
+            <name>V65/VII</name>
+            </Harmony>
           <Chord>
             <durationType>16th</durationType>
             <Note>
@@ -857,6 +890,9 @@ Presto</text>
               <tpc>16</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <name>#viio7</name>
+            </Harmony>
           <Chord>
             <durationType>16th</durationType>
             <Note>
@@ -920,6 +956,9 @@ Presto</text>
               <tpc>18</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <name>i</name>
+            </Harmony>
           <Chord>
             <durationType>16th</durationType>
             <Note>
@@ -986,6 +1025,9 @@ Presto</text>
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <name>V7</name>
+            </Harmony>
           <Chord>
             <durationType>16th</durationType>
             <Note>
@@ -1080,6 +1122,9 @@ Presto</text>
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <name>i</name>
+            </Harmony>
           <Chord>
             <durationType>16th</durationType>
             <Note>
@@ -1179,6 +1224,9 @@ Presto</text>
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <name>V7/VII</name>
+            </Harmony>
           <Chord>
             <durationType>16th</durationType>
             <Note>
@@ -1270,6 +1318,9 @@ Presto</text>
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <name>VII</name>
+            </Harmony>
           <Chord>
             <durationType>16th</durationType>
             <Note>
@@ -1329,6 +1380,9 @@ Presto</text>
               <tpc>19</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <name>V43/III</name>
+            </Harmony>
           <Chord>
             <durationType>16th</durationType>
             <Note>
@@ -1365,6 +1419,9 @@ Presto</text>
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <name>III</name>
+            </Harmony>
           <Chord>
             <durationType>16th</durationType>
             <Note>
@@ -1421,6 +1478,9 @@ Presto</text>
               <tpc>15</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <name>V7/IV/III</name>
+            </Harmony>
           <Chord>
             <durationType>16th</durationType>
             <Note>
@@ -1456,6 +1516,9 @@ Presto</text>
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <name>IV/III</name>
+            </Harmony>
           <Chord>
             <durationType>16th</durationType>
             <Note>
@@ -1547,6 +1610,9 @@ Presto</text>
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <name>V65/III</name>
+            </Harmony>
           <Chord>
             <durationType>16th</durationType>
             <Note>
@@ -1635,6 +1701,9 @@ Presto</text>
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <name>III</name>
+            </Harmony>
           <Chord>
             <durationType>16th</durationType>
             <Note>
@@ -1691,6 +1760,9 @@ Presto</text>
               <tpc>16</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <name>V/III</name>
+            </Harmony>
           <Chord>
             <durationType>16th</durationType>
             <Note>
@@ -1723,6 +1795,9 @@ Presto</text>
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <name>III6</name>
+            </Harmony>
           <Chord>
             <durationType>16th</durationType>
             <Note>
@@ -1751,6 +1826,9 @@ Presto</text>
               <tpc>16</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <name>III</name>
+            </Harmony>
           <Chord>
             <durationType>16th</durationType>
             <Note>
@@ -1779,6 +1857,9 @@ Presto</text>
               <tpc>17</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <name>i</name>
+            </Harmony>
           <Chord>
             <durationType>16th</durationType>
             <Note>
@@ -1811,6 +1892,9 @@ Presto</text>
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <name>#viio7</name>
+            </Harmony>
           <Chord>
             <durationType>16th</durationType>
             <Note>
@@ -1908,6 +1992,9 @@ Presto</text>
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <name>i</name>
+            </Harmony>
           <Chord>
             <durationType>16th</durationType>
             <Note>
@@ -1964,6 +2051,9 @@ Presto</text>
               <tpc>21</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <name>v.i</name>
+            </Harmony>
           <Chord>
             <durationType>16th</durationType>
             <Note>
@@ -2003,6 +2093,9 @@ Presto</text>
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <name>V</name>
+            </Harmony>
           <Chord>
             <durationType>16th</durationType>
             <Note>
@@ -2065,6 +2158,9 @@ Presto</text>
               <tpc>21</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <name>iio6</name>
+            </Harmony>
           <Chord>
             <durationType>16th</durationType>
             <Note>
@@ -2097,6 +2193,9 @@ Presto</text>
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <name>i6</name>
+            </Harmony>
           <Chord>
             <durationType>16th</durationType>
             <Note>
@@ -2192,6 +2291,9 @@ Presto</text>
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <name>IV</name>
+            </Harmony>
           <Chord>
             <durationType>16th</durationType>
             <Note>
@@ -2251,6 +2353,9 @@ Presto</text>
               <tpc>19</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <name>i6</name>
+            </Harmony>
           <Chord>
             <durationType>16th</durationType>
             <Note>
@@ -2283,6 +2388,9 @@ Presto</text>
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <name>ii%7</name>
+            </Harmony>
           <Chord>
             <durationType>16th</durationType>
             <Note>
@@ -2346,6 +2454,9 @@ Presto</text>
               <tpc>22</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <name>i</name>
+            </Harmony>
           <Chord>
             <durationType>16th</durationType>
             <Note>
@@ -2378,6 +2489,9 @@ Presto</text>
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <name>V65</name>
+            </Harmony>
           <Chord>
             <durationType>16th</durationType>
             <Note>
@@ -2481,6 +2595,9 @@ Presto</text>
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <name>i</name>
+            </Harmony>
           <Chord>
             <durationType>16th</durationType>
             <Note>
@@ -2584,6 +2701,9 @@ Presto</text>
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <name>iv</name>
+            </Harmony>
           <Chord>
             <durationType>16th</durationType>
             <Note>
@@ -2676,6 +2796,9 @@ Presto</text>
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <name>.bII</name>
+            </Harmony>
           <Chord>
             <durationType>16th</durationType>
             <Note>
@@ -2764,6 +2887,9 @@ Presto</text>
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <name>V7</name>
+            </Harmony>
           <Chord>
             <durationType>16th</durationType>
             <Note>
@@ -2861,6 +2987,9 @@ Presto</text>
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <name>i</name>
+            </Harmony>
           <Chord>
             <durationType>16th</durationType>
             <Note>
@@ -2920,6 +3049,9 @@ Presto</text>
               <tpc>20</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <name>V</name>
+            </Harmony>
           <Chord>
             <durationType>16th</durationType>
             <Note>
@@ -2955,6 +3087,9 @@ Presto</text>
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <name>I</name>
+            </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
             </Beam>
@@ -2989,6 +3124,9 @@ Presto</text>
               <tpc>21</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <name>V7/iv</name>
+            </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
             </Beam>
@@ -3024,6 +3162,9 @@ Presto</text>
               <tpc>21</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <name>iv64</name>
+            </Harmony>
           <Chord>
             <durationType>16th</durationType>
             <Note>
@@ -3060,6 +3201,9 @@ Presto</text>
           <subtype>line</subtype>
           </LayoutBreak>
         <voice>
+          <Harmony>
+            <name>I}</name>
+            </Harmony>
           <Chord>
             <durationType>16th</durationType>
             <Note>
@@ -3148,6 +3292,9 @@ Presto</text>
           <BarLine>
             <subtype>start-repeat</subtype>
             </BarLine>
+          <Harmony>
+            <name>i.V{</name>
+            </Harmony>
           <Chord>
             <durationType>16th</durationType>
             <Note>
@@ -3259,6 +3406,9 @@ Presto</text>
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <name>i6</name>
+            </Harmony>
           <Chord>
             <durationType>16th</durationType>
             <Note>
@@ -3287,6 +3437,9 @@ Presto</text>
               <tpc>16</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <name>V</name>
+            </Harmony>
           <Chord>
             <durationType>16th</durationType>
             <Note>
@@ -3353,6 +3506,9 @@ Presto</text>
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <name>i</name>
+            </Harmony>
           <Chord>
             <durationType>16th</durationType>
             <Note>
@@ -3501,6 +3657,9 @@ Presto</text>
               <tpc>18</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <name>#viio7/iv</name>
+            </Harmony>
           <Chord>
             <durationType>16th</durationType>
             <Note>
@@ -3539,6 +3698,9 @@ Presto</text>
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <name>iv</name>
+            </Harmony>
           <Chord>
             <durationType>16th</durationType>
             <Note>
@@ -3686,6 +3848,9 @@ Presto</text>
               <tpc>17</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <name>#viio7/vii</name>
+            </Harmony>
           <Chord>
             <durationType>16th</durationType>
             <Note>
@@ -3724,6 +3889,9 @@ Presto</text>
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <name>vii6</name>
+            </Harmony>
           <Chord>
             <durationType>16th</durationType>
             <Note>
@@ -3822,6 +3990,9 @@ Presto</text>
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <name>V7/iv</name>
+            </Harmony>
           <Chord>
             <durationType>16th</durationType>
             <Note>
@@ -3917,6 +4088,9 @@ Presto</text>
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <name>iv6</name>
+            </Harmony>
           <Chord>
             <durationType>16th</durationType>
             <Note>
@@ -3945,6 +4119,9 @@ Presto</text>
               <tpc>15</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <name>III6</name>
+            </Harmony>
           <Chord>
             <durationType>16th</durationType>
             <Note>
@@ -3977,6 +4154,9 @@ Presto</text>
               <tpc>20</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <name>.bII6</name>
+            </Harmony>
           <Chord>
             <durationType>16th</durationType>
             <Note>
@@ -4012,6 +4192,9 @@ Presto</text>
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <name>V65/iv</name>
+            </Harmony>
           <Chord>
             <durationType>16th</durationType>
             <Note>
@@ -4112,6 +4295,9 @@ Presto</text>
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <name>iv</name>
+            </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
             </Beam>
@@ -4143,6 +4329,9 @@ Presto</text>
               <tpc>19</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <name>i6</name>
+            </Harmony>
           <Chord>
             <durationType>16th</durationType>
             <Note>
@@ -4175,6 +4364,9 @@ Presto</text>
               <tpc>19</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <name>vii6</name>
+            </Harmony>
           <Chord>
             <durationType>16th</durationType>
             <Note>
@@ -4210,6 +4402,9 @@ Presto</text>
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <name>#viio6/vii</name>
+            </Harmony>
           <Chord>
             <durationType>16th</durationType>
             <Note>
@@ -4307,6 +4502,9 @@ Presto</text>
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <name>vii</name>
+            </Harmony>
           <Chord>
             <durationType>16th</durationType>
             <Note>
@@ -4401,6 +4599,9 @@ Presto</text>
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <name>V/iv</name>
+            </Harmony>
           <Chord>
             <durationType>16th</durationType>
             <Note>
@@ -4460,6 +4661,9 @@ Presto</text>
               <tpc>19</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <name>iio6/iv</name>
+            </Harmony>
           <Chord>
             <durationType>16th</durationType>
             <Note>
@@ -4495,6 +4699,9 @@ Presto</text>
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <name>iv</name>
+            </Harmony>
           <Chord>
             <durationType>16th</durationType>
             <Note>
@@ -4554,6 +4761,9 @@ Presto</text>
               <tpc>18</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <name>V/iv</name>
+            </Harmony>
           <Chord>
             <durationType>16th</durationType>
             <Note>
@@ -4593,6 +4803,9 @@ Presto</text>
           <KeySig>
             <accidental>2</accidental>
             </KeySig>
+          <Harmony>
+            <name>iv</name>
+            </Harmony>
           <Chord>
             <durationType>16th</durationType>
             <Note>
@@ -4684,6 +4897,9 @@ Presto</text>
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <name>viio6/VII</name>
+            </Harmony>
           <Chord>
             <durationType>16th</durationType>
             <Note>
@@ -4779,6 +4995,9 @@ Presto</text>
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <name>VII6</name>
+            </Harmony>
           <Chord>
             <durationType>16th</durationType>
             <Note>
@@ -4870,6 +5089,9 @@ Presto</text>
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <name>IV/VII</name>
+            </Harmony>
           <Chord>
             <durationType>16th</durationType>
             <Note>
@@ -4898,6 +5120,9 @@ Presto</text>
               <tpc>18</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <name>viio6(2)/VII</name>
+            </Harmony>
           <Chord>
             <durationType>16th</durationType>
             <Note>
@@ -4926,6 +5151,9 @@ Presto</text>
               <tpc>17</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <name>V7/VII</name>
+            </Harmony>
           <Chord>
             <durationType>16th</durationType>
             <Note>
@@ -4961,6 +5189,9 @@ Presto</text>
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <name>VII</name>
+            </Harmony>
           <Chord>
             <durationType>16th</durationType>
             <Note>
@@ -4989,6 +5220,9 @@ Presto</text>
               <tpc>18</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <name>V7/III</name>
+            </Harmony>
           <Chord>
             <durationType>16th</durationType>
             <Note>
@@ -5049,6 +5283,9 @@ Presto</text>
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <name>III6</name>
+            </Harmony>
           <Chord>
             <durationType>16th</durationType>
             <Note>
@@ -5077,6 +5314,9 @@ Presto</text>
               <tpc>20</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <name>viio6/III</name>
+            </Harmony>
           <Chord>
             <durationType>16th</durationType>
             <Note>
@@ -5105,6 +5345,9 @@ Presto</text>
               <tpc>18</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <name>vi6/III</name>
+            </Harmony>
           <Chord>
             <durationType>16th</durationType>
             <Note>
@@ -5137,6 +5380,9 @@ Presto</text>
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <name>V65/III</name>
+            </Harmony>
           <Chord>
             <durationType>16th</durationType>
             <Note>
@@ -5225,6 +5471,9 @@ Presto</text>
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <name>III</name>
+            </Harmony>
           <Chord>
             <durationType>16th</durationType>
             <Note>
@@ -5253,6 +5502,9 @@ Presto</text>
               <tpc>17</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <name>V6/III</name>
+            </Harmony>
           <Chord>
             <durationType>16th</durationType>
             <Note>
@@ -5281,6 +5533,9 @@ Presto</text>
               <tpc>17</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <name>IV6/III</name>
+            </Harmony>
           <Chord>
             <durationType>16th</durationType>
             <Note>
@@ -5313,6 +5568,9 @@ Presto</text>
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <name>V7/III</name>
+            </Harmony>
           <Chord>
             <durationType>16th</durationType>
             <Note>
@@ -5401,6 +5659,9 @@ Presto</text>
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <name>V7/VI</name>
+            </Harmony>
           <Chord>
             <durationType>16th</durationType>
             <Note>
@@ -5492,6 +5753,9 @@ Presto</text>
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <name>VI</name>
+            </Harmony>
           <Chord>
             <durationType>16th</durationType>
             <Note>
@@ -5551,9 +5815,16 @@ Presto</text>
               <tpc>16</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <name>viio64/III</name>
+            </Harmony>
           <Chord>
             <durationType>16th</durationType>
             <Note>
+              <Accidental>
+                <role>1</role>
+                <subtype>accidentalSharp</subtype>
+                </Accidental>
               <pitch>73</pitch>
               <tpc>21</tpc>
               </Note>
@@ -5583,6 +5854,9 @@ Presto</text>
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <name>III6</name>
+            </Harmony>
           <Chord>
             <durationType>16th</durationType>
             <Note>
@@ -5611,6 +5885,9 @@ Presto</text>
               <tpc>21</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <name>III</name>
+            </Harmony>
           <Chord>
             <durationType>16th</durationType>
             <Note>
@@ -5639,6 +5916,9 @@ Presto</text>
               <tpc>16</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <name>V/III</name>
+            </Harmony>
           <Chord>
             <durationType>16th</durationType>
             <Note>
@@ -5671,6 +5951,9 @@ Presto</text>
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <name>III</name>
+            </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
             </Beam>
@@ -5730,6 +6013,9 @@ Presto</text>
               <tpc>17</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <name>i</name>
+            </Harmony>
           <Chord>
             <durationType>16th</durationType>
             <Note>
@@ -5762,6 +6048,9 @@ Presto</text>
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <name>V65</name>
+            </Harmony>
           <Chord>
             <durationType>16th</durationType>
             <Note>
@@ -5859,6 +6148,9 @@ Presto</text>
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <name>i</name>
+            </Harmony>
           <Chord>
             <durationType>16th</durationType>
             <Note>
@@ -5958,6 +6250,9 @@ Presto</text>
             <concertClefType>G</concertClefType>
             <transposingClefType>G</transposingClefType>
             </Clef>
+          <Harmony>
+            <name>V/V</name>
+            </Harmony>
           <Chord>
             <durationType>16th</durationType>
             <Note>
@@ -6058,6 +6353,9 @@ Presto</text>
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <name>V</name>
+            </Harmony>
           <Chord>
             <durationType>16th</durationType>
             <Note>
@@ -6117,6 +6415,9 @@ Presto</text>
               <tpc>20</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <name>iio6</name>
+            </Harmony>
           <Chord>
             <durationType>16th</durationType>
             <Note>
@@ -6157,6 +6458,9 @@ Presto</text>
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <name>V65/iv</name>
+            </Harmony>
           <Chord>
             <durationType>16th</durationType>
             <Note>
@@ -6219,6 +6523,9 @@ Presto</text>
               <tpc>17</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <name>viio64/VII</name>
+            </Harmony>
           <Chord>
             <durationType>16th</durationType>
             <Note>
@@ -6257,6 +6564,9 @@ Presto</text>
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <name>V65/III</name>
+            </Harmony>
           <Chord>
             <durationType>16th</durationType>
             <Note>
@@ -6317,6 +6627,9 @@ Presto</text>
               <tpc>15</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <name>viio64/VI</name>
+            </Harmony>
           <Chord>
             <durationType>16th</durationType>
             <Note>
@@ -6352,6 +6665,9 @@ Presto</text>
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <name>VIM65</name>
+            </Harmony>
           <Chord>
             <durationType>16th</durationType>
             <Note>
@@ -6408,6 +6724,9 @@ Presto</text>
               <tpc>20</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <name>iv64</name>
+            </Harmony>
           <Chord>
             <durationType>16th</durationType>
             <Note>
@@ -6444,6 +6763,9 @@ Presto</text>
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <name>V65</name>
+            </Harmony>
           <Chord>
             <durationType>16th</durationType>
             <Note>
@@ -6503,6 +6825,9 @@ Presto</text>
               <tpc>18</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <name>#viio64/iv</name>
+            </Harmony>
           <Chord>
             <durationType>16th</durationType>
             <Note>
@@ -6541,6 +6866,9 @@ Presto</text>
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <name>vii%7/VII</name>
+            </Harmony>
           <Chord>
             <durationType>16th</durationType>
             <Note>
@@ -6642,6 +6970,9 @@ Presto</text>
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <name>V</name>
+            </Harmony>
           <Chord>
             <durationType>16th</durationType>
             <Note>
@@ -6736,6 +7067,9 @@ Presto</text>
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <name>i</name>
+            </Harmony>
           <Chord>
             <durationType>16th</durationType>
             <Note>
@@ -6792,6 +7126,9 @@ Presto</text>
               <tpc>19</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <name>V(64)</name>
+            </Harmony>
           <Chord>
             <durationType>16th</durationType>
             <Note>
@@ -6806,6 +7143,9 @@ Presto</text>
               <tpc>19</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <name>V</name>
+            </Harmony>
           <Chord>
             <durationType>16th</durationType>
             <Note>
@@ -6827,6 +7167,9 @@ Presto</text>
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <name>VIM7</name>
+            </Harmony>
           <Chord>
             <durationType>16th</durationType>
             <Note>
@@ -6883,6 +7226,9 @@ Presto</text>
               <tpc>21</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <name>V7/VII</name>
+            </Harmony>
           <Chord>
             <durationType>16th</durationType>
             <Note>
@@ -7061,6 +7407,9 @@ Presto</text>
           <KeySig>
             <accidental>2</accidental>
             </KeySig>
+          <Harmony>
+            <name>V7/III</name>
+            </Harmony>
           <Chord>
             <durationType>16th</durationType>
             <Note>
@@ -7117,6 +7466,9 @@ Presto</text>
               <tpc>16</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <name>V7</name>
+            </Harmony>
           <Chord>
             <durationType>16th</durationType>
             <Note>
@@ -7299,6 +7651,9 @@ Presto</text>
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <name>V7/iv</name>
+            </Harmony>
           <Chord>
             <durationType>16th</durationType>
             <Note>
@@ -7358,6 +7713,9 @@ Presto</text>
               <tpc>18</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <name>#viio7/iv</name>
+            </Harmony>
           <Chord>
             <durationType>16th</durationType>
             <Note>
@@ -7393,6 +7751,9 @@ Presto</text>
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <name>iv6</name>
+            </Harmony>
           <Chord>
             <durationType>16th</durationType>
             <Spanner type="Slur">
@@ -7456,6 +7817,9 @@ Presto</text>
               <tpc>20</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <name>V7</name>
+            </Harmony>
           <Chord>
             <durationType>16th</durationType>
             <Spanner type="Slur">
@@ -7625,6 +7989,9 @@ Presto</text>
               <tpc>18</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <name>i</name>
+            </Harmony>
           <Chord>
             <durationType>16th</durationType>
             <Note>
@@ -7653,6 +8020,9 @@ Presto</text>
               <tpc>19</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <name>V</name>
+            </Harmony>
           <Chord>
             <durationType>16th</durationType>
             <Note>
@@ -7685,6 +8055,9 @@ Presto</text>
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <name>i}</name>
+            </Harmony>
           <Chord>
             <durationType>16th</durationType>
             <Note>
