@@ -8,7 +8,6 @@ Scores downloaded as CAP files from http://www.tobis-notenarchiv.de/bach/12-Kamm
 # Overview
 |        file_name         |measures|labels|standard| annotators |reviewers|
 |--------------------------|-------:|-----:|--------|------------|---------|
-|metadata                  |      70|    98|2.3.0   |Adrian Nagel|         |
 |BWV1001_01_Adagio         |      22|    95|2.3.0   |Adrian Nagel|         |
 |BWV1001_02_Fuga           |      94|   324|2.3.0   |Adrian Nagel|         |
 |BWV1001_03_Siciliano      |      20|   112|2.3.0   |Adrian Nagel|         |
