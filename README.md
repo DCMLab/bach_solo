@@ -3,6 +3,16 @@
 
 Scores downloaded as CAP files from http://www.tobis-notenarchiv.de/bach/12-Kammermusik/index.htm and converted to MuseScore. The original license is [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/).
 
+## Status and Limitations
+
+### Scores
+
+* When looking at samples, the scores seem to focus on pitch content. Still need to be checked more thoroughly.
+
+### Annotations
+
+* Harmony labels were created mid-2021 and merged through [this PR](https://github.com/DCMLab/bach_solo/pull/2)
+* The metadata mark all annotations as version 2.3.0. However, BWV 1001-1008 do not include cadence labels. Probably we introduced this feature during the commission.
 
 
 # Overview
