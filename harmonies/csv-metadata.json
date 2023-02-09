@@ -10,7 +10,7 @@
     "delimiter": "\t"
   },
   "dc:description": "One feature matrix per score, containing one line per label. The first columns (until 'label') are the same as in extracted 'labels' tables with the difference that only those harmony labels that match the DCML harmony annotation standard (dcmlab.github.io/standards) are included. Since these follow a specific syntax, they can be split into their components (features) and transformed into scale degrees. For more information, please refer to the docs at https://johentsch.github.io/ms3/columns",
-  "dc:created": "2023-02-09T18:08:43",
+  "dc:created": "2023-02-09T17:15:23",
   "dc:creator": [
     {
       "@context": "https://schema.org/",
@@ -307,6 +307,10 @@
         "datatype": "string"
       },
       {
+        "titles": "special",
+        "datatype": "string"
+      },
+      {
         "titles": "numeral",
         "datatype": "string"
       },
@@ -325,9 +329,6 @@
       {
         "titles": "relativeroot",
         "datatype": "string"
-      },
-      {
-        "titles": "pedalend"
       },
       {
         "titles": "cadence",
