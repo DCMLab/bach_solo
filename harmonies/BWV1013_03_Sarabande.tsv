@@ -1,58 +1,58 @@
-mc	mn	mc_onset	mn_onset	timesig	staff	voice	label	globalkey	localkey	pedal	chord	numeral	form	figbass	changes	relativeroot	cadence	phraseend	chord_type	globalkey_is_minor	localkey_is_minor	chord_tones	added_tones	root	bass_note
-1	1	0	0	3/4	1	1	a.i{	a	i		i	i						{	m	1	1	0, -3, 1		0	0
-2	2	0	0	3/4	1	1	iv6	a	i		iv6	iv		6					m	1	1	-4, 0, -1		-1	-4
-2	2	1/2	1/2	3/4	1	1	V7	a	i		V7	V		7					Mm7	1	1	1, 5, 2, -1		1	1
-4	4	1/4	1/4	3/4	1	1	i	a	i		i	i							m	1	1	0, -3, 1		0	0
-4	4	1/2	1/2	3/4	1	1	#viio6|HC}	a	i		#viio6	#vii	o	6			HC	}	o	1	1	2, -1, 5		5	2
-5	5	0	0	3/4	1	1	i{	a	i		i	i						{	m	1	1	0, -3, 1		0	0
-6	6	0	0	3/4	1	1	iv	a	i		iv	iv							m	1	1	-1, -4, 0		-1	-1
-7	7	0	0	3/4	1	1	III.V	a	III		V	V							M	1	0	1, 5, 2		1	1
-8	8	0	0	3/4	1	1	I	a	III		I	I							M	1	0	0, 4, 1		0	0
-10	10	0	0	3/4	1	1	V7	a	III		V7	V		7					Mm7	1	0	1, 5, 2, -1		1	1
-11	11	0	0	3/4	1	1	I6	a	III		I6	I		6					M	1	0	4, 1, 0		0	4
-11	11	1/4	1/4	3/4	1	1	viio6	a	III		viio6	vii	o	6					o	1	0	2, -1, 5		5	2
-11	11	1/2	1/2	3/4	1	1	I	a	III		I	I							M	1	0	0, 4, 1		0	0
-12	12	0	0	3/4	1	1	vi	a	III		vi	vi							m	1	0	3, 0, 4		3	3
-13	13	0	0	3/4	1	1	IV	a	III		IV	IV							M	1	0	-1, 3, 0		-1	-1
-13	13	1/4	1/4	3/4	1	1	I6	a	III		I6	I		6					M	1	0	4, 1, 0		0	4
-13	13	1/2	1/2	3/4	1	1	viio6	a	III		viio6	vii	o	6					o	1	0	2, -1, 5		5	2
-15	15	0	0	3/4	1	1	I|PAC}	a	III		I	I					PAC	}	M	1	0	0, 4, 1		0	0
-17	17	0	0	3/4	1	1	{	a	III									{		1	0				
-19	19	0	0	3/4	1	1	i.#viio7	a	i		#viio7	#vii	o	7					o7	1	1	5, 2, -1, -4		5	5
-19	19	1/4	1/4	3/4	1	1	V65	a	i		V65	V		65					Mm7	1	1	5, 2, -1, 1		1	5
-20	20	0	0	3/4	1	1	i|IAC}	a	i		i	i					IAC	}	m	1	1	0, -3, 1		0	0
-21	21	0	0	3/4	1	1	iv{	a	i		iv	iv						{	m	1	1	-1, -4, 0		-1	-1
-22	22	0	0	3/4	1	1	iio/iv	a	i		iio/iv	ii	o			iv			o	1	1	1, -2, -5		1	1
-22	22	1/2	1/2	3/4	1	1	V/iv	a	i		V/iv	V				iv			M	1	1	0, 4, 1		0	0
-23	23	0	0	3/4	1	1	iv6	a	i		iv6	iv		6					m	1	1	-4, 0, -1		-1	-4
-24	24	0	0	3/4	1	1	iio6/iv	a	i		iio6/iv	ii	o	6		iv			o	1	1	-2, -5, 1		1	-2
-24	24	1/2	1/2	3/4	1	1	V6/iv	a	i		V6/iv	V		6		iv			M	1	1	4, 1, 0		0	4
-25	25	0	0	3/4	1	1	iv	a	i		iv	iv							m	1	1	-1, -4, 0		-1	-1
-25	25	1/2	1/2	3/4	1	1	#viio6/iv	a	i		#viio6/iv	#vii	o	6		iv			o	1	1	1, -2, 4		4	1
-26	26	0	0	3/4	1	1	i/iv|PAC}	a	i		i/iv	i				iv	PAC	}	m	1	1	-1, -4, 0		-1	-1
-27	27	0	0	3/4	1	1	V65/III{	a	i		V65/III	V		65		III		{	Mm7	1	1	2, -1, -4, -2		-2	2
-28	28	0	0	3/4	1	1	III	a	i		III	III							M	1	1	-3, 1, -2		-3	-3
-28	28	1/2	1/2	3/4	1	1	i6	a	i		i6	i		6					m	1	1	-3, 1, 0		0	-3
-29	29	0	0	3/4	1	1	V65	a	i		V65	V		65					Mm7	1	1	5, 2, -1, 1		1	5
-30	30	0	0	3/4	1	1	i	a	i		i	i							m	1	1	0, -3, 1		0	0
-31	31	0	0	3/4	1	1	iio6	a	i		iio6	ii	o	6					o	1	1	-1, -4, 2		2	-1
-31	31	1/2	1/2	3/4	1	1	iv	a	i		iv	iv							m	1	1	-1, -4, 0		-1	-1
-32	32	0	0	3/4	1	1	i6	a	i		i6	i		6					m	1	1	-3, 1, 0		0	-3
-33	33	0	0	3/4	1	1	iio	a	i		iio	ii	o						o	1	1	2, -1, -4		2	2
-34	34	0	0	3/4	1	1	V|HC}	a	i		V	V					HC	}	M	1	1	1, 5, 2		1	1
-35	35	0	0	3/4	1	1	i{	a	i		i	i						{	m	1	1	0, -3, 1		0	0
-36	36	0	0	3/4	1	1	iv	a	i		iv	iv							m	1	1	-1, -4, 0		-1	-1
-37	37	0	0	3/4	1	1	iio	a	i		iio	ii	o						o	1	1	2, -1, -4		2	2
-38	38	0	0	3/4	1	1	#viio	a	i		#viio	#vii	o						o	1	1	5, 2, -1		5	5
-38	38	1/4	1/4	3/4	1	1	IV6	a	i		IV6	IV		6					M	1	1	3, 0, -1		-1	3
-38	38	1/2	1/2	3/4	1	1	#viio	a	i		#viio	#vii	o						o	1	1	5, 2, -1		5	5
-39	39	0	0	3/4	1	1	i	a	i		i	i							m	1	1	0, -3, 1		0	0
-40	40	0	0	3/4	1	1	V	a	i		V	V							M	1	1	1, 5, 2		1	1
-41	41	0	0	3/4	1	1	i6	a	i		i6	i		6					m	1	1	-3, 1, 0		0	-3
-41	41	1/4	1/4	3/4	1	1	#viio6	a	i		#viio6	#vii	o	6					o	1	1	2, -1, 5		5	2
-41	41	1/2	1/2	3/4	1	1	i	a	i		i	i							m	1	1	0, -3, 1		0	0
-42	42	0	0	3/4	1	1	IV6	a	i		IV6	IV		6					M	1	1	3, 0, -1		-1	3
-43	43	0	0	3/4	1	1	iv	a	i		iv	iv							m	1	1	-1, -4, 0		-1	-1
-43	43	1/4	1/4	3/4	1	1	i6	a	i		i6	i		6					m	1	1	-3, 1, 0		0	-3
-43	43	1/2	1/2	3/4	1	1	#viio6	a	i		#viio6	#vii	o	6					o	1	1	2, -1, 5		5	2
-45	45	0	0	3/4	1	1	i|PAC}	a	i		i	i					PAC	}	m	1	1	0, -3, 1		0	0
+mc	mn	quarterbeats	duration_qb	mc_onset	mn_onset	timesig	staff	voice	label	globalkey	localkey	pedal	chord	numeral	form	figbass	changes	relativeroot	cadence	phraseend	chord_type	globalkey_is_minor	localkey_is_minor	chord_tones	added_tones	root	bass_note
+1	1	0	3.0	0	0	3/4	1	1	a.i{	a	i		i	i						{	m	1	1	0, -3, 1		0	0
+2	2	3	2.0	0	0	3/4	1	1	iv6	a	i		iv6	iv		6					m	1	1	-4, 0, -1		-1	-4
+2	2	5	5.0	1/2	1/2	3/4	1	1	V7	a	i		V7	V		7					Mm7	1	1	1, 5, 2, -1		1	1
+4	4	10	1.0	1/4	1/4	3/4	1	1	i	a	i		i	i							m	1	1	0, -3, 1		0	0
+4	4	11	1.0	1/2	1/2	3/4	1	1	#viio6|HC}	a	i		#viio6	#vii	o	6			HC	}	o	1	1	2, -1, 5		5	2
+5	5	12	3.0	0	0	3/4	1	1	i{	a	i		i	i						{	m	1	1	0, -3, 1		0	0
+6	6	15	3.0	0	0	3/4	1	1	iv	a	i		iv	iv							m	1	1	-1, -4, 0		-1	-1
+7	7	18	3.0	0	0	3/4	1	1	III.V	a	III		V	V							M	1	0	1, 5, 2		1	1
+8	8	21	6.0	0	0	3/4	1	1	I	a	III		I	I							M	1	0	0, 4, 1		0	0
+10	10	27	3.0	0	0	3/4	1	1	V7	a	III		V7	V		7					Mm7	1	0	1, 5, 2, -1		1	1
+11	11	30	1.0	0	0	3/4	1	1	I6	a	III		I6	I		6					M	1	0	4, 1, 0		0	4
+11	11	31	1.0	1/4	1/4	3/4	1	1	viio6	a	III		viio6	vii	o	6					o	1	0	2, -1, 5		5	2
+11	11	32	1.0	1/2	1/2	3/4	1	1	I	a	III		I	I							M	1	0	0, 4, 1		0	0
+12	12	33	3.0	0	0	3/4	1	1	vi	a	III		vi	vi							m	1	0	3, 0, 4		3	3
+13	13	36	1.0	0	0	3/4	1	1	IV	a	III		IV	IV							M	1	0	-1, 3, 0		-1	-1
+13	13	37	1.0	1/4	1/4	3/4	1	1	I6	a	III		I6	I		6					M	1	0	4, 1, 0		0	4
+13	13	38	4.0	1/2	1/2	3/4	1	1	viio6	a	III		viio6	vii	o	6					o	1	0	2, -1, 5		5	2
+15	15	42	12.0	0	0	3/4	1	1	I|PAC}	a	III		I	I					PAC	}	M	1	0	0, 4, 1		0	0
+17	17	48	0.0	0	0	3/4	1	1	{	a	III									{		1	0				
+19	19	54	1.0	0	0	3/4	1	1	i.#viio7	a	i		#viio7	#vii	o	7					o7	1	1	5, 2, -1, -4		5	5
+19	19	55	2.0	1/4	1/4	3/4	1	1	V65	a	i		V65	V		65					Mm7	1	1	5, 2, -1, 1		1	5
+20	20	57	3.0	0	0	3/4	1	1	i|IAC}	a	i		i	i					IAC	}	m	1	1	0, -3, 1		0	0
+21	21	60	3.0	0	0	3/4	1	1	iv{	a	i		iv	iv						{	m	1	1	-1, -4, 0		-1	-1
+22	22	63	2.0	0	0	3/4	1	1	iio/iv	a	i		iio/iv	ii	o			iv			o	1	1	1, -2, -5		1	1
+22	22	65	1.0	1/2	1/2	3/4	1	1	V/iv	a	i		V/iv	V				iv			M	1	1	0, 4, 1		0	0
+23	23	66	3.0	0	0	3/4	1	1	iv6	a	i		iv6	iv		6					m	1	1	-4, 0, -1		-1	-4
+24	24	69	2.0	0	0	3/4	1	1	iio6/iv	a	i		iio6/iv	ii	o	6		iv			o	1	1	-2, -5, 1		1	-2
+24	24	71	1.0	1/2	1/2	3/4	1	1	V6/iv	a	i		V6/iv	V		6		iv			M	1	1	4, 1, 0		0	4
+25	25	72	2.0	0	0	3/4	1	1	iv	a	i		iv	iv							m	1	1	-1, -4, 0		-1	-1
+25	25	74	1.0	1/2	1/2	3/4	1	1	#viio6/iv	a	i		#viio6/iv	#vii	o	6		iv			o	1	1	1, -2, 4		4	1
+26	26	75	3.0	0	0	3/4	1	1	i/iv|PAC}	a	i		i/iv	i				iv	PAC	}	m	1	1	-1, -4, 0		-1	-1
+27	27	78	3.0	0	0	3/4	1	1	V65/III{	a	i		V65/III	V		65		III		{	Mm7	1	1	2, -1, -4, -2		-2	2
+28	28	81	2.0	0	0	3/4	1	1	III	a	i		III	III							M	1	1	-3, 1, -2		-3	-3
+28	28	83	1.0	1/2	1/2	3/4	1	1	i6	a	i		i6	i		6					m	1	1	-3, 1, 0		0	-3
+29	29	84	3.0	0	0	3/4	1	1	V65	a	i		V65	V		65					Mm7	1	1	5, 2, -1, 1		1	5
+30	30	87	3.0	0	0	3/4	1	1	i	a	i		i	i							m	1	1	0, -3, 1		0	0
+31	31	90	2.0	0	0	3/4	1	1	iio6	a	i		iio6	ii	o	6					o	1	1	-1, -4, 2		2	-1
+31	31	92	1.0	1/2	1/2	3/4	1	1	iv	a	i		iv	iv							m	1	1	-1, -4, 0		-1	-1
+32	32	93	3.0	0	0	3/4	1	1	i6	a	i		i6	i		6					m	1	1	-3, 1, 0		0	-3
+33	33	96	3.0	0	0	3/4	1	1	iio	a	i		iio	ii	o						o	1	1	2, -1, -4		2	2
+34	34	99	3.0	0	0	3/4	1	1	V|HC}	a	i		V	V					HC	}	M	1	1	1, 5, 2		1	1
+35	35	102	3.0	0	0	3/4	1	1	i{	a	i		i	i						{	m	1	1	0, -3, 1		0	0
+36	36	105	3.0	0	0	3/4	1	1	iv	a	i		iv	iv							m	1	1	-1, -4, 0		-1	-1
+37	37	108	3.0	0	0	3/4	1	1	iio	a	i		iio	ii	o						o	1	1	2, -1, -4		2	2
+38	38	111	1.0	0	0	3/4	1	1	#viio	a	i		#viio	#vii	o						o	1	1	5, 2, -1		5	5
+38	38	112	1.0	1/4	1/4	3/4	1	1	IV6	a	i		IV6	IV		6					M	1	1	3, 0, -1		-1	3
+38	38	113	1.0	1/2	1/2	3/4	1	1	#viio	a	i		#viio	#vii	o						o	1	1	5, 2, -1		5	5
+39	39	114	3.0	0	0	3/4	1	1	i	a	i		i	i							m	1	1	0, -3, 1		0	0
+40	40	117	3.0	0	0	3/4	1	1	V	a	i		V	V							M	1	1	1, 5, 2		1	1
+41	41	120	1.0	0	0	3/4	1	1	i6	a	i		i6	i		6					m	1	1	-3, 1, 0		0	-3
+41	41	121	1.0	1/4	1/4	3/4	1	1	#viio6	a	i		#viio6	#vii	o	6					o	1	1	2, -1, 5		5	2
+41	41	122	1.0	1/2	1/2	3/4	1	1	i	a	i		i	i							m	1	1	0, -3, 1		0	0
+42	42	123	3.0	0	0	3/4	1	1	IV6	a	i		IV6	IV		6					M	1	1	3, 0, -1		-1	3
+43	43	126	1.0	0	0	3/4	1	1	iv	a	i		iv	iv							m	1	1	-1, -4, 0		-1	-1
+43	43	127	1.0	1/4	1/4	3/4	1	1	i6	a	i		i6	i		6					m	1	1	-3, 1, 0		0	-3
+43	43	128	4.0	1/2	1/2	3/4	1	1	#viio6	a	i		#viio6	#vii	o	6					o	1	1	2, -1, 5		5	2
+45	45	132	6.0	0	0	3/4	1	1	i|PAC}	a	i		i	i					PAC	}	m	1	1	0, -3, 1		0	0
