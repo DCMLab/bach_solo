@@ -15,7 +15,7 @@ Scores downloaded as CAP files from http://www.tobis-notenarchiv.de/bach/12-Kamm
 * The metadata mark all annotations as version 2.3.0. However, BWV 1001-1008 do not include cadence labels. Probably we introduced this feature during the commission.
 
 
-# Overview
+## Overview
 |        file_name         |measures|labels|standard| annotators |
 |--------------------------|-------:|-----:|--------|------------|
 |BWV1001_01_Adagio         |      22|    95|2.3.0   |Adrian Nagel|
@@ -88,4 +88,4 @@ Scores downloaded as CAP files from http://www.tobis-notenarchiv.de/bach/12-Kamm
 |BWV1013_04_BourreeAnglaise|      70|    98|2.3.0   |Adrian Nagel|
 
 
-*Overview table updated using [ms3](https://johentsch.github.io/ms3/) 1.2.2.*
+*Overview table automatically updated using [ms3](https://johentsch.github.io/ms3/).*
