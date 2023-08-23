@@ -1,0 +1,44 @@
+Warnings encountered during the last execution of ms3 review
+============================================================
+
+FIRST_BAR_MISSING_TEMPO_MARK_WARNING (29,) ms3.Parse.bach_solo.BWV1007_01_Prelude --
+	No metronome mark found in the very first measure nor anywhere else in the score.
+DCML_HARMONY_INCOMPLETE_PEDAL_COLUMN_WARNING (13,) ms3.Parse.bach_solo.BWV1007_01_Prelude --
+	propagate_pedal() failed with
+	2 organ points started, 1 ended:
+	   mc pedal    mc pedalend
+	0   1     I    19        ]
+	1  16     I  <NA>      NaN
+DCML_HARMONY_INCOMPLETE_PEDAL_COLUMN_WARNING (13,) ms3.Parse.bach_solo.BWV1007_01_Prelude --
+	propagate_pedal() failed with
+	2 organ points started, 1 ended:
+	   mc pedal    mc pedalend
+	0   1     I    19        ]
+	1  16     I  <NA>      NaN
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 26, '3/4', 'V(b64)') ms3.Parse.bach_solo.BWV1007_01_Prelude --
+	The label 'V(b64)' in m. 26, onset 3/4 (MC 26, onset 3/4)
+	                seems not to correspond well to the score (which does not necessarily mean it is wrong).
+	In the context of G.I, it expresses the scale degrees
+	('5', '1', 'b3') [('D', 'G', 'Bb')].
+	The corresponding score segment has 1 within-label and 3 out-of-label note onsets,
+	a ratio of 0.75 > 0.6 (the current, arbitrary, threshold).
+	If it turns out the label is correct, please add the header of this warning to the IGNORED_WARNINGS, ideally followed
+	by a free-text comment in subsequent lines starting with a space or tab.
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 33, '1/2', 'V(64)') ms3.Parse.bach_solo.BWV1007_01_Prelude --
+	The label 'V(64)' in m. 33, onset 1/2 (MC 33, onset 1/2)
+	                seems not to correspond well to the score (which does not necessarily mean it is wrong).
+	In the context of G.I, it expresses the scale degrees
+	('5', '1', '3') [('D', 'G', 'B')].
+	The corresponding score segment has 8 within-label and 16 out-of-label note onsets,
+	a ratio of 0.6666666666666666 > 0.6 (the current, arbitrary, threshold).
+	If it turns out the label is correct, please add the header of this warning to the IGNORED_WARNINGS, ideally followed
+	by a free-text comment in subsequent lines starting with a space or tab.
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 35, '1/2', 'V(64)') ms3.Parse.bach_solo.BWV1007_01_Prelude --
+	The label 'V(64)' in m. 35, onset 1/2 (MC 35, onset 1/2)
+	                seems not to correspond well to the score (which does not necessarily mean it is wrong).
+	In the context of G.I, it expresses the scale degrees
+	('5', '1', '3') [('D', 'G', 'B')].
+	The corresponding score segment has 6 within-label and 10 out-of-label note onsets,
+	a ratio of 0.625 > 0.6 (the current, arbitrary, threshold).
+	If it turns out the label is correct, please add the header of this warning to the IGNORED_WARNINGS, ideally followed
+	by a free-text comment in subsequent lines starting with a space or tab.

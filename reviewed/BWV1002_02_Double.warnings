@@ -1,0 +1,13 @@
+Warnings encountered during the last execution of ms3 review
+============================================================
+
+MCS_NOT_EXCLUDED_FROM_BARCOUNT_WARNING (1, 1, 14) ms3.Parse.bach_solo.BWV1002_02_Double --
+	MCs 1, 14 seem to be offset from the MN's beginning but have not been excluded from barcount. Context:
+	    mc  mn act_dur mc_offset  dont_count  numbering_offset
+	0    1   1    1/16     15/16        <NA>              <NA>
+	1    2   2       1         0        <NA>              <NA>
+	12  13  13   15/16         0        <NA>              <NA>
+	13  14  14    1/16     15/16        <NA>              <NA>
+	14  15  15       1         0        <NA>              <NA>
+FIRST_BAR_MISSING_TEMPO_MARK_WARNING (29,) ms3.Parse.bach_solo.BWV1002_02_Double --
+	No metronome mark found in the very first measure nor anywhere else in the score.
