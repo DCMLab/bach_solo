@@ -123,6 +123,7 @@
         <boxAutoSize>0</boxAutoSize>
         </VBox>
       <Measure len="1/16">
+        <irregular>1</irregular>
         <voice>
           <KeySig>
             <accidental>-1</accidental>
@@ -2469,6 +2470,7 @@
         </Measure>
       <Measure len="1/16">
         <startRepeat/>
+        <irregular>1</irregular>
         <voice>
           <Clef>
             <concertClefType>G</concertClefType>
