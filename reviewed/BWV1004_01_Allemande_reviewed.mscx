@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <museScore version="3.02">
-  <programVersion>3.6.0</programVersion>
-  <programRevision>1977cb3</programRevision>
+  <programVersion>3.6.2</programVersion>
+  <programRevision>3224f34</programRevision>
   <Score>
     <LayerTag id="0" tag="default"></LayerTag>
     <currentLayer>0</currentLayer>
@@ -104,11 +104,13 @@
         <trackName></trackName>
         <instrumentId>strings.violin</instrumentId>
         <Channel>
+          <controller ctrl="0" value="0"/>
           <controller ctrl="32" value="17"/>
           <program value="40"/>
           <synti>Fluid</synti>
           </Channel>
         <Channel name="harmony">
+          <controller ctrl="0" value="0"/>
           <controller ctrl="32" value="17"/>
           <program value="0"/>
           <synti>Fluid</synti>
@@ -121,6 +123,7 @@
         <boxAutoSize>0</boxAutoSize>
         </VBox>
       <Measure len="1/16">
+        <irregular>1</irregular>
         <voice>
           <KeySig>
             <accidental>-1</accidental>
@@ -132,6 +135,12 @@
           <Harmony>
             <name>.d.i{</name>
             </Harmony>
+          <Tempo>
+            <tempo>1.3333333333333333</tempo>
+            <followText>1</followText>
+            <visible>0</visible>
+            <text><sym>metNoteQuarterUp</sym> = 80</text>
+            </Tempo>
           <Chord>
             <durationType>16th</durationType>
             <Note>
@@ -463,7 +472,7 @@
               </Note>
             </Chord>
           <Harmony>
-            <name>VI6</name>
+            <name>iv6</name>
             </Harmony>
           <Tuplet>
             <normalNotes>2</normalNotes>
@@ -492,12 +501,14 @@
           <Chord>
             <durationType>16th</durationType>
             <Note>
-              <color r="255" g="0" b="0" a="255"/>
               <pitch>67</pitch>
               <tpc>15</tpc>
               </Note>
             </Chord>
           <endTuplet/>
+          <Harmony>
+            <name>i6-III</name>
+            </Harmony>
           <Tuplet>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
@@ -510,7 +521,6 @@
           <Chord>
             <durationType>16th</durationType>
             <Note>
-              <color r="255" g="0" b="0" a="255"/>
               <pitch>69</pitch>
               <tpc>17</tpc>
               </Note>
@@ -2549,6 +2559,7 @@
         </Measure>
       <Measure len="1/16">
         <startRepeat/>
+        <irregular>1</irregular>
         <voice>
           <Clef>
             <concertClefType>G</concertClefType>
@@ -4957,12 +4968,12 @@
               <tpc>21</tpc>
               </Note>
             </Chord>
-          <Fermata>
-            <subtype>fermataAbove</subtype>
-            </Fermata>
           <Harmony>
             <name>i}</name>
             </Harmony>
+          <Fermata>
+            <subtype>fermataAbove</subtype>
+            </Fermata>
           <Chord>
             <dots>1</dots>
             <durationType>quarter</durationType>

@@ -6,3 +6,11 @@ DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 13, '27/32', 'i.i6{') ms3.Pars
 
 DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 25, '5/8', 'V') ms3.Parse.bach_solo.BWV1002_01_Allemanda
 	The label V at the end of m23 should be fine considering that chord is implied even without the A# present
+
+INCOMPLETE_MC_WRONGLY_COMPLETED_WARNING (3, 17) ms3.Parse.bach_solo.BWV1004_01_Allemande
+	The incomplete MC 17 (timesig 1, act_dur 7/8) is completed by 2 incorrect durations (expected: 1/8):
+        {1: Fraction(1, 16), 18: Fraction(1, 16)}
+
+INCOMPLETE_MC_WRONGLY_COMPLETED_WARNING (3, 34) ms3.Parse.bach_solo.BWV1004_01_Allemande
+	The incomplete MC 34 (timesig 1, act_dur 7/8) is completed by 1 incorrect duration (expected: 1/8):
+        {18: Fraction(1, 16)}
