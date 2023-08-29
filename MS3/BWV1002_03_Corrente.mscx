@@ -119,6 +119,7 @@
       </Part>
     <Staff id="1">
       <Measure len="1/8">
+        <irregular>1</irregular>
         <voice>
           <KeySig>
             <accidental>2</accidental>
@@ -2237,6 +2238,7 @@
         </Measure>
       <Measure len="1/8">
         <startRepeat/>
+        <irregular>1</irregular>
         <voice>
           <Clef>
             <concertClefType>G</concertClefType>
