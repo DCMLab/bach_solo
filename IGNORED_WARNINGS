@@ -3,3 +3,6 @@ DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 11, '1/8', 'i6') ms3.Parse.bac
 
 DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 13, '27/32', 'i.i6{') ms3.Parse.bach_solo.BWV1002_01_Allemanda
 	The label i.i6{ in m12 could be a possibility if the main notes considered are D and F#; Bach does make this ambiguous.
+
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 25, '5/8', 'V') ms3.Parse.bach_solo.BWV1002_01_Allemanda
+	The label V at the end of m23 should be fine considering that chord is implied even without the A# present
