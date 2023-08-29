@@ -71,7 +71,7 @@
       <defaultsVersion>301</defaultsVersion>
       <Spatium>1.8</Spatium>
       </Style>
-    <showInvisible>0</showInvisible>
+    <showInvisible>1</showInvisible>
     <showUnprintable>1</showUnprintable>
     <showFrames>1</showFrames>
     <showMargins>0</showMargins>
@@ -2174,7 +2174,7 @@
       <Measure>
         <voice>
           <Harmony>
-            <name>VII6(2)</name>
+            <name>V7/v</name>
             </Harmony>
           <Chord>
             <durationType>16th</durationType>
@@ -2190,9 +2190,6 @@
               <tpc>15</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <name>VII6</name>
-            </Harmony>
           <Chord>
             <durationType>16th</durationType>
             <Note>
