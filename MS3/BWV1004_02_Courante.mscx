@@ -1239,7 +1239,7 @@
             <transposingClefType>G</transposingClefType>
             </Clef>
           <Harmony>
-            <name>ii</name>
+            <name>ii%7</name>
             </Harmony>
           <Tuplet>
             <normalNotes>2</normalNotes>
