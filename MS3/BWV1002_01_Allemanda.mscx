@@ -1018,6 +1018,9 @@
               <tpc>17</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <name>v65(+9)</name>
+            </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
             </Beam>
@@ -1036,9 +1039,6 @@
               <tpc>15</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <name>III6</name>
-            </Harmony>
           <Chord>
             <dots>1</dots>
             <durationType>16th</durationType>
