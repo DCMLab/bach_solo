@@ -965,6 +965,9 @@
               <tpc>17</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <name>III</name>
+            </Harmony>
           <Chord>
             <durationType>32nd</durationType>
             <Spanner type="Slur">
@@ -995,9 +998,6 @@
               <tpc>18</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <name>ii6/III</name>
-            </Harmony>
           <Chord>
             <durationType>16th</durationType>
             <Note>
