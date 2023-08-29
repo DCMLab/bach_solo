@@ -1,9 +1,0 @@
-Warnings encountered during the last execution of ms3 review
-============================================================
-
-INCOMPLETE_MC_WRONGLY_COMPLETED_WARNING (3, 17) ms3.Parse.bach_solo.BWV1004_01_Allemande --
-	The incomplete MC 17 (timesig 1, act_dur 7/8) is completed by 2 incorrect durations (expected: 1/8):
-	{1: Fraction(1, 16), 18: Fraction(1, 16)}
-INCOMPLETE_MC_WRONGLY_COMPLETED_WARNING (3, 34) ms3.Parse.bach_solo.BWV1004_01_Allemande --
-	The incomplete MC 34 (timesig 1, act_dur 7/8) is completed by 1 incorrect duration (expected: 1/8):
-	{18: Fraction(1, 16)}
