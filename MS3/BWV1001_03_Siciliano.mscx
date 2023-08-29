@@ -1328,6 +1328,9 @@
               <tpc>15</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <name>V43/VII</name>
+            </Harmony>
           <Chord>
             <durationType>32nd</durationType>
             <Note>
