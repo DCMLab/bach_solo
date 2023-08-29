@@ -463,7 +463,7 @@
               </Note>
             </Chord>
           <Harmony>
-            <name>VI6</name>
+            <name>iv6</name>
             </Harmony>
           <Tuplet>
             <normalNotes>2</normalNotes>
@@ -496,6 +496,9 @@
               </Note>
             </Chord>
           <endTuplet/>
+          <Harmony>
+            <name>i6-III</name>
+            </Harmony>
           <Tuplet>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
