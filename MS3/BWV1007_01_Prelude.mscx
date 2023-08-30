@@ -5068,7 +5068,7 @@
             <transposingClefType>F</transposingClefType>
             </Clef>
           <Harmony>
-            <name>V</name>
+            <name>V[</name>
             </Harmony>
           <Chord>
             <durationType>16th</durationType>
@@ -5102,6 +5102,9 @@
               <tpc>17</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <name>V43/V</name>
+            </Harmony>
           <Chord>
             <durationType>16th</durationType>
             <StemDirection>down</StemDirection>
@@ -5134,9 +5137,6 @@
               <tpc>17</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <name>V(64)</name>
-            </Harmony>
           <Chord>
             <durationType>16th</durationType>
             <Note>
@@ -5335,6 +5335,9 @@
               <tpc>17</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <name>V/V</name>
+            </Harmony>
           <Chord>
             <durationType>16th</durationType>
             <StemDirection>up</StemDirection>
@@ -5585,9 +5588,6 @@
               <tpc>17</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <name>V(64)</name>
-            </Harmony>
           <Chord>
             <durationType>16th</durationType>
             <StemDirection>up</StemDirection>
@@ -5773,9 +5773,6 @@
           <subtype>line</subtype>
           </LayoutBreak>
         <voice>
-          <Harmony>
-            <name>V</name>
-            </Harmony>
           <Chord>
             <durationType>16th</durationType>
             <StemDirection>up</StemDirection>
@@ -6545,7 +6542,7 @@
             <transposingClefType>F</transposingClefType>
             </Clef>
           <Harmony>
-            <name>V7</name>
+            <name>V7]</name>
             </Harmony>
           <Chord>
             <durationType>16th</durationType>
