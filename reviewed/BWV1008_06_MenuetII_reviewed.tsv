@@ -16,7 +16,7 @@ mc	mn	mc_onset	mn_onset	timesig	staff	voice	label	offset_x	offset_y	offset	globa
 13	13	0	0	3/4	1	1	iio6/vi				D	I		iio6/vi	ii	o	6		vi			o	0	0	4, 1, 7		7	4	2	2	0.5	0.25	0.25	0.5
 13	13	1/2	1/2	3/4	1	1	#viio64/vi				D	I		#viio64/vi	#vii	o	64		vi			o	0	0	4, 10, 7		10	4	0	2	0.0	0.0	0.25	0.0
 14	14	0	0	3/4	1	1	vi6				D	I		vi6	vi		6					m	0	0	2, 6, 5		5	2	3	3	0.5	0.375	0.375	0.5
-15	15	0	0	3/4	1	1	#viio6/vi				D	I		#viio6/vi	#vii	o	6		vi			o	0	0	7, 4, 10		10	7	4	2	0.6666666666666666	0.5	0.25	0.6666666666666666
+15	15	0	0	3/4	1	1	viio				D	I		viio	vii	o						o	0	0	7, 4, 1		7	7	3	3	0.5	0.375	0.375	0.5
 16	16	0	0	3/4	1	1	vi}				D	I		vi	vi						}	m	0	0	5, 2, 6		5	5	3	3	0.5	0.375	0.375	0.5
 17	17	0	0	3/4	1	1	I6{				D	I		I6	I		6				{	M	0	0	6, 3, 2		2	6	3	3	0.5	0.375	0.375	0.5
 18	18	0	0	3/4	1	1	#viio7/ii				D	I		#viio7/ii	#vii	o	7		ii			o7	0	0	9, 6, 3, 0		9	9	3	6	0.3333333333333333	0.375	1.125	0.25
