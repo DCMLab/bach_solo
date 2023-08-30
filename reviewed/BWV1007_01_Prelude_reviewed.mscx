@@ -4153,7 +4153,7 @@
               </Note>
             </Chord>
           <Harmony>
-            <name>viio/V</name>
+            <name>viio7/V</name>
             </Harmony>
           <Chord>
             <durationType>16th</durationType>
@@ -4200,7 +4200,6 @@
           <Chord>
             <durationType>16th</durationType>
             <Note>
-              <color r="255" g="0" b="0" a="255"/>
               <Accidental>
                 <subtype>accidentalFlat</subtype>
                 </Accidental>
@@ -4220,7 +4219,6 @@
                 </next>
               </Spanner>
             <Note>
-              <color r="255" g="0" b="0" a="255"/>
               <pitch>58</pitch>
               <tpc>12</tpc>
               </Note>
