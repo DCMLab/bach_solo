@@ -60,7 +60,7 @@ Scores downloaded as CAP files from http://www.tobis-notenarchiv.de/bach/12-Kamm
 |BWV1009_04_Sarabande      |      24|    55|2.3.0   |Adrian Nagel|
 |BWV1009_05_BourréeI       |      28|    64|2.3.0   |Adrian Nagel|
 |BWV1009_06_BourréeII      |      24|    36|2.3.0   |Adrian Nagel|
-|BWV1009_07_Gique          |     108|   110|2.3.0   |Adrian Nagel|
+|BWV1009_07_Gique          |     108|   111|2.3.0   |Adrian Nagel|
 |BWV1010_01_Prelude        |      91|    75|2.3.0   |Adrian Nagel|
 |BWV1010_02_Allemande      |      40|    97|2.3.0   |Adrian Nagel|
 |BWV1010_03_Courante       |      64|   106|2.3.0   |Adrian Nagel|

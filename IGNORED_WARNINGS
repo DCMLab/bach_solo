@@ -17,3 +17,6 @@ INCOMPLETE_MC_WRONGLY_COMPLETED_WARNING (3, 34) ms3.Parse.bach_solo.BWV1004_01_A
 
 DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 14, '1/4', 'I') ms3.Parse.bach_solo.BWV1007_03_Courante
 	The label I in m13 can be okay; it's actually very ambiguous here, because it's only 1 voice implying notes of both I and V.
+
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 30, '0', 'V6') ms3.Parse.bach_solo.BWV1009_07_Gique
+	The label V6 in m.29 is plausible; another possibility is viio but the validator still complains because of the G pedal.
