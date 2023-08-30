@@ -594,7 +594,7 @@
         <endRepeat>2</endRepeat>
         <voice>
           <Harmony>
-            <name>V(4)}</name>
+            <name>V(4)</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -627,7 +627,7 @@
               </Note>
             </Chord>
           <Harmony>
-            <name>V</name>
+            <name>V}</name>
             </Harmony>
           <Chord>
             <durationType>half</durationType>
@@ -1193,7 +1193,7 @@
       <Measure>
         <voice>
           <Harmony>
-            <name>#viio7/iv</name>
+            <name>#viio7/iv{</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
