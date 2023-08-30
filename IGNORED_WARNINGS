@@ -14,3 +14,6 @@ INCOMPLETE_MC_WRONGLY_COMPLETED_WARNING (3, 17) ms3.Parse.bach_solo.BWV1004_01_A
 INCOMPLETE_MC_WRONGLY_COMPLETED_WARNING (3, 34) ms3.Parse.bach_solo.BWV1004_01_Allemande
 	The incomplete MC 34 (timesig 1, act_dur 7/8) is completed by 1 incorrect duration (expected: 1/8):
         {18: Fraction(1, 16)}
+
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 14, '1/4', 'I') ms3.Parse.bach_solo.BWV1007_03_Courante
+	The label I in m13 can be okay; it's actually very ambiguous here, because it's only 1 voice implying notes of both I and V.

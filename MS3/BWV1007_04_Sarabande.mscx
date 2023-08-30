@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <museScore version="3.02">
-  <programVersion>3.6.0</programVersion>
-  <programRevision>1977cb3</programRevision>
+  <programVersion>3.6.2</programVersion>
+  <programRevision>3224f34</programRevision>
   <Score>
     <LayerTag id="0" tag="default"></LayerTag>
     <currentLayer>0</currentLayer>
@@ -156,6 +156,12 @@
           <Harmony>
             <name>.G.I{</name>
             </Harmony>
+          <Tempo>
+            <tempo>1.2666666666666666</tempo>
+            <followText>1</followText>
+            <visible>0</visible>
+            <text><b></b><font face="ScoreText"/><b><font face="FreeSerif"/> = 76</b></text>
+            </Tempo>
           <Chord>
             <durationType>quarter</durationType>
             <Note>
@@ -470,7 +476,7 @@
             </Chord>
           </voice>
         </Measure>
-      <Measure len="23/32">
+      <Measure>
         <voice>
           <Harmony>
             <name>viio</name>
@@ -490,10 +496,13 @@
             <durationType>16th</durationType>
             <Spanner type="Slur">
               <Slur>
+                <SlurSegment no="0">
+                  <o4 x="1.92096" y="0.681631"/>
+                  </SlurSegment>
                 </Slur>
               <next>
                 <location>
-                  <fractions>1/8</fractions>
+                  <fractions>1/16</fractions>
                   </location>
                 </next>
               </Spanner>
@@ -503,10 +512,17 @@
               </Note>
             </Chord>
           <Harmony>
-            <name>I</name>
+            <name>I6</name>
             </Harmony>
           <Chord>
             <durationType>16th</durationType>
+            <Spanner type="Slur">
+              <prev>
+                <location>
+                  <fractions>-1/16</fractions>
+                  </location>
+                </prev>
+              </Spanner>
             <Note>
               <pitch>59</pitch>
               <tpc>19</tpc>
@@ -514,13 +530,6 @@
             </Chord>
           <Chord>
             <durationType>16th</durationType>
-            <Spanner type="Slur">
-              <prev>
-                <location>
-                  <fractions>-1/8</fractions>
-                  </location>
-                </prev>
-              </Spanner>
             <Note>
               <pitch>55</pitch>
               <tpc>15</tpc>
@@ -571,22 +580,13 @@
             </Chord>
           </voice>
         </Measure>
-      <Measure len="23/32">
+      <Measure>
         <voice>
           <Harmony>
             <name>V2</name>
             </Harmony>
           <Chord>
             <durationType>16th</durationType>
-            <Spanner type="Slur">
-              <Slur>
-                </Slur>
-              <next>
-                <location>
-                  <fractions>3/16</fractions>
-                  </location>
-                </next>
-              </Spanner>
             <Note>
               <pitch>57</pitch>
               <tpc>17</tpc>
@@ -594,6 +594,18 @@
             </Chord>
           <Chord>
             <durationType>16th</durationType>
+            <Spanner type="Slur">
+              <Slur>
+                <SlurSegment no="0">
+                  <o4 x="1.67309" y="0.309832"/>
+                  </SlurSegment>
+                </Slur>
+              <next>
+                <location>
+                  <fractions>1/16</fractions>
+                  </location>
+                </next>
+              </Spanner>
             <Note>
               <pitch>54</pitch>
               <tpc>20</tpc>
@@ -601,6 +613,13 @@
             </Chord>
           <Chord>
             <durationType>16th</durationType>
+            <Spanner type="Slur">
+              <prev>
+                <location>
+                  <fractions>-1/16</fractions>
+                  </location>
+                </prev>
+              </Spanner>
             <Note>
               <pitch>50</pitch>
               <tpc>16</tpc>
@@ -608,13 +627,6 @@
             </Chord>
           <Chord>
             <durationType>16th</durationType>
-            <Spanner type="Slur">
-              <prev>
-                <location>
-                  <fractions>-3/16</fractions>
-                  </location>
-                </prev>
-              </Spanner>
             <Note>
               <pitch>48</pitch>
               <tpc>14</tpc>
@@ -628,7 +640,6 @@
             <durationType>eighth</durationType>
             <Articulation>
               <subtype>ornamentTrill</subtype>
-              <offset x="0.12451" y="1.2451"/>
               </Articulation>
             <Note>
               <pitch>47</pitch>
@@ -646,10 +657,13 @@
             <durationType>16th</durationType>
             <Spanner type="Slur">
               <Slur>
+                <SlurSegment no="0">
+                  <o4 x="3.09832" y="-2.35473"/>
+                  </SlurSegment>
                 </Slur>
               <next>
                 <location>
-                  <fractions>3/16</fractions>
+                  <fractions>1/16</fractions>
                   </location>
                 </next>
               </Spanner>
@@ -660,6 +674,13 @@
             </Chord>
           <Chord>
             <durationType>16th</durationType>
+            <Spanner type="Slur">
+              <prev>
+                <location>
+                  <fractions>-1/16</fractions>
+                  </location>
+                </prev>
+              </Spanner>
             <Note>
               <pitch>50</pitch>
               <tpc>16</tpc>
@@ -674,13 +695,6 @@
             </Chord>
           <Chord>
             <durationType>16th</durationType>
-            <Spanner type="Slur">
-              <prev>
-                <location>
-                  <fractions>-3/16</fractions>
-                  </location>
-                </prev>
-              </Spanner>
             <Note>
               <pitch>57</pitch>
               <tpc>17</tpc>
@@ -688,7 +702,7 @@
             </Chord>
           </voice>
         </Measure>
-      <Measure len="23/32">
+      <Measure>
         <voice>
           <Harmony>
             <name>V.ii2</name>
@@ -704,10 +718,13 @@
             <durationType>16th</durationType>
             <Spanner type="Slur">
               <Slur>
+                <SlurSegment no="0">
+                  <o4 x="2.04489" y="0.247866"/>
+                  </SlurSegment>
                 </Slur>
               <next>
                 <location>
-                  <fractions>1/8</fractions>
+                  <fractions>1/16</fractions>
                   </location>
                 </next>
               </Spanner>
@@ -718,6 +735,13 @@
             </Chord>
           <Chord>
             <durationType>16th</durationType>
+            <Spanner type="Slur">
+              <prev>
+                <location>
+                  <fractions>-1/16</fractions>
+                  </location>
+                </prev>
+              </Spanner>
             <Note>
               <pitch>52</pitch>
               <tpc>18</tpc>
@@ -725,13 +749,6 @@
             </Chord>
           <Chord>
             <durationType>16th</durationType>
-            <Spanner type="Slur">
-              <prev>
-                <location>
-                  <fractions>-1/8</fractions>
-                  </location>
-                </prev>
-              </Spanner>
             <Note>
               <pitch>50</pitch>
               <tpc>16</tpc>
@@ -745,8 +762,7 @@
             <durationType>eighth</durationType>
             <Articulation>
               <subtype>ornamentTrill</subtype>
-              <minDistance>-999</minDistance>
-              <offset x="0" y="2"/>
+              <offset x="-0.165244" y="1.07409"/>
               </Articulation>
             <Note>
               <Accidental>
@@ -760,10 +776,13 @@
             <durationType>32nd</durationType>
             <Spanner type="Slur">
               <Slur>
+                <SlurSegment no="0">
+                  <o4 x="3.96585" y="-2.29276"/>
+                  </SlurSegment>
                 </Slur>
               <next>
                 <location>
-                  <fractions>1/4</fractions>
+                  <fractions>1/8</fractions>
                   </location>
                 </next>
               </Spanner>
@@ -788,6 +807,13 @@
             </Chord>
           <Chord>
             <durationType>16th</durationType>
+            <Spanner type="Slur">
+              <prev>
+                <location>
+                  <fractions>-1/8</fractions>
+                  </location>
+                </prev>
+              </Spanner>
             <Note>
               <pitch>50</pitch>
               <tpc>16</tpc>
@@ -802,13 +828,6 @@
             </Chord>
           <Chord>
             <durationType>16th</durationType>
-            <Spanner type="Slur">
-              <prev>
-                <location>
-                  <fractions>-1/4</fractions>
-                  </location>
-                </prev>
-              </Spanner>
             <Note>
               <pitch>54</pitch>
               <tpc>20</tpc>
@@ -816,22 +835,13 @@
             </Chord>
           </voice>
         </Measure>
-      <Measure len="23/32">
+      <Measure>
         <voice>
           <Harmony>
             <name>V2</name>
             </Harmony>
           <Chord>
             <durationType>16th</durationType>
-            <Spanner type="Slur">
-              <Slur>
-                </Slur>
-              <next>
-                <location>
-                  <fractions>3/16</fractions>
-                  </location>
-                </next>
-              </Spanner>
             <Note>
               <pitch>55</pitch>
               <tpc>15</tpc>
@@ -839,6 +849,18 @@
             </Chord>
           <Chord>
             <durationType>16th</durationType>
+            <Spanner type="Slur">
+              <Slur>
+                <SlurSegment no="0">
+                  <o4 x="2.72652" y="-0.082622"/>
+                  </SlurSegment>
+                </Slur>
+              <next>
+                <location>
+                  <fractions>1/16</fractions>
+                  </location>
+                </next>
+              </Spanner>
             <Note>
               <Accidental>
                 <subtype>accidentalSharp</subtype>
@@ -849,6 +871,13 @@
             </Chord>
           <Chord>
             <durationType>16th</durationType>
+            <Spanner type="Slur">
+              <prev>
+                <location>
+                  <fractions>-1/16</fractions>
+                  </location>
+                </prev>
+              </Spanner>
             <Note>
               <pitch>62</pitch>
               <tpc>16</tpc>
@@ -856,13 +885,6 @@
             </Chord>
           <Chord>
             <durationType>16th</durationType>
-            <Spanner type="Slur">
-              <prev>
-                <location>
-                  <fractions>-3/16</fractions>
-                  </location>
-                </prev>
-              </Spanner>
             <Note>
               <pitch>61</pitch>
               <tpc>21</tpc>
@@ -967,7 +989,7 @@
             </Chord>
           </voice>
         </Measure>
-      <Measure len="23/32">
+      <Measure>
         <endRepeat>2</endRepeat>
         <voice>
           <Harmony>
@@ -1061,6 +1083,9 @@
       <Measure>
         <startRepeat/>
         <voice>
+          <Harmony>
+            <name>I.V{</name>
+            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -1083,7 +1108,7 @@
               </Note>
             </Chord>
           <Harmony>
-            <name>I.V7</name>
+            <name>V7</name>
             </Harmony>
           <Chord>
             <dots>1</dots>
@@ -2006,7 +2031,7 @@
             </Chord>
           </voice>
         </Measure>
-      <Measure len="23/32">
+      <Measure>
         <endRepeat>2</endRepeat>
         <voice>
           <Harmony>
@@ -2023,10 +2048,13 @@
             <durationType>16th</durationType>
             <Spanner type="Slur">
               <Slur>
+                <SlurSegment no="0">
+                  <o4 x="2.6439" y="0.41311"/>
+                  </SlurSegment>
                 </Slur>
               <next>
                 <location>
-                  <fractions>1/8</fractions>
+                  <fractions>1/16</fractions>
                   </location>
                 </next>
               </Spanner>
@@ -2040,6 +2068,13 @@
             </Harmony>
           <Chord>
             <durationType>16th</durationType>
+            <Spanner type="Slur">
+              <prev>
+                <location>
+                  <fractions>-1/16</fractions>
+                  </location>
+                </prev>
+              </Spanner>
             <Note>
               <pitch>57</pitch>
               <tpc>17</tpc>
@@ -2047,13 +2082,6 @@
             </Chord>
           <Chord>
             <durationType>16th</durationType>
-            <Spanner type="Slur">
-              <prev>
-                <location>
-                  <fractions>-1/8</fractions>
-                  </location>
-                </prev>
-              </Spanner>
             <Note>
               <pitch>54</pitch>
               <tpc>20</tpc>
@@ -2076,12 +2104,6 @@
               <tpc>15</tpc>
               </Note>
             </Chord>
-          <location>
-            <fractions>-1/32</fractions>
-            </location>
-          <Fermata>
-            <subtype>fermataAbove</subtype>
-            </Fermata>
           </voice>
         </Measure>
       </Staff>
