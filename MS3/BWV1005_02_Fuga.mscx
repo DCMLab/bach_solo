@@ -28069,7 +28069,7 @@
       <Measure>
         <voice>
           <Harmony>
-            <name>ii/ii</name>
+            <name>vii</name>
             </Harmony>
           <Chord>
             <durationType>half</durationType>
@@ -28086,7 +28086,7 @@
               </Note>
             </Chord>
           <Harmony>
-            <name>ii%65/ii</name>
+            <name>ii</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
