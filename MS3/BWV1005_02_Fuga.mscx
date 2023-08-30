@@ -153,7 +153,7 @@
             <text>mf</text>
             </StaffText>
           <Harmony>
-            <name>.C.V{</name>
+            <name>.C.I{</name>
             </Harmony>
           <Tempo>
             <tempo>2.7999999999999998</tempo>
@@ -173,7 +173,7 @@
       <Measure>
         <voice>
           <Harmony>
-            <name>vi</name>
+            <name>IV</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -27551,7 +27551,8 @@
       <Measure>
         <voice>
           <Harmony>
-            <name>V]}</name>
+            <name>V]</name>
+            <offset x="0.347882" y="-5.59901"/>
             </Harmony>
           <Chord>
             <durationType>half</durationType>
@@ -27564,6 +27565,15 @@
               <tpc>15</tpc>
               </Note>
             </Chord>
+          <location>
+            <fractions>-3/8</fractions>
+            </location>
+          <Harmony>
+            <name>}</name>
+            </Harmony>
+          <location>
+            <fractions>3/8</fractions>
+            </location>
           <Harmony>
             <name>{</name>
             </Harmony>
