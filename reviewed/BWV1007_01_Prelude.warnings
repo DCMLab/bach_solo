@@ -1,30 +1,8 @@
 Warnings encountered during the last execution of ms3 review
 ============================================================
 
-DCML_HARMONY_SYNTAX_WARNING (15,) ms3.Parse.bach_solo.BWV1007_01_Prelude --
-	Score contains 1 labels that don't (and 53 that do) match the DCML standard:
-	    mc  mn label harmony_layer
-	44  33  33    V[             0
-DCML_HARMONY_INCOMPLETE_PEDAL_COLUMN_WARNING (13,) ms3.Parse.bach_solo.BWV1007_01_Prelude --
-	propagate_pedal() failed with
-	2 organ points started, 3 ended:
-	     mc pedal  mc pedalend
-	0     1     I   4        ]
-	1    16     I  19        ]
-	2  <NA>   NaN  41        ]
-DCML_DEFAULT_CORRECTION_WARNING (27, 'MC 26: ') ms3.Parse.bach_solo.BWV1007_01_Prelude --
-	MC 26: #vii in major context corrected to vii.
-DCML_HARMONY_INCOMPLETE_PEDAL_COLUMN_WARNING (13,) ms3.Parse.bach_solo.BWV1007_01_Prelude --
-	propagate_pedal() failed with
-	2 organ points started, 3 ended:
-	     mc pedal  mc pedalend
-	0     1     I   4        ]
-	1    16     I  19        ]
-	2  <NA>   NaN  41        ]
-DCML_DEFAULT_CORRECTION_WARNING (27, 'MC 26: ') ms3.Parse.bach_solo.BWV1007_01_Prelude --
-	MC 26: #vii in major context corrected to vii.
-DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 26, '1/2', '#viio/V') ms3.Parse.bach_solo.BWV1007_01_Prelude --
-	The label '#viio/V' in m. 26, onset 1/2 (MC 26, onset 1/2)
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 26, '1/2', 'viio/V') ms3.Parse.bach_solo.BWV1007_01_Prelude --
+	The label 'viio/V' in m. 26, onset 1/2 (MC 26, onset 1/2)
 	                seems not to correspond well to the score (which does not necessarily mean it is wrong).
 	In the context of G.I, it expresses the scale degrees
 	('#4', '6', '1') [('C#', 'E', 'G')].

@@ -4153,7 +4153,7 @@
               </Note>
             </Chord>
           <Harmony>
-            <name>#viio/V</name>
+            <name>viio/V</name>
             </Harmony>
           <Chord>
             <durationType>16th</durationType>
@@ -5187,13 +5187,12 @@
             <transposingClefType>F</transposingClefType>
             </Clef>
           <Harmony>
-            <name>V[</name>
+            <name>V[V</name>
             </Harmony>
           <Chord>
             <durationType>16th</durationType>
             <StemDirection>down</StemDirection>
             <Note>
-              <color r="255" g="0" b="0" a="255"/>
               <pitch>54</pitch>
               <tpc>20</tpc>
               </Note>
@@ -5210,7 +5209,6 @@
             <durationType>16th</durationType>
             <StemDirection>down</StemDirection>
             <Note>
-              <color r="255" g="0" b="0" a="255"/>
               <pitch>50</pitch>
               <tpc>16</tpc>
               </Note>
