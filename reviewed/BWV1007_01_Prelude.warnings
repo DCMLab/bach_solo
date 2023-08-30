@@ -1,7 +1,0 @@
-Warnings encountered during the last execution of ms3 review
-============================================================
-
-DCML_HARMONY_SYNTAX_WARNING (15,) ms3.Parse.bach_solo.BWV1007_01_Prelude --
-	Score contains 1 labels that don't (and 53 that do) match the DCML standard:
-	    mc  mn        label harmony_layer
-	31  26  26  V6/V(+#7b2)             0

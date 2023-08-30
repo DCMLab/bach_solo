@@ -40,7 +40,7 @@ Scores downloaded as CAP files from http://www.tobis-notenarchiv.de/bach/12-Kamm
 |BWV1006_04_Menuett        |      66|   124|2.3.0   |Adrian Nagel|
 |BWV1006_05_Bourée         |      36|    57|2.3.0   |Adrian Nagel|
 |BWV1006_06_Gigue          |      32|    52|2.3.0   |Adrian Nagel|
-|BWV1007_01_Prelude        |      42|    53|2.3.0   |Adrian Nagel|
+|BWV1007_01_Prelude        |      42|    55|2.3.0   |Adrian Nagel|
 |BWV1007_02_Allemande      |      32|    75|2.3.0   |Adrian Nagel|
 |BWV1007_03_Courante       |      42|    67|2.3.0   |Adrian Nagel|
 |BWV1007_04_Sarabande      |      16|    42|2.3.0   |Adrian Nagel|
