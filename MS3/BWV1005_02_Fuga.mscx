@@ -128,6 +128,7 @@
           </Text>
         </VBox>
       <Measure len="1/2">
+        <irregular>1</irregular>
         <voice>
           <TimeSig>
             <sigN>2</sigN>
