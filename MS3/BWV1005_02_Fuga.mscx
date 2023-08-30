@@ -16807,7 +16807,7 @@
               </Note>
             </Chord>
           <Harmony>
-            <name>#viio/iii</name>
+            <name>#viio/vi</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -16834,7 +16834,7 @@
           </LayoutBreak>
         <voice>
           <Harmony>
-            <name>iii</name>
+            <name>vi</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
