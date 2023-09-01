@@ -20,3 +20,6 @@ DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 14, '1/4', 'I') ms3.Parse.bach
 
 DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 30, '0', 'V6') ms3.Parse.bach_solo.BWV1009_07_Gique
 	The label V6 in m.29 is plausible; another possibility is viio but the validator still complains because of the G pedal.
+
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 16, '1/2', 'i6') ms3.Parse.bach_solo.BWV1011_02_Allemande
+	The label i6 in m.15 could be plausible when ignoring all the other chroma as passing notes in the second half of the beat.
