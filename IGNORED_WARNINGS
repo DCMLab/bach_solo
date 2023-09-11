@@ -38,3 +38,6 @@ DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 27, '0', 'IV') ms3.Parse.bach_
 
 DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 3, '1/4', 'IV6(2)') ms3.Parse.bach_solo.BWV1012_02_Allemande
 	The label IV6(2) in m2 is a possible solution here, although the resolution chord is skipped.
+
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 13, '1/2', 'viio6/IV') ms3.Parse.bach_solo.BWV1012_04_Sarabande
+	The label viio6/IV in m13 is the resolution chord to the previous label.
