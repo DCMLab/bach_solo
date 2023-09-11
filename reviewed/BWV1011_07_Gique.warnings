@@ -1,245 +1,216 @@
 Warnings encountered during the last execution of ms3 review
 ============================================================
 
-FIRST_BAR_MISSING_TEMPO_MARK_WARNING (29,) ms3.Parse.bach_solo.BWV1011_07_Gique --
-	No metronome mark found in the very first measure nor anywhere else in the score.
-DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 15, '0', 'viio6') ms3.Parse.bach_solo.BWV1011_07_Gique --
-	The label 'viio6' in m. 14, onset 0 (MC 15, onset 0)
-	                seems not to correspond well to the score (which does not necessarily mean it is wrong).
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 15, '0', 'viio6') ms3.Parse.bach_solo.BWV1011_07_Gique
+	The label 'viio6' in m. 14, onset 0 (MC 15, onset 0) seems not to correspond well to the score (which does not necessarily mean it is wrong).
 	In the context of c.III, it expresses the scale degrees
 	('2', '4', '7') [('F', 'Ab', 'D')].
 	The corresponding score segment has 1 within-label and 2 out-of-label note onsets,
 	a ratio of 0.6666666666666666 > 0.6 (the current, arbitrary, threshold).
 	If it turns out the label is correct, please add the header of this warning to the IGNORED_WARNINGS, ideally followed
 	by a free-text comment in subsequent lines starting with a space or tab.
-DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 16, '0', 'I|PAC}{') ms3.Parse.bach_solo.BWV1011_07_Gique --
-	The label 'I|PAC}{' in m. 15, onset 0 (MC 16, onset 0)
-	                seems not to correspond well to the score (which does not necessarily mean it is wrong).
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 16, '0', 'I|PAC}{') ms3.Parse.bach_solo.BWV1011_07_Gique
+	The label 'I|PAC}{' in m. 15, onset 0 (MC 16, onset 0) seems not to correspond well to the score (which does not necessarily mean it is wrong).
 	In the context of c.III, it expresses the scale degrees
 	('1', '3', '5') [('Eb', 'G', 'Bb')].
 	The corresponding score segment has 1 within-label and 4 out-of-label note onsets,
 	a ratio of 0.8 > 0.6 (the current, arbitrary, threshold).
 	If it turns out the label is correct, please add the header of this warning to the IGNORED_WARNINGS, ideally followed
 	by a free-text comment in subsequent lines starting with a space or tab.
-DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 18, '0', 'vi') ms3.Parse.bach_solo.BWV1011_07_Gique --
-	The label 'vi' in m. 17, onset 0 (MC 18, onset 0)
-	                seems not to correspond well to the score (which does not necessarily mean it is wrong).
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 18, '0', 'vi') ms3.Parse.bach_solo.BWV1011_07_Gique
+	The label 'vi' in m. 17, onset 0 (MC 18, onset 0) seems not to correspond well to the score (which does not necessarily mean it is wrong).
 	In the context of c.III, it expresses the scale degrees
 	('6', '1', '3') [('C', 'Eb', 'G')].
 	The corresponding score segment has 1 within-label and 3 out-of-label note onsets,
 	a ratio of 0.75 > 0.6 (the current, arbitrary, threshold).
 	If it turns out the label is correct, please add the header of this warning to the IGNORED_WARNINGS, ideally followed
 	by a free-text comment in subsequent lines starting with a space or tab.
-DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 19, '0', 'IV') ms3.Parse.bach_solo.BWV1011_07_Gique --
-	The label 'IV' in m. 18, onset 0 (MC 19, onset 0)
-	                seems not to correspond well to the score (which does not necessarily mean it is wrong).
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 19, '0', 'IV') ms3.Parse.bach_solo.BWV1011_07_Gique
+	The label 'IV' in m. 18, onset 0 (MC 19, onset 0) seems not to correspond well to the score (which does not necessarily mean it is wrong).
 	In the context of c.III, it expresses the scale degrees
 	('4', '6', '1') [('Ab', 'C', 'Eb')].
 	The corresponding score segment has 1 within-label and 4 out-of-label note onsets,
 	a ratio of 0.8 > 0.6 (the current, arbitrary, threshold).
 	If it turns out the label is correct, please add the header of this warning to the IGNORED_WARNINGS, ideally followed
 	by a free-text comment in subsequent lines starting with a space or tab.
-DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 27, '1/4', 'viio/V') ms3.Parse.bach_solo.BWV1011_07_Gique --
-	The label 'viio/V' in m. 26, onset 1/4 (MC 27, onset 1/4)
-	                seems not to correspond well to the score (which does not necessarily mean it is wrong).
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 27, '1/4', 'viio/V') ms3.Parse.bach_solo.BWV1011_07_Gique
+	The label 'viio/V' in m. 26, onset 1/4 (MC 27, onset 1/4) seems not to correspond well to the score (which does not necessarily mean it is wrong).
 	In the context of c.III, it expresses the scale degrees
 	('#4', '6', '1') [('A', 'C', 'Eb')].
 	The corresponding score segment has 0 within-label and 1 out-of-label note onsets,
 	a ratio of 1.0 > 0.6 (the current, arbitrary, threshold).
 	If it turns out the label is correct, please add the header of this warning to the IGNORED_WARNINGS, ideally followed
 	by a free-text comment in subsequent lines starting with a space or tab.
-DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 30, '0', 'v.iio64') ms3.Parse.bach_solo.BWV1011_07_Gique --
-	The label 'v.iio64' in m. 29, onset 0 (MC 30, onset 0)
-	                seems not to correspond well to the score (which does not necessarily mean it is wrong).
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 30, '0', 'v.iio64') ms3.Parse.bach_solo.BWV1011_07_Gique
+	The label 'v.iio64' in m. 29, onset 0 (MC 30, onset 0) seems not to correspond well to the score (which does not necessarily mean it is wrong).
 	In the context of c.v, it expresses the scale degrees
 	('6', '2', '4') [('Eb', 'A', 'C')].
 	The corresponding score segment has 1 within-label and 2 out-of-label note onsets,
 	a ratio of 0.6666666666666666 > 0.6 (the current, arbitrary, threshold).
 	If it turns out the label is correct, please add the header of this warning to the IGNORED_WARNINGS, ideally followed
 	by a free-text comment in subsequent lines starting with a space or tab.
-DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 31, '0', 'i') ms3.Parse.bach_solo.BWV1011_07_Gique --
-	The label 'i' in m. 30, onset 0 (MC 31, onset 0)
-	                seems not to correspond well to the score (which does not necessarily mean it is wrong).
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 31, '0', 'i') ms3.Parse.bach_solo.BWV1011_07_Gique
+	The label 'i' in m. 30, onset 0 (MC 31, onset 0) seems not to correspond well to the score (which does not necessarily mean it is wrong).
 	In the context of c.v, it expresses the scale degrees
 	('1', '3', '5') [('G', 'Bb', 'D')].
 	The corresponding score segment has 1 within-label and 2 out-of-label note onsets,
 	a ratio of 0.6666666666666666 > 0.6 (the current, arbitrary, threshold).
 	If it turns out the label is correct, please add the header of this warning to the IGNORED_WARNINGS, ideally followed
 	by a free-text comment in subsequent lines starting with a space or tab.
-DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 33, '3/16', 'i6{') ms3.Parse.bach_solo.BWV1011_07_Gique --
-	The label 'i6{' in m. 32, onset 3/16 (MC 33, onset 3/16)
-	                seems not to correspond well to the score (which does not necessarily mean it is wrong).
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 33, '3/16', 'i6{') ms3.Parse.bach_solo.BWV1011_07_Gique
+	The label 'i6{' in m. 32, onset 3/16 (MC 33, onset 3/16) seems not to correspond well to the score (which does not necessarily mean it is wrong).
 	In the context of c.v, it expresses the scale degrees
 	('3', '5', '1') [('Bb', 'D', 'G')].
 	The corresponding score segment has 1 within-label and 4 out-of-label note onsets,
 	a ratio of 0.8 > 0.6 (the current, arbitrary, threshold).
 	If it turns out the label is correct, please add the header of this warning to the IGNORED_WARNINGS, ideally followed
 	by a free-text comment in subsequent lines starting with a space or tab.
-DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 34, '1/4', 'i') ms3.Parse.bach_solo.BWV1011_07_Gique --
-	The label 'i' in m. 33, onset 1/4 (MC 34, onset 1/4)
-	                seems not to correspond well to the score (which does not necessarily mean it is wrong).
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 34, '1/4', 'i') ms3.Parse.bach_solo.BWV1011_07_Gique
+	The label 'i' in m. 33, onset 1/4 (MC 34, onset 1/4) seems not to correspond well to the score (which does not necessarily mean it is wrong).
 	In the context of c.v, it expresses the scale degrees
 	('1', '3', '5') [('G', 'Bb', 'D')].
 	The corresponding score segment has 0 within-label and 1 out-of-label note onsets,
 	a ratio of 1.0 > 0.6 (the current, arbitrary, threshold).
 	If it turns out the label is correct, please add the header of this warning to the IGNORED_WARNINGS, ideally followed
 	by a free-text comment in subsequent lines starting with a space or tab.
-DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 42, '0', 'i.#viio7/iv') ms3.Parse.bach_solo.BWV1011_07_Gique --
-	The label 'i.#viio7/iv' in m. 41, onset 0 (MC 42, onset 0)
-	                seems not to correspond well to the score (which does not necessarily mean it is wrong).
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 42, '0', 'i.#viio7/iv') ms3.Parse.bach_solo.BWV1011_07_Gique
+	The label 'i.#viio7/iv' in m. 41, onset 0 (MC 42, onset 0) seems not to correspond well to the score (which does not necessarily mean it is wrong).
 	In the context of c.i, it expresses the scale degrees
 	('#3', '5', '7', 'b2') [('E', 'G', 'Bb', 'Db')].
 	The corresponding score segment has 1 within-label and 4 out-of-label note onsets,
 	a ratio of 0.8 > 0.6 (the current, arbitrary, threshold).
 	If it turns out the label is correct, please add the header of this warning to the IGNORED_WARNINGS, ideally followed
 	by a free-text comment in subsequent lines starting with a space or tab.
-DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 43, '1/4', 'V/iv') ms3.Parse.bach_solo.BWV1011_07_Gique --
-	The label 'V/iv' in m. 42, onset 1/4 (MC 43, onset 1/4)
-	                seems not to correspond well to the score (which does not necessarily mean it is wrong).
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 43, '1/4', 'V/iv') ms3.Parse.bach_solo.BWV1011_07_Gique
+	The label 'V/iv' in m. 42, onset 1/4 (MC 43, onset 1/4) seems not to correspond well to the score (which does not necessarily mean it is wrong).
 	In the context of c.i, it expresses the scale degrees
 	('1', '#3', '5') [('C', 'E', 'G')].
 	The corresponding score segment has 0 within-label and 1 out-of-label note onsets,
 	a ratio of 1.0 > 0.6 (the current, arbitrary, threshold).
 	If it turns out the label is correct, please add the header of this warning to the IGNORED_WARNINGS, ideally followed
 	by a free-text comment in subsequent lines starting with a space or tab.
-DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 44, '0', 'iv') ms3.Parse.bach_solo.BWV1011_07_Gique --
-	The label 'iv' in m. 43, onset 0 (MC 44, onset 0)
-	                seems not to correspond well to the score (which does not necessarily mean it is wrong).
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 44, '0', 'iv') ms3.Parse.bach_solo.BWV1011_07_Gique
+	The label 'iv' in m. 43, onset 0 (MC 44, onset 0) seems not to correspond well to the score (which does not necessarily mean it is wrong).
 	In the context of c.i, it expresses the scale degrees
 	('4', '6', '1') [('F', 'Ab', 'C')].
 	The corresponding score segment has 2 within-label and 5 out-of-label note onsets,
 	a ratio of 0.7142857142857143 > 0.6 (the current, arbitrary, threshold).
 	If it turns out the label is correct, please add the header of this warning to the IGNORED_WARNINGS, ideally followed
 	by a free-text comment in subsequent lines starting with a space or tab.
-DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 47, '1/4', 'V/III') ms3.Parse.bach_solo.BWV1011_07_Gique --
-	The label 'V/III' in m. 46, onset 1/4 (MC 47, onset 1/4)
-	                seems not to correspond well to the score (which does not necessarily mean it is wrong).
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 47, '1/4', 'V/III') ms3.Parse.bach_solo.BWV1011_07_Gique
+	The label 'V/III' in m. 46, onset 1/4 (MC 47, onset 1/4) seems not to correspond well to the score (which does not necessarily mean it is wrong).
 	In the context of c.i, it expresses the scale degrees
 	('7', '2', '4') [('Bb', 'D', 'F')].
 	The corresponding score segment has 0 within-label and 1 out-of-label note onsets,
 	a ratio of 1.0 > 0.6 (the current, arbitrary, threshold).
 	If it turns out the label is correct, please add the header of this warning to the IGNORED_WARNINGS, ideally followed
 	by a free-text comment in subsequent lines starting with a space or tab.
-DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 48, '0', 'III') ms3.Parse.bach_solo.BWV1011_07_Gique --
-	The label 'III' in m. 47, onset 0 (MC 48, onset 0)
-	                seems not to correspond well to the score (which does not necessarily mean it is wrong).
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 48, '0', 'III') ms3.Parse.bach_solo.BWV1011_07_Gique
+	The label 'III' in m. 47, onset 0 (MC 48, onset 0) seems not to correspond well to the score (which does not necessarily mean it is wrong).
 	In the context of c.i, it expresses the scale degrees
 	('3', '5', '7') [('Eb', 'G', 'Bb')].
 	The corresponding score segment has 2 within-label and 5 out-of-label note onsets,
 	a ratio of 0.7142857142857143 > 0.6 (the current, arbitrary, threshold).
 	If it turns out the label is correct, please add the header of this warning to the IGNORED_WARNINGS, ideally followed
 	by a free-text comment in subsequent lines starting with a space or tab.
-DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 50, '0', '#vio64') ms3.Parse.bach_solo.BWV1011_07_Gique --
-	The label '#vio64' in m. 49, onset 0 (MC 50, onset 0)
-	                seems not to correspond well to the score (which does not necessarily mean it is wrong).
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 50, '0', '#vio64') ms3.Parse.bach_solo.BWV1011_07_Gique
+	The label '#vio64' in m. 49, onset 0 (MC 50, onset 0) seems not to correspond well to the score (which does not necessarily mean it is wrong).
 	In the context of c.i, it expresses the scale degrees
 	('3', '#6', '1') [('Eb', 'A', 'C')].
 	The corresponding score segment has 2 within-label and 5 out-of-label note onsets,
 	a ratio of 0.7142857142857143 > 0.6 (the current, arbitrary, threshold).
 	If it turns out the label is correct, please add the header of this warning to the IGNORED_WARNINGS, ideally followed
 	by a free-text comment in subsequent lines starting with a space or tab.
-DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 52, '0', '#viio64') ms3.Parse.bach_solo.BWV1011_07_Gique --
-	The label '#viio64' in m. 51, onset 0 (MC 52, onset 0)
-	                seems not to correspond well to the score (which does not necessarily mean it is wrong).
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 52, '0', '#viio64') ms3.Parse.bach_solo.BWV1011_07_Gique
+	The label '#viio64' in m. 51, onset 0 (MC 52, onset 0) seems not to correspond well to the score (which does not necessarily mean it is wrong).
 	In the context of c.i, it expresses the scale degrees
 	('4', '#7', '2') [('F', 'B', 'D')].
 	The corresponding score segment has 2 within-label and 5 out-of-label note onsets,
 	a ratio of 0.7142857142857143 > 0.6 (the current, arbitrary, threshold).
 	If it turns out the label is correct, please add the header of this warning to the IGNORED_WARNINGS, ideally followed
 	by a free-text comment in subsequent lines starting with a space or tab.
-DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 54, '0', 'V(64)') ms3.Parse.bach_solo.BWV1011_07_Gique --
-	The label 'V(64)' in m. 53, onset 0 (MC 54, onset 0)
-	                seems not to correspond well to the score (which does not necessarily mean it is wrong).
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 54, '0', 'V(64)') ms3.Parse.bach_solo.BWV1011_07_Gique
+	The label 'V(64)' in m. 53, onset 0 (MC 54, onset 0) seems not to correspond well to the score (which does not necessarily mean it is wrong).
 	In the context of c.i, it expresses the scale degrees
 	('5', '1', '3') [('G', 'C', 'Eb')].
 	The corresponding score segment has 1 within-label and 2 out-of-label note onsets,
 	a ratio of 0.6666666666666666 > 0.6 (the current, arbitrary, threshold).
 	If it turns out the label is correct, please add the header of this warning to the IGNORED_WARNINGS, ideally followed
 	by a free-text comment in subsequent lines starting with a space or tab.
-DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 55, '0', 'V7') ms3.Parse.bach_solo.BWV1011_07_Gique --
-	The label 'V7' in m. 54, onset 0 (MC 55, onset 0)
-	                seems not to correspond well to the score (which does not necessarily mean it is wrong).
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 55, '0', 'V7') ms3.Parse.bach_solo.BWV1011_07_Gique
+	The label 'V7' in m. 54, onset 0 (MC 55, onset 0) seems not to correspond well to the score (which does not necessarily mean it is wrong).
 	In the context of c.i, it expresses the scale degrees
 	('5', '#7', '2', '4') [('G', 'B', 'D', 'F')].
 	The corresponding score segment has 1 within-label and 2 out-of-label note onsets,
 	a ratio of 0.6666666666666666 > 0.6 (the current, arbitrary, threshold).
 	If it turns out the label is correct, please add the header of this warning to the IGNORED_WARNINGS, ideally followed
 	by a free-text comment in subsequent lines starting with a space or tab.
-DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 56, '0', 'i6') ms3.Parse.bach_solo.BWV1011_07_Gique --
-	The label 'i6' in m. 55, onset 0 (MC 56, onset 0)
-	                seems not to correspond well to the score (which does not necessarily mean it is wrong).
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 56, '0', 'i6') ms3.Parse.bach_solo.BWV1011_07_Gique
+	The label 'i6' in m. 55, onset 0 (MC 56, onset 0) seems not to correspond well to the score (which does not necessarily mean it is wrong).
 	In the context of c.i, it expresses the scale degrees
 	('3', '5', '1') [('Eb', 'G', 'C')].
 	The corresponding score segment has 0 within-label and 1 out-of-label note onsets,
 	a ratio of 1.0 > 0.6 (the current, arbitrary, threshold).
 	If it turns out the label is correct, please add the header of this warning to the IGNORED_WARNINGS, ideally followed
 	by a free-text comment in subsequent lines starting with a space or tab.
-DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 57, '0', 'V6/iv') ms3.Parse.bach_solo.BWV1011_07_Gique --
-	The label 'V6/iv' in m. 56, onset 0 (MC 57, onset 0)
-	                seems not to correspond well to the score (which does not necessarily mean it is wrong).
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 57, '0', 'V6/iv') ms3.Parse.bach_solo.BWV1011_07_Gique
+	The label 'V6/iv' in m. 56, onset 0 (MC 57, onset 0) seems not to correspond well to the score (which does not necessarily mean it is wrong).
 	In the context of c.i, it expresses the scale degrees
 	('#3', '5', '1') [('E', 'G', 'C')].
 	The corresponding score segment has 0 within-label and 1 out-of-label note onsets,
 	a ratio of 1.0 > 0.6 (the current, arbitrary, threshold).
 	If it turns out the label is correct, please add the header of this warning to the IGNORED_WARNINGS, ideally followed
 	by a free-text comment in subsequent lines starting with a space or tab.
-DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 58, '0', 'iv') ms3.Parse.bach_solo.BWV1011_07_Gique --
-	The label 'iv' in m. 57, onset 0 (MC 58, onset 0)
-	                seems not to correspond well to the score (which does not necessarily mean it is wrong).
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 58, '0', 'iv') ms3.Parse.bach_solo.BWV1011_07_Gique
+	The label 'iv' in m. 57, onset 0 (MC 58, onset 0) seems not to correspond well to the score (which does not necessarily mean it is wrong).
 	In the context of c.i, it expresses the scale degrees
 	('4', '6', '1') [('F', 'Ab', 'C')].
 	The corresponding score segment has 0 within-label and 2 out-of-label note onsets,
 	a ratio of 1.0 > 0.6 (the current, arbitrary, threshold).
 	If it turns out the label is correct, please add the header of this warning to the IGNORED_WARNINGS, ideally followed
 	by a free-text comment in subsequent lines starting with a space or tab.
-DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 58, '1/4', 'i6') ms3.Parse.bach_solo.BWV1011_07_Gique --
-	The label 'i6' in m. 57, onset 1/4 (MC 58, onset 1/4)
-	                seems not to correspond well to the score (which does not necessarily mean it is wrong).
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 58, '1/4', 'i6') ms3.Parse.bach_solo.BWV1011_07_Gique
+	The label 'i6' in m. 57, onset 1/4 (MC 58, onset 1/4) seems not to correspond well to the score (which does not necessarily mean it is wrong).
 	In the context of c.i, it expresses the scale degrees
 	('3', '5', '1') [('Eb', 'G', 'C')].
 	The corresponding score segment has 0 within-label and 1 out-of-label note onsets,
 	a ratio of 1.0 > 0.6 (the current, arbitrary, threshold).
 	If it turns out the label is correct, please add the header of this warning to the IGNORED_WARNINGS, ideally followed
 	by a free-text comment in subsequent lines starting with a space or tab.
-DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 59, '0', '#viio6') ms3.Parse.bach_solo.BWV1011_07_Gique --
-	The label '#viio6' in m. 58, onset 0 (MC 59, onset 0)
-	                seems not to correspond well to the score (which does not necessarily mean it is wrong).
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 59, '0', '#viio6') ms3.Parse.bach_solo.BWV1011_07_Gique
+	The label '#viio6' in m. 58, onset 0 (MC 59, onset 0) seems not to correspond well to the score (which does not necessarily mean it is wrong).
 	In the context of c.i, it expresses the scale degrees
 	('2', '4', '#7') [('D', 'F', 'B')].
 	The corresponding score segment has 0 within-label and 2 out-of-label note onsets,
 	a ratio of 1.0 > 0.6 (the current, arbitrary, threshold).
 	If it turns out the label is correct, please add the header of this warning to the IGNORED_WARNINGS, ideally followed
 	by a free-text comment in subsequent lines starting with a space or tab.
-DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 59, '1/4', 'i') ms3.Parse.bach_solo.BWV1011_07_Gique --
-	The label 'i' in m. 58, onset 1/4 (MC 59, onset 1/4)
-	                seems not to correspond well to the score (which does not necessarily mean it is wrong).
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 59, '1/4', 'i') ms3.Parse.bach_solo.BWV1011_07_Gique
+	The label 'i' in m. 58, onset 1/4 (MC 59, onset 1/4) seems not to correspond well to the score (which does not necessarily mean it is wrong).
 	In the context of c.i, it expresses the scale degrees
 	('1', '3', '5') [('C', 'Eb', 'G')].
 	The corresponding score segment has 0 within-label and 1 out-of-label note onsets,
 	a ratio of 1.0 > 0.6 (the current, arbitrary, threshold).
 	If it turns out the label is correct, please add the header of this warning to the IGNORED_WARNINGS, ideally followed
 	by a free-text comment in subsequent lines starting with a space or tab.
-DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 60, '0', 'V|HC}') ms3.Parse.bach_solo.BWV1011_07_Gique --
-	The label 'V|HC}' in m. 59, onset 0 (MC 60, onset 0)
-	                seems not to correspond well to the score (which does not necessarily mean it is wrong).
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 60, '0', 'V|HC}') ms3.Parse.bach_solo.BWV1011_07_Gique
+	The label 'V|HC}' in m. 59, onset 0 (MC 60, onset 0) seems not to correspond well to the score (which does not necessarily mean it is wrong).
 	In the context of c.i, it expresses the scale degrees
 	('5', '#7', '2') [('G', 'B', 'D')].
 	The corresponding score segment has 1 within-label and 3 out-of-label note onsets,
 	a ratio of 0.75 > 0.6 (the current, arbitrary, threshold).
 	If it turns out the label is correct, please add the header of this warning to the IGNORED_WARNINGS, ideally followed
 	by a free-text comment in subsequent lines starting with a space or tab.
-DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 62, '1/8', 'i') ms3.Parse.bach_solo.BWV1011_07_Gique --
-	The label 'i' in m. 61, onset 1/8 (MC 62, onset 1/8)
-	                seems not to correspond well to the score (which does not necessarily mean it is wrong).
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 62, '1/8', 'i') ms3.Parse.bach_solo.BWV1011_07_Gique
+	The label 'i' in m. 61, onset 1/8 (MC 62, onset 1/8) seems not to correspond well to the score (which does not necessarily mean it is wrong).
 	In the context of c.i, it expresses the scale degrees
 	('1', '3', '5') [('C', 'Eb', 'G')].
 	The corresponding score segment has 1 within-label and 4 out-of-label note onsets,
 	a ratio of 0.8 > 0.6 (the current, arbitrary, threshold).
 	If it turns out the label is correct, please add the header of this warning to the IGNORED_WARNINGS, ideally followed
 	by a free-text comment in subsequent lines starting with a space or tab.
-DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 64, '0', 'VI') ms3.Parse.bach_solo.BWV1011_07_Gique --
-	The label 'VI' in m. 63, onset 0 (MC 64, onset 0)
-	                seems not to correspond well to the score (which does not necessarily mean it is wrong).
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 64, '0', 'VI') ms3.Parse.bach_solo.BWV1011_07_Gique
+	The label 'VI' in m. 63, onset 0 (MC 64, onset 0) seems not to correspond well to the score (which does not necessarily mean it is wrong).
 	In the context of c.i, it expresses the scale degrees
 	('6', '1', '3') [('Ab', 'C', 'Eb')].
 	The corresponding score segment has 0 within-label and 4 out-of-label note onsets,
