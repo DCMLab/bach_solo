@@ -35,7 +35,7 @@
     <Order id="orchestral" customized="1">
       <name>Orchestral</name>
       <instrument id="piano">
-        <family id="keyboards">Tasteninstrumente</family>
+        <family id="keyboards">Keyboards</family>
         </instrument>
       <section id="woodwind" brackets="true" showSystemMarkings="true" barLineSpan="true" thinBrackets="true">
         <family>flutes</family>
@@ -171,6 +171,12 @@
             <harmonyType>1</harmonyType>
             <name>c.i{</name>
             </Harmony>
+          <Tempo>
+            <tempo>2.6666666666666665</tempo>
+            <followText>1</followText>
+            <visible>0</visible>
+            <text><sym>metNoteHalfUp</sym> = 80</text>
+            </Tempo>
           <Chord>
             <durationType>quarter</durationType>
             <Note>
@@ -2582,7 +2588,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>IV6</name>
+            <name>IV6{</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -4572,14 +4578,14 @@
       <Measure len="1/2">
         <endRepeat>2</endRepeat>
         <voice>
-          <Fermata>
-            <subtype>fermataAbove</subtype>
-            <offset x="-0.739342" y="-2.00803"/>
-            </Fermata>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>i|PAC}</name>
             </Harmony>
+          <Fermata>
+            <subtype>fermataAbove</subtype>
+            <offset x="-0.739342" y="-2.00803"/>
+            </Fermata>
           <Chord>
             <durationType>half</durationType>
             <Note>

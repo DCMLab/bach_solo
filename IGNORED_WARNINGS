@@ -26,3 +26,12 @@ DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 16, '1/2', 'i6') ms3.Parse.bac
 
 DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 18, '1/4', 'iio6') ms3.Parse.bach_solo.BWV1011_02_Allemande
 	The label iio6 in m.17 could be plausible when taking the notes C and Ab and the b-natural as passing note.
+
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 7, '1/2', 'III') ms3.Parse.bach_solo.BWV1011_05_GavotteI
+	The label "III" in m6 could be plausible when understanding E-flat as the base chord and all else as passing.
+
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 16, '0', 'V6') ms3.Parse.bach_solo.BWV1011_05_GavotteI
+	The label "V6" in m15 could be plausible when substituting the A-flat as a G, please see special key signature considerations.
+
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 27, '0', 'IV') ms3.Parse.bach_solo.BWV1011_05_GavotteI
+	The label "IV" in m26 can be plausible when imagining the f minor chord as being the root chord and other notes are passing.
