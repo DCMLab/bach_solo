@@ -6484,7 +6484,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i|PAC}</name>
+            <name>i|PAC</name>
             </Harmony>
           <Chord>
             <durationType>16th</durationType>
@@ -6614,6 +6614,10 @@
               <tpc>18</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>}</name>
+            </Harmony>
           <Chord>
             <durationType>half</durationType>
             <Note>
@@ -6631,7 +6635,7 @@
             </Rest>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>v.i{</name>
+            <name>v{</name>
             </Harmony>
           <Chord>
             <durationType>16th</durationType>
@@ -6687,7 +6691,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i(2)</name>
+            <name>v(#2)</name>
             </Harmony>
           <Chord>
             <durationType>16th</durationType>
@@ -6720,6 +6724,10 @@
               <tpc>23</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>v</name>
+            </Harmony>
           <Chord>
             <durationType>16th</durationType>
             <Note>
