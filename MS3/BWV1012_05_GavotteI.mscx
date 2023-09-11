@@ -35,7 +35,7 @@
     <Order id="orchestral" customized="1">
       <name>Orchestral</name>
       <instrument id="piano">
-        <family id="keyboards">Tasteninstrumente</family>
+        <family id="keyboards">Keyboards</family>
         </instrument>
       <section id="woodwind" brackets="true" showSystemMarkings="true" barLineSpan="true" thinBrackets="true">
         <family>flutes</family>
@@ -175,6 +175,12 @@
             <harmonyType>1</harmonyType>
             <name>D.I{</name>
             </Harmony>
+          <Tempo>
+            <tempo>2.5666666666666664</tempo>
+            <followText>1</followText>
+            <visible>0</visible>
+            <text><b></b><font face="ScoreText"/><b><font face="Edwin"/> = 77</b></text>
+            </Tempo>
           <Chord>
             <durationType>quarter</durationType>
             <Note>
