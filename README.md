@@ -25,7 +25,7 @@ Scores downloaded as CAP files from http://www.tobis-notenarchiv.de/bach/12-Kamm
 |BWV1002_01_Allemanda      |      24|    97|2.3.0   |Adrian Nagel|
 |BWV1002_02_Double         |      24|    87|2.3.0   |Adrian Nagel|
 |BWV1002_03_Corrente       |      80|   109|2.3.0   |Adrian Nagel|
-|BWV1002_04_Double         |      82|   121|2.3.0   |Adrian Nagel|
+|BWV1002_04_Double         |      80|   121|2.3.0   |Adrian Nagel|
 |BWV1002_05_Sarabande      |      32|    68|2.3.0   |Adrian Nagel|
 |BWV1002_06_Double         |      32|    56|2.3.0   |Adrian Nagel|
 |BWV1002_07_TempoDiBorea   |      70|   101|2.3.0   |Adrian Nagel|

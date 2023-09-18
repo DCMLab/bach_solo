@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <museScore version="3.02">
-  <programVersion>3.6.0</programVersion>
-  <programRevision>1977cb3</programRevision>
+  <programVersion>3.6.2</programVersion>
+  <programRevision>3224f34</programRevision>
   <Score>
     <LayerTag id="0" tag="default"></LayerTag>
     <currentLayer>0</currentLayer>
@@ -120,6 +120,7 @@
       </Part>
     <Staff id="1">
       <Measure len="1/16">
+        <irregular>1</irregular>
         <voice>
           <KeySig>
             <accidental>2</accidental>
@@ -139,6 +140,12 @@ Presto</text>
           <Harmony>
             <name>.b.i{</name>
             </Harmony>
+          <Tempo>
+            <tempo>1.8333333333333333</tempo>
+            <followText>1</followText>
+            <visible>0</visible>
+            <text><b></b><font face="ScoreText"/><b><font face="FreeSerif"/> = 110</b></text>
+            </Tempo>
           <Chord>
             <durationType>16th</durationType>
             <Note>
@@ -3285,6 +3292,7 @@ Presto</text>
         </Measure>
       <Measure len="1/16">
         <startRepeat/>
+        <irregular>1</irregular>
         <voice>
           <Clef>
             <concertClefType>G</concertClefType>
@@ -7756,7 +7764,7 @@ Presto</text>
       <Measure>
         <voice>
           <Harmony>
-            <name>iv6</name>
+            <name>V7(+9)</name>
             </Harmony>
           <Chord>
             <durationType>16th</durationType>
