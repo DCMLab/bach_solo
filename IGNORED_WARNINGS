@@ -9,3 +9,6 @@ DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 13, '27/32', 'i.i6{') ms3.Pars
 
 DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 25, '5/8', 'V') ms3.Parse.bach_solo.BWV1002_01_Allemanda
 	The label V in m23 serves as a resolution chord to the previous label.
+
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 24, '3/8', 'iv6') ms3.Parse.bach_solo.BWV1002_06_Double
+	The label iv6 in m23 is the resolution chord to the preceding chord iv6(2).
