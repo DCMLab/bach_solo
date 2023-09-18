@@ -1,5 +1,5 @@
 mc	mn	quarterbeats	quarterbeats_all_endings	duration_qb	mc_onset	mn_onset	timesig	staff	voice	label	globalkey	localkey	pedal	chord	numeral	form	figbass	changes	relativeroot	cadence	phraseend	chord_type	globalkey_is_minor	localkey_is_minor	chord_tones	added_tones	root	bass_note
-1	0	0	0	3.5	0	5/8	3/4	1	1	.b.i{	b	i		i	i						{	m	1	1	0, -3, 1		0	0
+1	0	0	0	3.5	0	5/8	3/4	1	1	b.i{	b	i		i	i						{	m	1	1	0, -3, 1		0	0
 3	2	7/2	7/2	3.0	0	0	3/4	1	1	V65	b	i		V65	V		65					Mm7	1	1	5, 2, -1, 1		1	5
 4	3	13/2	13/2	3.0	0	0	3/4	1	1	i	b	i		i	i							m	1	1	0, -3, 1		0	0
 5	4	19/2	19/2	3.0	0	0	3/4	1	1	V65/III	b	i		V65/III	V		65		III			Mm7	1	1	2, -1, -4, -2		-2	2
@@ -32,7 +32,7 @@ mc	mn	quarterbeats	quarterbeats_all_endings	duration_qb	mc_onset	mn_onset	timesi
 26	25	145/2	145/2	3.0	0	0	3/4	1	1	V65	b	v		V65	V		65					Mm7	1	1	5, 2, -1, 1		1	5
 27	26	151/2	151/2	3.0	0	0	3/4	1	1	i	b	v		i	i							m	1	1	0, -3, 1		0	0
 28	27	157/2	157/2	3.0	0	0	3/4	1	1	iv	b	v		iv	iv							m	1	1	-1, -4, 0		-1	-1
-29	28	163/2	163/2	3.0	0	0	3/4	1	1	.bII	b	v		bII	bII							M	1	1	-5, -1, -4		-5	-5
+29	28	163/2	163/2	3.0	0	0	3/4	1	1	bII	b	v		bII	bII							M	1	1	-5, -1, -4		-5	-5
 30	29	169/2	169/2	3.0	0	0	3/4	1	1	#viio65	b	v		#viio65	#vii	o	65					o7	1	1	2, -1, -4, 5		5	2
 31	30	175/2	175/2	2.0	0	0	3/4	1	1	i	b	v		i	i							m	1	1	0, -3, 1		0	0
 31	30	179/2	179/2	1.0	1/2	1/2	3/4	1	1	V	b	v		V	V							M	1	1	1, 5, 2		1	1
