@@ -153,7 +153,8 @@
             <sigD>4</sigD>
             </TimeSig>
           <Harmony>
-            <name>.g.i{</name>
+            <harmonyType>1</harmonyType>
+            <name>g.i{</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -194,6 +195,7 @@
               </Note>
             </Chord>
           <Harmony>
+            <harmonyType>1</harmonyType>
             <name>VI6</name>
             </Harmony>
           <Chord>
@@ -226,6 +228,7 @@
       <Measure>
         <voice>
           <Harmony>
+            <harmonyType>1</harmonyType>
             <name>v6</name>
             </Harmony>
           <Chord>
@@ -254,6 +257,7 @@
       <Measure>
         <voice>
           <Harmony>
+            <harmonyType>1</harmonyType>
             <name>VI</name>
             </Harmony>
           <Chord>
@@ -305,6 +309,7 @@
               </Note>
             </Chord>
           <Harmony>
+            <harmonyType>1</harmonyType>
             <name>iv6</name>
             </Harmony>
           <Chord>
@@ -330,6 +335,7 @@
       <Measure>
         <voice>
           <Harmony>
+            <harmonyType>1</harmonyType>
             <name>V(4)</name>
             </Harmony>
           <Chord>
@@ -378,6 +384,7 @@
               </Note>
             </Chord>
           <Harmony>
+            <harmonyType>1</harmonyType>
             <name>V</name>
             </Harmony>
           <Chord>
@@ -403,6 +410,7 @@
       <Measure>
         <voice>
           <Harmony>
+            <harmonyType>1</harmonyType>
             <name>i</name>
             </Harmony>
           <Chord>
@@ -451,6 +459,7 @@
               </Note>
             </Chord>
           <Harmony>
+            <harmonyType>1</harmonyType>
             <name>VI6</name>
             </Harmony>
           <Chord>
@@ -479,6 +488,7 @@
           </LayoutBreak>
         <voice>
           <Harmony>
+            <harmonyType>1</harmonyType>
             <name>v6</name>
             </Harmony>
           <Chord>
@@ -511,6 +521,7 @@
             <transposingClefType>F</transposingClefType>
             </Clef>
           <Harmony>
+            <harmonyType>1</harmonyType>
             <name>VI</name>
             </Harmony>
           <Chord>
@@ -562,6 +573,7 @@
               </Note>
             </Chord>
           <Harmony>
+            <harmonyType>1</harmonyType>
             <name>iv6</name>
             </Harmony>
           <Chord>
@@ -585,6 +597,7 @@
         <endRepeat>2</endRepeat>
         <voice>
           <Harmony>
+            <harmonyType>1</harmonyType>
             <name>V(4)}</name>
             </Harmony>
           <Chord>
@@ -618,6 +631,7 @@
               </Note>
             </Chord>
           <Harmony>
+            <harmonyType>1</harmonyType>
             <name>V</name>
             </Harmony>
           <Chord>
@@ -636,6 +650,7 @@
         <startRepeat/>
         <voice>
           <Harmony>
+            <harmonyType>1</harmonyType>
             <name>V7{</name>
             </Harmony>
           <Chord>
@@ -709,6 +724,7 @@
       <Measure>
         <voice>
           <Harmony>
+            <harmonyType>1</harmonyType>
             <name>i</name>
             </Harmony>
           <Chord>
@@ -768,6 +784,7 @@
       <Measure>
         <voice>
           <Harmony>
+            <harmonyType>1</harmonyType>
             <name>V7/V/III</name>
             </Harmony>
           <Chord>
@@ -838,6 +855,7 @@
           </LayoutBreak>
         <voice>
           <Harmony>
+            <harmonyType>1</harmonyType>
             <name>V/III</name>
             </Harmony>
           <Chord>
@@ -912,6 +930,7 @@
             <transposingClefType>F</transposingClefType>
             </Clef>
           <Harmony>
+            <harmonyType>1</harmonyType>
             <name>III6</name>
             </Harmony>
           <Chord>
@@ -979,6 +998,7 @@
       <Measure>
         <voice>
           <Harmony>
+            <harmonyType>1</harmonyType>
             <name>IV/III</name>
             </Harmony>
           <Chord>
@@ -1049,6 +1069,7 @@
       <Measure>
         <voice>
           <Harmony>
+            <harmonyType>1</harmonyType>
             <name>viio6/III</name>
             </Harmony>
           <Chord>
@@ -1085,6 +1106,7 @@
               </Note>
             </Chord>
           <Harmony>
+            <harmonyType>1</harmonyType>
             <name>III</name>
             </Harmony>
           <Chord>
@@ -1119,6 +1141,7 @@
               </Note>
             </Chord>
           <Harmony>
+            <harmonyType>1</harmonyType>
             <name>V/III</name>
             </Harmony>
           <Chord>
@@ -1141,6 +1164,7 @@
       <Measure>
         <voice>
           <Harmony>
+            <harmonyType>1</harmonyType>
             <name>III}</name>
             </Harmony>
           <Chord>
@@ -1184,6 +1208,7 @@
       <Measure>
         <voice>
           <Harmony>
+            <harmonyType>1</harmonyType>
             <name>#viio7/iv</name>
             </Harmony>
           <Chord>
@@ -1260,6 +1285,7 @@
           </LayoutBreak>
         <voice>
           <Harmony>
+            <harmonyType>1</harmonyType>
             <name>iv6</name>
             </Harmony>
           <Chord>
@@ -1329,6 +1355,7 @@
             <transposingClefType>F</transposingClefType>
             </Clef>
           <Harmony>
+            <harmonyType>1</harmonyType>
             <name>vii%7/III</name>
             </Harmony>
           <Chord>
@@ -1399,6 +1426,7 @@
       <Measure>
         <voice>
           <Harmony>
+            <harmonyType>1</harmonyType>
             <name>III6</name>
             </Harmony>
           <Chord>
@@ -1458,6 +1486,7 @@
       <Measure>
         <voice>
           <Harmony>
+            <harmonyType>1</harmonyType>
             <name>#viio7</name>
             </Harmony>
           <Chord>
@@ -1531,6 +1560,7 @@
       <Measure>
         <voice>
           <Harmony>
+            <harmonyType>1</harmonyType>
             <name>i6</name>
             </Harmony>
           <Chord>
@@ -1598,6 +1628,7 @@
       <Measure>
         <voice>
           <Harmony>
+            <harmonyType>1</harmonyType>
             <name>iio6</name>
             </Harmony>
           <Chord>
@@ -1646,6 +1677,7 @@
               </Note>
             </Chord>
           <Harmony>
+            <harmonyType>1</harmonyType>
             <name>V</name>
             </Harmony>
           <Chord>
@@ -1683,12 +1715,13 @@
             <offset x="-13.7188" y="7.2813"/>
             <text>Menuet I da Capo</text>
             </StaffText>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>i}</name>
+            </Harmony>
           <Fermata>
             <subtype>fermataAbove</subtype>
             </Fermata>
-          <Harmony>
-            <name>i}</name>
-            </Harmony>
           <Chord>
             <dots>1</dots>
             <durationType>half</durationType>
