@@ -140,12 +140,6 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>Bb.I{</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>Bb.I{</name>
-            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <dots>1</dots>
@@ -1397,7 +1391,6 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V43/VII</name>
-            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>32nd</durationType>
@@ -1603,12 +1596,6 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>bII6</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>bII6</name>
-            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>

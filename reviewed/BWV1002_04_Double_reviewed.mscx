@@ -146,12 +146,6 @@ Presto</text>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>b.i{</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>b.i{</name>
-            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>16th</durationType>
@@ -660,12 +654,6 @@ Presto</text>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>bII6</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>bII6</name>
-            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>16th</durationType>
@@ -2971,12 +2959,6 @@ Presto</text>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>bII</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>bII</name>
-            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>16th</durationType>
@@ -4392,12 +4374,6 @@ Presto</text>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>bII6</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>bII6</name>
-            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>16th</durationType>
@@ -8170,13 +8146,7 @@ Presto</text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iv6</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
-          <Harmony>
-            <harmonyType>1</harmonyType>
             <name>V7(+9)</name>
-            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>16th</durationType>
