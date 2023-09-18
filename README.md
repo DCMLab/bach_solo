@@ -21,7 +21,7 @@ Scores downloaded as CAP files from http://www.tobis-notenarchiv.de/bach/12-Kamm
 |BWV1001_01_Adagio         |      22|    95|2.3.0   |Adrian Nagel|
 |BWV1001_02_Fuga           |      94|   324|2.3.0   |Adrian Nagel|
 |BWV1001_03_Siciliano      |      20|   113|2.3.0   |Adrian Nagel|
-|BWV1001_04_Presto         |     136|   216|2.3.0   |Adrian Nagel|
+|BWV1001_04_Presto         |     136|   213|2.3.0   |Adrian Nagel|
 |BWV1002_01_Allemanda      |      24|    97|2.3.0   |Adrian Nagel|
 |BWV1002_02_Double         |      26|    87|2.3.0   |Adrian Nagel|
 |BWV1002_03_Corrente       |      82|   109|2.3.0   |Adrian Nagel|

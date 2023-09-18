@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <museScore version="3.02">
-  <programVersion>3.6.0</programVersion>
-  <programRevision>1977cb3</programRevision>
+  <programVersion>3.6.2</programVersion>
+  <programRevision>3224f34</programRevision>
   <Score>
     <LayerTag id="0" tag="default"></LayerTag>
     <currentLayer>0</currentLayer>
@@ -134,6 +134,12 @@
           <Harmony>
             <name>.g.i{</name>
             </Harmony>
+          <Tempo>
+            <tempo>1.8</tempo>
+            <followText>1</followText>
+            <visible>0</visible>
+            <text><b></b><font face="ScoreText"/> <b><font face="FreeSerif"/> = 72</b></text>
+            </Tempo>
           <Chord>
             <durationType>16th</durationType>
             <Note>
@@ -2168,7 +2174,7 @@
       <Measure>
         <voice>
           <Harmony>
-            <name>VII6(2)</name>
+            <name>V7/v</name>
             </Harmony>
           <Chord>
             <durationType>16th</durationType>
@@ -2184,9 +2190,6 @@
               <tpc>15</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <name>VII6</name>
-            </Harmony>
           <Chord>
             <durationType>16th</durationType>
             <Note>
@@ -2275,7 +2278,7 @@
       <Measure>
         <voice>
           <Harmony>
-            <name>v.iio6(2)</name>
+            <name>V7/iv</name>
             </Harmony>
           <Chord>
             <durationType>16th</durationType>
@@ -2291,9 +2294,6 @@
               <tpc>13</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <name>iio6</name>
-            </Harmony>
           <Chord>
             <durationType>16th</durationType>
             <Note>
@@ -2336,7 +2336,7 @@
           </LayoutBreak>
         <voice>
           <Harmony>
-            <name>V</name>
+            <name>v.V</name>
             </Harmony>
           <Chord>
             <durationType>16th</durationType>
@@ -2563,7 +2563,7 @@
       <Measure>
         <voice>
           <Harmony>
-            <name>iio6(2)</name>
+            <name>V7/VII</name>
             </Harmony>
           <Chord>
             <durationType>16th</durationType>
@@ -2579,9 +2579,6 @@
               <tpc>13</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <name>iio6</name>
-            </Harmony>
           <Chord>
             <durationType>16th</durationType>
             <Note>
