@@ -1,5 +1,5 @@
-# J.S. Bach - Solo Pieces
-## Currently BWV 1001-1013
+# J.S. Bach - Solo Pieces (A corpus of annotated scores)
+## Currently BWV 1001-1013 (v2.3)
 
 Scores downloaded as CAP files from http://www.tobis-notenarchiv.de/bach/12-Kammermusik/index.htm and converted to MuseScore. The original license is [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/).
 
@@ -32,7 +32,7 @@ Scores downloaded as CAP files from http://www.tobis-notenarchiv.de/bach/12-Kamm
 |BWV1002_08_Double         |      68|   104|2.3.0   |Adrian Nagel|
 |BWV1003_01_Grave          |      23|    91|2.3.0   |Adrian Nagel|
 |BWV1003_02_Fuga           |     289|   479|2.3.0   |Adrian Nagel|
-|BWV1003_03_Andante        |      27|    79|2.3.0   |Adrian Nagel|
+|BWV1003_03_Andante        |      26|    79|2.3.0   |Adrian Nagel|
 |BWV1003_04_Allegro        |      58|   206|2.3.0   |Adrian Nagel|
 |BWV1004_01_Allemande      |      34|    91|2.3.0   |Adrian Nagel|
 |BWV1004_02_Courante       |      56|    73|2.3.0   |Adrian Nagel|

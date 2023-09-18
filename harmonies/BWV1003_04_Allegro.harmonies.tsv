@@ -1,5 +1,5 @@
 mc	mn	quarterbeats	quarterbeats_all_endings	duration_qb	mc_onset	mn_onset	timesig	staff	voice	label	alt_label	globalkey	localkey	pedal	chord	numeral	form	figbass	changes	relativeroot	cadence	phraseend	chord_type	globalkey_is_minor	localkey_is_minor	chord_tones	added_tones	root	bass_note
-1	1	0	0	5.5	0	0	2/2	1	1	.a.i{		a	i		i	i						{	m	1	1	0, -3, 1		0	0
+1	1	0	0	5.5	0	0	2/2	1	1	a.i{		a	i		i	i						{	m	1	1	0, -3, 1		0	0
 2	2	11/2	11/2	0.5	3/8	3/8	2/2	1	1	V6		a	i		V6	V		6					M	1	1	5, 2, 1		1	5
 2	2	6	6	1.5	1/2	1/2	2/2	1	1	i		a	i		i	i							m	1	1	0, -3, 1		0	0
 2	2	15/2	15/2	0.5	7/8	7/8	2/2	1	1	V6		a	i		V6	V		6					M	1	1	5, 2, 1		1	5
@@ -58,7 +58,7 @@ mc	mn	quarterbeats	quarterbeats_all_endings	duration_qb	mc_onset	mn_onset	timesi
 16	16	62	62	1.0	1/2	1/2	2/2	1	1	iv6(2)		a	v		iv6(2)	iv		6	2				m	1	1	-4, 0, 1		-1	-4
 16	16	63	63	0.5	3/4	3/4	2/2	1	1	iv6		a	v		iv6	iv		6					m	1	1	-4, 0, -1		-1	-4
 16	16	127/2	127/2	0.5	7/8	7/8	2/2	1	1	III6		a	v		III6	III		6					M	1	1	1, -2, -3		-3	1
-17	17	64	64	0.5	0	0	2/2	1	1	.bII6		a	v		bII6	bII		6					M	1	1	-1, -4, -5		-5	-1
+17	17	64	64	0.5	0	0	2/2	1	1	bII6		a	v		bII6	bII		6					M	1	1	-1, -4, -5		-5	-1
 17	17	129/2	129/2	0.5	1/8	1/8	2/2	1	1	III6		a	v		III6	III		6					M	1	1	1, -2, -3		-3	1
 17	17	65	65	0.5	1/4	1/4	2/2	1	1	iv6		a	v		iv6	iv		6					m	1	1	-4, 0, -1		-1	-4
 17	17	131/2	131/2	0.5	3/8	3/8	2/2	1	1	vo6		a	v		vo6	v	o	6					o	1	1	-2, -5, 1		1	-2
@@ -75,7 +75,7 @@ mc	mn	quarterbeats	quarterbeats_all_endings	duration_qb	mc_onset	mn_onset	timesi
 19	19	74	74	1.0	1/2	1/2	2/2	1	1	VI6		a	v		VI6	VI		6					M	1	1	0, -3, -4		-4	0
 19	19	75	75	1.0	3/4	3/4	2/2	1	1	VII6		a	v		VII6	VII		6					M	1	1	2, -1, -2		-2	2
 20	20	76	76	2.0	0	0	2/2	1	1	i6		a	v		i6	i		6					m	1	1	-3, 1, 0		0	-3
-20	20	78	78	2.0	1/2	1/2	2/2	1	1	.bIIM65		a	v		bIIM65	bII	M	65					MM7	1	1	-1, -4, 0, -5		-5	-1
+20	20	78	78	2.0	1/2	1/2	2/2	1	1	bIIM65		a	v		bIIM65	bII	M	65					MM7	1	1	-1, -4, 0, -5		-5	-1
 21	21	80	80	2.0	0	0	2/2	1	1	V		a	v		V	V							M	1	1	1, 5, 2		1	1
 21	21	82	82	2.0	1/2	1/2	2/2	1	1	V7		a	v		V7	V		7					Mm7	1	1	1, 5, 2, -1		1	1
 22	22	84	84	2.0	0	0	2/2	1	1	i64		a	v		i64	i		64					m	1	1	1, 0, -3		0	1
