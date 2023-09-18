@@ -1,29 +1,46 @@
 Warnings encountered during the last execution of ms3 review
 ============================================================
 
-INCOMPLETE_MC_WRONGLY_COMPLETED_WARNING (3, 4) ms3.Parse.bach_solo.BWV1007_04_Sarabande --
-	The incomplete MC 4 (timesig 3/4, act_dur 23/32) is completed by 1 incorrect duration (expected: 1/32):
-	{5: Fraction(23, 32)}
-INCOMPLETE_MC_WRONGLY_COMPLETED_WARNING (3, 6) ms3.Parse.bach_solo.BWV1007_04_Sarabande --
-	The incomplete MC 6 (timesig 3/4, act_dur 23/32) is completed by 1 incorrect duration (expected: 1/32):
-	{7: Fraction(23, 32)}
-INCOMPLETE_MC_WRONGLY_COMPLETED_WARNING (3, 8) ms3.Parse.bach_solo.BWV1007_04_Sarabande --
-	The incomplete MC 8 (timesig 3/4, act_dur 23/32) is completed by 2 incorrect durations (expected: 1/32):
-	{1: Fraction(3, 4), 9: Fraction(3, 4)}
-INCOMPLETE_MC_WRONGLY_COMPLETED_WARNING (3, 16) ms3.Parse.bach_solo.BWV1007_04_Sarabande --
-	The incomplete MC 16 (timesig 3/4, act_dur 23/32) is completed by 1 incorrect duration (expected: 1/32):
-	{9: Fraction(3, 4)}
-MCS_NOT_EXCLUDED_FROM_BARCOUNT_WARNING (1, 5, 7) ms3.Parse.bach_solo.BWV1007_04_Sarabande --
-	MCs 5, 7 seem to be offset from the MN's beginning but have not been excluded from barcount. Context:
-	   mc  mn act_dur mc_offset  dont_count  numbering_offset
-	3   4   4   23/32         0        <NA>              <NA>
-	4   5   5   23/32      1/32        <NA>              <NA>
-	5   6   6   23/32         0        <NA>              <NA>
-	6   7   7   23/32      1/32        <NA>              <NA>
-	7   8   8   23/32         0        <NA>              <NA>
-FIRST_BAR_MISSING_TEMPO_MARK_WARNING (29,) ms3.Parse.bach_solo.BWV1007_04_Sarabande --
-	No metronome mark found in the very first measure nor anywhere else in the score.
-DCML_PHRASE_INCONGRUENCY_WARNING (16,) ms3.Parse.bach_solo.BWV1007_04_Sarabande --
+INCOMPLETE_MC_WRONGLY_COMPLETED_WARNING (3, 4) ms3.Parse.bach_solo.BWV1007_04_Sarabande
+	None of the MCs following the irregular MC 4 complete it.
+	   nominal_duration actual_duration expected_completion  next
+	mc                                                           
+	4               3/4           23/32                1/32  (5,)
+	5               3/4           23/32                1/32  (6,)
+INCOMPLETE_MC_WRONGLY_COMPLETED_WARNING (3, 5) ms3.Parse.bach_solo.BWV1007_04_Sarabande
+	None of the MCs following the irregular MC 5 complete it.
+	   nominal_duration actual_duration expected_completion  next
+	mc                                                           
+	5               3/4           23/32                1/32  (6,)
+	6               3/4           23/32                1/32  (7,)
+INCOMPLETE_MC_WRONGLY_COMPLETED_WARNING (3, 6) ms3.Parse.bach_solo.BWV1007_04_Sarabande
+	None of the MCs following the irregular MC 6 complete it.
+	   nominal_duration actual_duration expected_completion  next
+	mc                                                           
+	6               3/4           23/32                1/32  (7,)
+	7               3/4           23/32                1/32  (8,)
+INCOMPLETE_MC_WRONGLY_COMPLETED_WARNING (3, 7) ms3.Parse.bach_solo.BWV1007_04_Sarabande
+	None of the MCs following the irregular MC 7 complete it.
+	   nominal_duration actual_duration expected_completion    next
+	mc                                                             
+	7               3/4           23/32                1/32    (8,)
+	8               3/4           23/32                1/32  (1, 9)
+INCOMPLETE_MC_WRONGLY_COMPLETED_WARNING (3, 8) ms3.Parse.bach_solo.BWV1007_04_Sarabande
+	None of the MCs following the irregular MC 8 complete it.
+	   nominal_duration actual_duration expected_completion    next
+	mc                                                             
+	8               3/4           23/32                1/32  (1, 9)
+	1               3/4             3/4                   0    (2,)
+	9               3/4             3/4                   0   (10,)
+INCOMPLETE_MC_WRONGLY_COMPLETED_WARNING (3, 16) ms3.Parse.bach_solo.BWV1007_04_Sarabande
+	None of the MCs following the irregular MC 16 complete it.
+	   nominal_duration actual_duration expected_completion     next
+	mc                                                              
+	16              3/4           23/32                1/32  (9, -1)
+	9               3/4             3/4                   0    (10,)
+FIRST_BAR_MISSING_TEMPO_MARK_WARNING (29,) ms3.Parse.bach_solo.BWV1007_04_Sarabande
+	No metronome mark found in the first measure nor anywhere else in the score.
+DCML_PHRASE_INCONGRUENCY_WARNING (16,) ms3.Parse.bach_solo.BWV1007_04_Sarabande
 	Phrase beginning and endings don't match:
 	mn_playthrough phraseend mn_playthrough phraseend
 	            1a         {             8a         }

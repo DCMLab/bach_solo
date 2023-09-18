@@ -1,76 +1,76 @@
-mc	mn	quarterbeats	duration_qb	mc_onset	mn_onset	timesig	staff	voice	label	globalkey	localkey	pedal	chord	numeral	form	figbass	changes	relativeroot	cadence	phraseend	chord_type	globalkey_is_minor	localkey_is_minor	chord_tones	added_tones	root	bass_note
-1	1	0	8.0	0	0	2/2	1	1	Eb.I[I{	Eb	I	I	I	I						{	M	0	0	0, 4, 1		0	0
-3	3	8	8.0	0	0	2/2	1	1	V7/IV	Eb	I	I	V7/IV	V		7		IV			Mm7	0	0	0, 4, 1, -2		0	0
-5	5	16	8.0	0	0	2/2	1	1	IV	Eb	I	I	IV	IV							M	0	0	-1, 3, 0		-1	-1
-7	7	24	8.0	0	0	2/2	1	1	V2	Eb	I	I	V2	V		2					Mm7	0	0	-1, 1, 5, 2		1	-1
-9	9	32	4.0	0	0	2/2	1	1	I]	Eb	I	I	I	I							M	0	0	0, 4, 1		0	0
-10	10	36	4.0	0	0	2/2	1	1	IM2	Eb	I		IM2	I	M	2					MM7	0	0	5, 0, 4, 1		0	5
-11	11	40	4.0	0	0	2/2	1	1	vi	Eb	I		vi	vi							m	0	0	3, 0, 4		3	3
-12	12	44	4.0	0	0	2/2	1	1	vi2	Eb	I		vi2	vi		2					mm7	0	0	1, 3, 0, 4		3	1
-13	13	48	4.0	0	0	2/2	1	1	V65/V	Eb	I		V65/V	V		65		V			Mm7	0	0	6, 3, 0, 2		2	6
-14	14	52	4.0	0	0	2/2	1	1	V7/V	Eb	I		V7/V	V		7		V			Mm7	0	0	2, 6, 3, 0		2	2
-15	15	56	4.0	0	0	2/2	1	1	V	Eb	I		V	V							M	0	0	1, 5, 2		1	1
-16	16	60	4.0	0	0	2/2	1	1	V2	Eb	I		V2	V		2					Mm7	0	0	-1, 1, 5, 2		1	-1
-17	17	64	4.0	0	0	2/2	1	1	V65/IV	Eb	I		V65/IV	V		65		IV			Mm7	0	0	4, 1, -2, 0		0	4
-18	18	68	4.0	0	0	2/2	1	1	V7/IV	Eb	I		V7/IV	V		7		IV			Mm7	0	0	0, 4, 1, -2		0	0
-19	19	72	4.0	0	0	2/2	1	1	IV	Eb	I		IV	IV							M	0	0	-1, 3, 0		-1	-1
-20	20	76	4.0	0	0	2/2	1	1	IVM2	Eb	I		IVM2	IV	M	2					MM7	0	0	4, -1, 3, 0		-1	4
-21	21	80	4.0	0	0	2/2	1	1	#viio43/vi	Eb	I		#viio43/vi	#vii	o	43		vi			o7	0	0	2, -1, 8, 5		8	2
-22	22	84	4.0	0	0	2/2	1	1	iv2/vi	Eb	I		iv2/vi	iv		2		vi			mm7	0	0	0, 2, -1, 3		2	0
-23	23	88	4.0	0	0	2/2	1	1	#viio65/vi	Eb	I		#viio65/vi	#vii	o	65		vi			o7	0	0	5, 2, -1, 8		8	5
-24	24	92	4.0	0	0	2/2	1	1	iv64/vi	Eb	I		iv64/vi	iv		64		vi			m	0	0	3, 2, -1		2	3
-25	25	96	4.0	0	0	2/2	1	1	#viio7/vi	Eb	I		#viio7/vi	#vii	o	7		vi			o7	0	0	8, 5, 2, -1		8	8
-26	26	100	4.0	0	0	2/2	1	1	V7(9)/vi	Eb	I		V7(9)/vi	V		7	9	vi			Mm7	0	0	4, 8, 5, 2	-1	4	4
-27	27	104	8.0	0	0	2/2	1	1	i/vi|IAC}{	Eb	I		i/vi	i				vi	IAC	}{	m	0	0	3, 0, 4		3	3
-29	29	112	8.0	0	0	2/2	1	1	V2/ii	Eb	I		V2/ii	V		2		ii			Mm7	0	0	1, 3, 7, 4		3	1
-31	31	120	8.0	0	0	2/2	1	1	ii6	Eb	I		ii6	ii		6					m	0	0	-1, 3, 2		2	-1
-33	33	128	8.0	0	0	2/2	1	1	#viio7/ii	Eb	I		#viio7/ii	#vii	o	7		ii			o7	0	0	7, 4, 1, -2		7	7
-35	35	136	4.0	0	0	2/2	1	1	ii	Eb	I		ii	ii							m	0	0	2, -1, 3		2	2
-36	36	140	4.0	0	0	2/2	1	1	ii2	Eb	I		ii2	ii		2					mm7	0	0	0, 2, -1, 3		2	0
-37	37	144	8.0	0	0	2/2	1	1	V65	Eb	I		V65	V		65					Mm7	0	0	5, 2, -1, 1		1	5
-39	39	152	4.0	0	0	2/2	1	1	I	Eb	I		I	I							M	0	0	0, 4, 1		0	0
-40	40	156	4.0	0	0	2/2	1	1	I6	Eb	I		I6	I		6					M	0	0	4, 1, 0		0	4
-41	41	160	4.0	0	0	2/2	1	1	iii.#viio6	Eb	iii		#viio6	#vii	o	6					o	0	1	2, -1, 5		5	2
-42	42	164	4.0	0	0	2/2	1	1	iv64	Eb	iii		iv64	iv		64					m	0	1	0, -1, -4		-1	0
-43	43	168	4.0	0	0	2/2	1	1	#viio7	Eb	iii		#viio7	#vii	o	7					o7	0	1	5, 2, -1, -4		5	5
-44	44	172	4.0	0	0	2/2	1	1	V7	Eb	iii		V7	V		7					Mm7	0	1	1, 5, 2, -1		1	1
-45	45	176	4.0	0	0	2/2	1	1	i	Eb	iii		i	i							m	0	1	0, -3, 1		0	0
-46	46	180	4.0	0	0	2/2	1	1	i2	Eb	iii		i2	i		2					mm7	0	1	-2, 0, -3, 1		0	-2
-47	47	184	4.0	0	0	2/2	1	1	VIM7	Eb	iii		VIM7	VI	M	7					MM7	0	1	-4, 0, -3, 1		-4	-4
-48	48	188	4.0	0	0	2/2	1	1	i64	Eb	iii		i64	i		64					m	0	1	1, 0, -3		0	1
-49	49	192	12.0	0	0	2/2	1	1	#viio7/V|HC}	Eb	iii		#viio7/V	#vii	o	7		V	HC	}	o7	0	1	6, 3, 0, -3		6	6
-49	49	389/2	0.0	5/8	5/8	2/2	1	1	{	Eb	iii									{		0	1				
-52	52	204	8.0	0	0	2/2	1	1	V[V7	Eb	iii	V	V7	V		7					Mm7	0	1	1, 5, 2, -1		1	1
-54	54	212	8.0	0	0	2/2	1	1	i	Eb	iii	V	i	i							m	0	1	0, -3, 1		0	0
-56	56	220	4.0	0	0	2/2	1	1	viio2/V	Eb	iii	V	viio2/V	vii	o	2		V			o7	0	1	-3, 6, 3, 0		6	-3
-57	57	224	4.0	0	0	2/2	1	1	i	Eb	iii	V	i	i							m	0	1	0, -3, 1		0	0
-58	58	228	3.0	0	0	2/2	1	1	V7/V	Eb	iii	V	V7/V	V		7		V			Mm7	0	1	2, 6, 3, 0		2	2
-58	58	231	1.0	3/4	3/4	2/2	1	1	V	Eb	iii	V	V	V							M	0	1	1, 5, 2		1	1
-59	59	232	4.0	0	0	2/2	1	1	#viio65	Eb	iii	V	#viio65	#vii	o	65					o7	0	1	2, -1, -4, 5		5	2
-60	60	236	2.0	0	0	2/2	1	1	i6]	Eb	iii	V	i6	i		6					m	0	1	-3, 1, 0		0	-3
-60	60	238	2.0	1/2	1/2	2/2	1	1	viio7/V	Eb	iii		viio7/V	vii	o	7		V			o7	0	1	6, 3, 0, -3		6	6
-61	61	240	2.0	0	0	2/2	1	1	V(4)	Eb	iii		V(4)	V			4				M	0	1	1, 0, 2		1	1
-61	61	242	2.0	1/2	1/2	2/2	1	1	V	Eb	iii		V	V							M	0	1	1, 5, 2		1	1
-62	62	244	3.0	0	0	2/2	1	1	i|PAC}{	Eb	iii		i	i					PAC	}{	m	0	1	0, -3, 1		0	0
-62	62	247	1.0	3/4	3/4	2/2	1	1	V6	Eb	iii		V6	V		6					M	0	1	5, 2, 1		1	5
-63	63	248	3.0	0	0	2/2	1	1	i	Eb	iii		i	i							m	0	1	0, -3, 1		0	0
-63	63	251	1.0	3/4	3/4	2/2	1	1	v6	Eb	iii		v6	v		6					m	0	1	-2, 2, 1		1	-2
-64	64	252	8.0	0	0	2/2	1	1	I.#viio65/ii	Eb	I		#viio65/ii	#vii	o	65		ii			o7	0	0	4, 1, -2, 7		7	4
-66	66	260	8.0	0	0	2/2	1	1	ii6	Eb	I		ii6	ii		6					m	0	0	-1, 3, 2		2	-1
-68	68	268	8.0	0	0	2/2	1	1	viio7/V	Eb	I		viio7/V	vii	o	7		V			o7	0	0	6, 3, 0, -3		6	6
-70	70	276	4.0	0	0	2/2	1	1	V	Eb	I		V	V							M	0	0	1, 5, 2		1	1
-71	71	280	2.0	0	0	2/2	1	1	iio6(4)	Eb	I		iio6(4)	ii	o	6	4				o	0	0	1, -4, 2		2	1
-71	71	282	2.0	1/2	1/2	2/2	1	1	iio6	Eb	I		iio6	ii	o	6					o	0	0	-1, -4, 2		2	-1
-72	72	284	2.0	0	0	2/2	1	1	i6(4)	Eb	I		i6(4)	i		6	4				m	0	0	-1, 1, 0		0	-1
-72	72	286	4.0	1/2	1/2	2/2	1	1	i6	Eb	I		i6	i		6					m	0	0	-3, 1, 0		0	-3
-73	73	290	2.0	1/2	1/2	2/2	1	1	i	Eb	I		i	i							m	0	0	0, -3, 1		0	0
-74	74	292	8.0	0	0	2/2	1	1	iv6	Eb	I		iv6	iv		6					m	0	0	-4, 0, -1		-1	-4
-76	76	300	8.0	0	0	2/2	1	1	viio65/V	Eb	I		viio65/V	vii	o	65		V			o7	0	0	3, 0, -3, 6		6	3
-78	78	308	8.0	0	0	2/2	1	1	V(b64)	Eb	I		V(b64)	V			b64				M	0	0	1, 0, -3		1	1
-80	80	316	6.0	0	0	2/2	1	1	bII6	Eb	I		bII6	bII		6					M	0	0	-1, -4, -5		-5	-1
-81	81	322	2.0	1/2	1/2	2/2	1	1	V	Eb	I		V	V							M	0	0	1, 5, 2		1	1
-82	82	324	8.0	0	0	2/2	1	1	I[I|PAC}{	Eb	I	I	I	I					PAC	}{	M	0	0	0, 4, 1		0	0
-84	84	332	8.0	0	0	2/2	1	1	V7/IV	Eb	I	I	V7/IV	V		7		IV			Mm7	0	0	0, 4, 1, -2		0	0
-86	86	340	8.0	0	0	2/2	1	1	IV]	Eb	I	I	IV	IV							M	0	0	-1, 3, 0		-1	-1
-88	88	348	12.0	0	0	2/2	1	1	V7	Eb	I		V7	V		7					Mm7	0	0	1, 5, 2, -1		1	1
-91	91	360	4.0	0	0	2/2	1	1	I|PAC}	Eb	I		I	I					PAC	}	M	0	0	0, 4, 1		0	0
+mc	mn	quarterbeats	quarterbeats_all_endings	duration_qb	mc_onset	mn_onset	timesig	staff	voice	label	globalkey	localkey	pedal	chord	numeral	form	figbass	changes	relativeroot	cadence	phraseend	chord_type	globalkey_is_minor	localkey_is_minor	chord_tones	added_tones	root	bass_note
+1	1	0	0	8.0	0	0	2/2	1	1	Eb.I[I{	Eb	I	I	I	I						{	M	0	0	0, 4, 1		0	0
+3	3	8	8	8.0	0	0	2/2	1	1	V7/IV	Eb	I	I	V7/IV	V		7		IV			Mm7	0	0	0, 4, 1, -2		0	0
+5	5	16	16	8.0	0	0	2/2	1	1	IV	Eb	I	I	IV	IV							M	0	0	-1, 3, 0		-1	-1
+7	7	24	24	8.0	0	0	2/2	1	1	V2	Eb	I	I	V2	V		2					Mm7	0	0	-1, 1, 5, 2		1	-1
+9	9	32	32	4.0	0	0	2/2	1	1	I]	Eb	I	I	I	I							M	0	0	0, 4, 1		0	0
+10	10	36	36	4.0	0	0	2/2	1	1	IM2	Eb	I		IM2	I	M	2					MM7	0	0	5, 0, 4, 1		0	5
+11	11	40	40	4.0	0	0	2/2	1	1	vi	Eb	I		vi	vi							m	0	0	3, 0, 4		3	3
+12	12	44	44	4.0	0	0	2/2	1	1	vi2	Eb	I		vi2	vi		2					mm7	0	0	1, 3, 0, 4		3	1
+13	13	48	48	4.0	0	0	2/2	1	1	V65/V	Eb	I		V65/V	V		65		V			Mm7	0	0	6, 3, 0, 2		2	6
+14	14	52	52	4.0	0	0	2/2	1	1	V7/V	Eb	I		V7/V	V		7		V			Mm7	0	0	2, 6, 3, 0		2	2
+15	15	56	56	4.0	0	0	2/2	1	1	V	Eb	I		V	V							M	0	0	1, 5, 2		1	1
+16	16	60	60	4.0	0	0	2/2	1	1	V2	Eb	I		V2	V		2					Mm7	0	0	-1, 1, 5, 2		1	-1
+17	17	64	64	4.0	0	0	2/2	1	1	V65/IV	Eb	I		V65/IV	V		65		IV			Mm7	0	0	4, 1, -2, 0		0	4
+18	18	68	68	4.0	0	0	2/2	1	1	V7/IV	Eb	I		V7/IV	V		7		IV			Mm7	0	0	0, 4, 1, -2		0	0
+19	19	72	72	4.0	0	0	2/2	1	1	IV	Eb	I		IV	IV							M	0	0	-1, 3, 0		-1	-1
+20	20	76	76	4.0	0	0	2/2	1	1	IVM2	Eb	I		IVM2	IV	M	2					MM7	0	0	4, -1, 3, 0		-1	4
+21	21	80	80	4.0	0	0	2/2	1	1	#viio43/vi	Eb	I		#viio43/vi	#vii	o	43		vi			o7	0	0	2, -1, 8, 5		8	2
+22	22	84	84	4.0	0	0	2/2	1	1	iv2/vi	Eb	I		iv2/vi	iv		2		vi			mm7	0	0	0, 2, -1, 3		2	0
+23	23	88	88	4.0	0	0	2/2	1	1	#viio65/vi	Eb	I		#viio65/vi	#vii	o	65		vi			o7	0	0	5, 2, -1, 8		8	5
+24	24	92	92	4.0	0	0	2/2	1	1	iv64/vi	Eb	I		iv64/vi	iv		64		vi			m	0	0	3, 2, -1		2	3
+25	25	96	96	4.0	0	0	2/2	1	1	#viio7/vi	Eb	I		#viio7/vi	#vii	o	7		vi			o7	0	0	8, 5, 2, -1		8	8
+26	26	100	100	4.0	0	0	2/2	1	1	V7(9)/vi	Eb	I		V7(9)/vi	V		7	9	vi			Mm7	0	0	4, 8, 5, 2	-1	4	4
+27	27	104	104	8.0	0	0	2/2	1	1	i/vi|IAC}{	Eb	I		i/vi	i				vi	IAC	}{	m	0	0	3, 0, 4		3	3
+29	29	112	112	8.0	0	0	2/2	1	1	V2/ii	Eb	I		V2/ii	V		2		ii			Mm7	0	0	1, 3, 7, 4		3	1
+31	31	120	120	8.0	0	0	2/2	1	1	ii6	Eb	I		ii6	ii		6					m	0	0	-1, 3, 2		2	-1
+33	33	128	128	8.0	0	0	2/2	1	1	#viio7/ii	Eb	I		#viio7/ii	#vii	o	7		ii			o7	0	0	7, 4, 1, -2		7	7
+35	35	136	136	4.0	0	0	2/2	1	1	ii	Eb	I		ii	ii							m	0	0	2, -1, 3		2	2
+36	36	140	140	4.0	0	0	2/2	1	1	ii2	Eb	I		ii2	ii		2					mm7	0	0	0, 2, -1, 3		2	0
+37	37	144	144	8.0	0	0	2/2	1	1	V65	Eb	I		V65	V		65					Mm7	0	0	5, 2, -1, 1		1	5
+39	39	152	152	4.0	0	0	2/2	1	1	I	Eb	I		I	I							M	0	0	0, 4, 1		0	0
+40	40	156	156	4.0	0	0	2/2	1	1	I6	Eb	I		I6	I		6					M	0	0	4, 1, 0		0	4
+41	41	160	160	4.0	0	0	2/2	1	1	iii.#viio6	Eb	iii		#viio6	#vii	o	6					o	0	1	2, -1, 5		5	2
+42	42	164	164	4.0	0	0	2/2	1	1	iv64	Eb	iii		iv64	iv		64					m	0	1	0, -1, -4		-1	0
+43	43	168	168	4.0	0	0	2/2	1	1	#viio7	Eb	iii		#viio7	#vii	o	7					o7	0	1	5, 2, -1, -4		5	5
+44	44	172	172	4.0	0	0	2/2	1	1	V7	Eb	iii		V7	V		7					Mm7	0	1	1, 5, 2, -1		1	1
+45	45	176	176	4.0	0	0	2/2	1	1	i	Eb	iii		i	i							m	0	1	0, -3, 1		0	0
+46	46	180	180	4.0	0	0	2/2	1	1	i2	Eb	iii		i2	i		2					mm7	0	1	-2, 0, -3, 1		0	-2
+47	47	184	184	4.0	0	0	2/2	1	1	VIM7	Eb	iii		VIM7	VI	M	7					MM7	0	1	-4, 0, -3, 1		-4	-4
+48	48	188	188	4.0	0	0	2/2	1	1	i64	Eb	iii		i64	i		64					m	0	1	1, 0, -3		0	1
+49	49	192	192	12.0	0	0	2/2	1	1	#viio7/V|HC}	Eb	iii		#viio7/V	#vii	o	7		V	HC	}	o7	0	1	6, 3, 0, -3		6	6
+49	49	389/2	389/2	0.0	5/8	5/8	2/2	1	1	{	Eb	iii									{		0	1				
+52	52	204	204	8.0	0	0	2/2	1	1	V[V7	Eb	iii	V	V7	V		7					Mm7	0	1	1, 5, 2, -1		1	1
+54	54	212	212	8.0	0	0	2/2	1	1	i	Eb	iii	V	i	i							m	0	1	0, -3, 1		0	0
+56	56	220	220	4.0	0	0	2/2	1	1	viio2/V	Eb	iii	V	viio2/V	vii	o	2		V			o7	0	1	-3, 6, 3, 0		6	-3
+57	57	224	224	4.0	0	0	2/2	1	1	i	Eb	iii	V	i	i							m	0	1	0, -3, 1		0	0
+58	58	228	228	3.0	0	0	2/2	1	1	V7/V	Eb	iii	V	V7/V	V		7		V			Mm7	0	1	2, 6, 3, 0		2	2
+58	58	231	231	1.0	3/4	3/4	2/2	1	1	V	Eb	iii	V	V	V							M	0	1	1, 5, 2		1	1
+59	59	232	232	4.0	0	0	2/2	1	1	#viio65	Eb	iii	V	#viio65	#vii	o	65					o7	0	1	2, -1, -4, 5		5	2
+60	60	236	236	2.0	0	0	2/2	1	1	i6]	Eb	iii	V	i6	i		6					m	0	1	-3, 1, 0		0	-3
+60	60	238	238	2.0	1/2	1/2	2/2	1	1	viio7/V	Eb	iii		viio7/V	vii	o	7		V			o7	0	1	6, 3, 0, -3		6	6
+61	61	240	240	2.0	0	0	2/2	1	1	V(4)	Eb	iii		V(4)	V			4				M	0	1	1, 0, 2		1	1
+61	61	242	242	2.0	1/2	1/2	2/2	1	1	V	Eb	iii		V	V							M	0	1	1, 5, 2		1	1
+62	62	244	244	3.0	0	0	2/2	1	1	i|PAC}{	Eb	iii		i	i					PAC	}{	m	0	1	0, -3, 1		0	0
+62	62	247	247	1.0	3/4	3/4	2/2	1	1	V6	Eb	iii		V6	V		6					M	0	1	5, 2, 1		1	5
+63	63	248	248	3.0	0	0	2/2	1	1	i	Eb	iii		i	i							m	0	1	0, -3, 1		0	0
+63	63	251	251	1.0	3/4	3/4	2/2	1	1	v6	Eb	iii		v6	v		6					m	0	1	-2, 2, 1		1	-2
+64	64	252	252	8.0	0	0	2/2	1	1	I.#viio65/ii	Eb	I		#viio65/ii	#vii	o	65		ii			o7	0	0	4, 1, -2, 7		7	4
+66	66	260	260	8.0	0	0	2/2	1	1	ii6	Eb	I		ii6	ii		6					m	0	0	-1, 3, 2		2	-1
+68	68	268	268	8.0	0	0	2/2	1	1	viio7/V	Eb	I		viio7/V	vii	o	7		V			o7	0	0	6, 3, 0, -3		6	6
+70	70	276	276	4.0	0	0	2/2	1	1	V	Eb	I		V	V							M	0	0	1, 5, 2		1	1
+71	71	280	280	2.0	0	0	2/2	1	1	iio6(4)	Eb	I		iio6(4)	ii	o	6	4				o	0	0	1, -4, 2		2	1
+71	71	282	282	2.0	1/2	1/2	2/2	1	1	iio6	Eb	I		iio6	ii	o	6					o	0	0	-1, -4, 2		2	-1
+72	72	284	284	2.0	0	0	2/2	1	1	i6(4)	Eb	I		i6(4)	i		6	4				m	0	0	-1, 1, 0		0	-1
+72	72	286	286	4.0	1/2	1/2	2/2	1	1	i6	Eb	I		i6	i		6					m	0	0	-3, 1, 0		0	-3
+73	73	290	290	2.0	1/2	1/2	2/2	1	1	i	Eb	I		i	i							m	0	0	0, -3, 1		0	0
+74	74	292	292	8.0	0	0	2/2	1	1	iv6	Eb	I		iv6	iv		6					m	0	0	-4, 0, -1		-1	-4
+76	76	300	300	8.0	0	0	2/2	1	1	viio65/V	Eb	I		viio65/V	vii	o	65		V			o7	0	0	3, 0, -3, 6		6	3
+78	78	308	308	8.0	0	0	2/2	1	1	V(b64)	Eb	I		V(b64)	V			b64				M	0	0	1, 0, -3		1	1
+80	80	316	316	6.0	0	0	2/2	1	1	bII6	Eb	I		bII6	bII		6					M	0	0	-1, -4, -5		-5	-1
+81	81	322	322	2.0	1/2	1/2	2/2	1	1	V	Eb	I		V	V							M	0	0	1, 5, 2		1	1
+82	82	324	324	8.0	0	0	2/2	1	1	I[I|PAC}{	Eb	I	I	I	I					PAC	}{	M	0	0	0, 4, 1		0	0
+84	84	332	332	8.0	0	0	2/2	1	1	V7/IV	Eb	I	I	V7/IV	V		7		IV			Mm7	0	0	0, 4, 1, -2		0	0
+86	86	340	340	8.0	0	0	2/2	1	1	IV]	Eb	I	I	IV	IV							M	0	0	-1, 3, 0		-1	-1
+88	88	348	348	12.0	0	0	2/2	1	1	V7	Eb	I		V7	V		7					Mm7	0	0	1, 5, 2, -1		1	1
+91	91	360	360	4.0	0	0	2/2	1	1	I|PAC}	Eb	I		I	I					PAC	}	M	0	0	0, 4, 1		0	0

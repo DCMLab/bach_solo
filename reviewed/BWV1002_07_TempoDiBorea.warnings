@@ -1,7 +1,7 @@
 Warnings encountered during the last execution of ms3 review
 ============================================================
 
-MCS_NOT_EXCLUDED_FROM_BARCOUNT_WARNING (1, 1, 22) ms3.Parse.bach_solo.BWV1002_07_TempoDiBorea --
+MCS_NOT_EXCLUDED_FROM_BARCOUNT_WARNING (1, 1, 22) ms3.Parse.bach_solo.BWV1002_07_TempoDiBorea
 	MCs 1, 22 seem to be offset from the MN's beginning but have not been excluded from barcount. Context:
 	    mc  mn act_dur mc_offset  dont_count  numbering_offset
 	0    1   1     1/4       3/4        <NA>              <NA>
@@ -9,5 +9,5 @@ MCS_NOT_EXCLUDED_FROM_BARCOUNT_WARNING (1, 1, 22) ms3.Parse.bach_solo.BWV1002_07
 	20  21  21     3/4         0        <NA>              <NA>
 	21  22  22     1/4       3/4        <NA>              <NA>
 	22  23  23       1         0        <NA>              <NA>
-FIRST_BAR_MISSING_TEMPO_MARK_WARNING (29,) ms3.Parse.bach_solo.BWV1002_07_TempoDiBorea --
-	No metronome mark found in the very first measure nor anywhere else in the score.
+FIRST_BAR_MISSING_TEMPO_MARK_WARNING (29,) ms3.Parse.bach_solo.BWV1002_07_TempoDiBorea
+	No metronome mark found in the first measure nor anywhere else in the score.
