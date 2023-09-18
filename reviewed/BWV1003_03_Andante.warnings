@@ -1,9 +1,0 @@
-Warnings encountered during the last execution of ms3 review
-============================================================
-
-VOLTAS_WITH_DIFFERING_LENGTHS_WARNING (4, 27) ms3.Parse.bach_solo.BWV1003_03_Andante
-	Volta group of MC 27 contains voltas with different lengths: [2, 1] Check for correct computation of MNs and copy this message into an IGNORED_WARNINGS file to make the warning disappear.
-INCORRECT_VOLTA_MN_WARNING (2, 29) ms3.Parse.bach_solo.BWV1003_03_Andante
-	MC 29, the 1st measure of a 2nd volta, should have MN 26, not MN 27.
-FIRST_BAR_MISSING_TEMPO_MARK_WARNING (29,) ms3.Parse.bach_solo.BWV1003_03_Andante
-	No metronome mark found in the first measure nor anywhere else in the score.

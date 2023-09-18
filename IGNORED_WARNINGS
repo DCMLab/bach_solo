@@ -12,3 +12,9 @@ DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 25, '5/8', 'V') ms3.Parse.bach
 
 DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 24, '3/8', 'iv6') ms3.Parse.bach_solo.BWV1002_06_Double
 	The label iv6 in m23 is the resolution chord to the preceding chord iv6(2).
+
+VOLTAS_WITH_DIFFERING_LENGTHS_WARNING (4, 27) ms3.Parse.bach_solo.BWV1003_03_Andante
+	Volta group of MC 27 contains voltas with different lengths: [2, 1] Check for correct computation of MNs
+
+INCORRECT_VOLTA_MN_WARNING (2, 29) ms3.Parse.bach_solo.BWV1003_03_Andante
+	MC 29, the 1st measure of a 2nd volta, should have MN 26, not MN 27 according to the warning
