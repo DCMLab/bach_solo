@@ -137,15 +137,16 @@
             <text>Double
 Presto</text>
             </StaffText>
-          <Harmony>
-            <name>.b.i{</name>
-            </Harmony>
           <Tempo>
             <tempo>1.8333333333333333</tempo>
             <followText>1</followText>
             <visible>0</visible>
-            <text><b></b><font face="ScoreText"/><b><font face="FreeSerif"/> = 110</b></text>
+            <text><b></b><font face="ScoreText"></font><b><font face="FreeSerif"></font> = 110</b></text>
             </Tempo>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>b.i{</name>
+            </Harmony>
           <Chord>
             <durationType>16th</durationType>
             <Note>
@@ -239,6 +240,7 @@ Presto</text>
       <Measure>
         <voice>
           <Harmony>
+            <harmonyType>1</harmonyType>
             <name>V65</name>
             </Harmony>
           <Chord>
@@ -339,6 +341,7 @@ Presto</text>
       <Measure>
         <voice>
           <Harmony>
+            <harmonyType>1</harmonyType>
             <name>i</name>
             </Harmony>
           <Chord>
@@ -442,6 +445,7 @@ Presto</text>
             <transposingClefType>G</transposingClefType>
             </Clef>
           <Harmony>
+            <harmonyType>1</harmonyType>
             <name>V65/III</name>
             </Harmony>
           <Chord>
@@ -533,6 +537,7 @@ Presto</text>
       <Measure>
         <voice>
           <Harmony>
+            <harmonyType>1</harmonyType>
             <name>III</name>
             </Harmony>
           <Chord>
@@ -624,7 +629,8 @@ Presto</text>
       <Measure>
         <voice>
           <Harmony>
-            <name>.bII6</name>
+            <harmonyType>1</harmonyType>
+            <name>bII6</name>
             </Harmony>
           <Chord>
             <durationType>16th</durationType>
@@ -718,6 +724,7 @@ Presto</text>
       <Measure>
         <voice>
           <Harmony>
+            <harmonyType>1</harmonyType>
             <name>V65</name>
             </Harmony>
           <Chord>
@@ -784,6 +791,7 @@ Presto</text>
               </Note>
             </Chord>
           <Harmony>
+            <harmonyType>1</harmonyType>
             <name>#viio7/iv</name>
             </Harmony>
           <Chord>
@@ -832,6 +840,7 @@ Presto</text>
             <transposingClefType>G</transposingClefType>
             </Clef>
           <Harmony>
+            <harmonyType>1</harmonyType>
             <name>V65/VII</name>
             </Harmony>
           <Chord>
@@ -902,6 +911,7 @@ Presto</text>
               </Note>
             </Chord>
           <Harmony>
+            <harmonyType>1</harmonyType>
             <name>#viio7</name>
             </Harmony>
           <Chord>
@@ -968,6 +978,7 @@ Presto</text>
               </Note>
             </Chord>
           <Harmony>
+            <harmonyType>1</harmonyType>
             <name>i</name>
             </Harmony>
           <Chord>
@@ -1037,6 +1048,7 @@ Presto</text>
       <Measure>
         <voice>
           <Harmony>
+            <harmonyType>1</harmonyType>
             <name>V7</name>
             </Harmony>
           <Chord>
@@ -1134,6 +1146,7 @@ Presto</text>
       <Measure>
         <voice>
           <Harmony>
+            <harmonyType>1</harmonyType>
             <name>i</name>
             </Harmony>
           <Chord>
@@ -1236,6 +1249,7 @@ Presto</text>
       <Measure>
         <voice>
           <Harmony>
+            <harmonyType>1</harmonyType>
             <name>V7/VII</name>
             </Harmony>
           <Chord>
@@ -1330,6 +1344,7 @@ Presto</text>
       <Measure>
         <voice>
           <Harmony>
+            <harmonyType>1</harmonyType>
             <name>VII</name>
             </Harmony>
           <Chord>
@@ -1392,6 +1407,7 @@ Presto</text>
               </Note>
             </Chord>
           <Harmony>
+            <harmonyType>1</harmonyType>
             <name>V43/III</name>
             </Harmony>
           <Chord>
@@ -1431,6 +1447,7 @@ Presto</text>
       <Measure>
         <voice>
           <Harmony>
+            <harmonyType>1</harmonyType>
             <name>III</name>
             </Harmony>
           <Chord>
@@ -1490,6 +1507,7 @@ Presto</text>
               </Note>
             </Chord>
           <Harmony>
+            <harmonyType>1</harmonyType>
             <name>V7/IV/III</name>
             </Harmony>
           <Chord>
@@ -1528,6 +1546,7 @@ Presto</text>
       <Measure>
         <voice>
           <Harmony>
+            <harmonyType>1</harmonyType>
             <name>IV/III</name>
             </Harmony>
           <Chord>
@@ -1622,6 +1641,7 @@ Presto</text>
       <Measure>
         <voice>
           <Harmony>
+            <harmonyType>1</harmonyType>
             <name>V65/III</name>
             </Harmony>
           <Chord>
@@ -1713,6 +1733,7 @@ Presto</text>
       <Measure>
         <voice>
           <Harmony>
+            <harmonyType>1</harmonyType>
             <name>III</name>
             </Harmony>
           <Chord>
@@ -1772,6 +1793,7 @@ Presto</text>
               </Note>
             </Chord>
           <Harmony>
+            <harmonyType>1</harmonyType>
             <name>V/III</name>
             </Harmony>
           <Chord>
@@ -1807,6 +1829,7 @@ Presto</text>
       <Measure>
         <voice>
           <Harmony>
+            <harmonyType>1</harmonyType>
             <name>III6</name>
             </Harmony>
           <Chord>
@@ -1838,6 +1861,7 @@ Presto</text>
               </Note>
             </Chord>
           <Harmony>
+            <harmonyType>1</harmonyType>
             <name>III</name>
             </Harmony>
           <Chord>
@@ -1869,6 +1893,7 @@ Presto</text>
               </Note>
             </Chord>
           <Harmony>
+            <harmonyType>1</harmonyType>
             <name>i</name>
             </Harmony>
           <Chord>
@@ -1904,6 +1929,7 @@ Presto</text>
       <Measure>
         <voice>
           <Harmony>
+            <harmonyType>1</harmonyType>
             <name>#viio7</name>
             </Harmony>
           <Chord>
@@ -2004,6 +2030,7 @@ Presto</text>
       <Measure>
         <voice>
           <Harmony>
+            <harmonyType>1</harmonyType>
             <name>i</name>
             </Harmony>
           <Chord>
@@ -2063,6 +2090,7 @@ Presto</text>
               </Note>
             </Chord>
           <Harmony>
+            <harmonyType>1</harmonyType>
             <name>v.i</name>
             </Harmony>
           <Chord>
@@ -2105,6 +2133,7 @@ Presto</text>
       <Measure>
         <voice>
           <Harmony>
+            <harmonyType>1</harmonyType>
             <name>V</name>
             </Harmony>
           <Chord>
@@ -2170,6 +2199,7 @@ Presto</text>
               </Note>
             </Chord>
           <Harmony>
+            <harmonyType>1</harmonyType>
             <name>iio6</name>
             </Harmony>
           <Chord>
@@ -2205,6 +2235,7 @@ Presto</text>
       <Measure>
         <voice>
           <Harmony>
+            <harmonyType>1</harmonyType>
             <name>i6</name>
             </Harmony>
           <Chord>
@@ -2303,6 +2334,7 @@ Presto</text>
       <Measure>
         <voice>
           <Harmony>
+            <harmonyType>1</harmonyType>
             <name>IV</name>
             </Harmony>
           <Chord>
@@ -2365,6 +2397,7 @@ Presto</text>
               </Note>
             </Chord>
           <Harmony>
+            <harmonyType>1</harmonyType>
             <name>i6</name>
             </Harmony>
           <Chord>
@@ -2400,6 +2433,7 @@ Presto</text>
       <Measure>
         <voice>
           <Harmony>
+            <harmonyType>1</harmonyType>
             <name>ii%7</name>
             </Harmony>
           <Chord>
@@ -2466,6 +2500,7 @@ Presto</text>
               </Note>
             </Chord>
           <Harmony>
+            <harmonyType>1</harmonyType>
             <name>i</name>
             </Harmony>
           <Chord>
@@ -2501,6 +2536,7 @@ Presto</text>
       <Measure>
         <voice>
           <Harmony>
+            <harmonyType>1</harmonyType>
             <name>V65</name>
             </Harmony>
           <Chord>
@@ -2607,6 +2643,7 @@ Presto</text>
       <Measure>
         <voice>
           <Harmony>
+            <harmonyType>1</harmonyType>
             <name>i</name>
             </Harmony>
           <Chord>
@@ -2713,6 +2750,7 @@ Presto</text>
       <Measure>
         <voice>
           <Harmony>
+            <harmonyType>1</harmonyType>
             <name>iv</name>
             </Harmony>
           <Chord>
@@ -2808,7 +2846,8 @@ Presto</text>
       <Measure>
         <voice>
           <Harmony>
-            <name>.bII</name>
+            <harmonyType>1</harmonyType>
+            <name>bII</name>
             </Harmony>
           <Chord>
             <durationType>16th</durationType>
@@ -2899,6 +2938,7 @@ Presto</text>
       <Measure>
         <voice>
           <Harmony>
+            <harmonyType>1</harmonyType>
             <name>V7</name>
             </Harmony>
           <Chord>
@@ -2999,6 +3039,7 @@ Presto</text>
       <Measure>
         <voice>
           <Harmony>
+            <harmonyType>1</harmonyType>
             <name>i</name>
             </Harmony>
           <Chord>
@@ -3061,6 +3102,7 @@ Presto</text>
               </Note>
             </Chord>
           <Harmony>
+            <harmonyType>1</harmonyType>
             <name>V</name>
             </Harmony>
           <Chord>
@@ -3099,6 +3141,7 @@ Presto</text>
       <Measure>
         <voice>
           <Harmony>
+            <harmonyType>1</harmonyType>
             <name>I</name>
             </Harmony>
           <Beam>
@@ -3136,6 +3179,7 @@ Presto</text>
               </Note>
             </Chord>
           <Harmony>
+            <harmonyType>1</harmonyType>
             <name>V7/iv</name>
             </Harmony>
           <Beam>
@@ -3174,6 +3218,7 @@ Presto</text>
               </Note>
             </Chord>
           <Harmony>
+            <harmonyType>1</harmonyType>
             <name>iv64</name>
             </Harmony>
           <Chord>
@@ -3213,6 +3258,7 @@ Presto</text>
           </LayoutBreak>
         <voice>
           <Harmony>
+            <harmonyType>1</harmonyType>
             <name>I}</name>
             </Harmony>
           <Chord>
@@ -3305,6 +3351,7 @@ Presto</text>
             <subtype>start-repeat</subtype>
             </BarLine>
           <Harmony>
+            <harmonyType>1</harmonyType>
             <name>i.V{</name>
             </Harmony>
           <Chord>
@@ -3419,6 +3466,7 @@ Presto</text>
       <Measure>
         <voice>
           <Harmony>
+            <harmonyType>1</harmonyType>
             <name>i6</name>
             </Harmony>
           <Chord>
@@ -3450,6 +3498,7 @@ Presto</text>
               </Note>
             </Chord>
           <Harmony>
+            <harmonyType>1</harmonyType>
             <name>V</name>
             </Harmony>
           <Chord>
@@ -3519,6 +3568,7 @@ Presto</text>
       <Measure>
         <voice>
           <Harmony>
+            <harmonyType>1</harmonyType>
             <name>i</name>
             </Harmony>
           <Chord>
@@ -3670,6 +3720,7 @@ Presto</text>
               </Note>
             </Chord>
           <Harmony>
+            <harmonyType>1</harmonyType>
             <name>#viio7/iv</name>
             </Harmony>
           <Chord>
@@ -3711,6 +3762,7 @@ Presto</text>
       <Measure>
         <voice>
           <Harmony>
+            <harmonyType>1</harmonyType>
             <name>iv</name>
             </Harmony>
           <Chord>
@@ -3861,6 +3913,7 @@ Presto</text>
               </Note>
             </Chord>
           <Harmony>
+            <harmonyType>1</harmonyType>
             <name>#viio7/vii</name>
             </Harmony>
           <Chord>
@@ -3902,6 +3955,7 @@ Presto</text>
       <Measure>
         <voice>
           <Harmony>
+            <harmonyType>1</harmonyType>
             <name>vii6</name>
             </Harmony>
           <Chord>
@@ -4003,6 +4057,7 @@ Presto</text>
       <Measure>
         <voice>
           <Harmony>
+            <harmonyType>1</harmonyType>
             <name>V7/iv</name>
             </Harmony>
           <Chord>
@@ -4101,6 +4156,7 @@ Presto</text>
       <Measure>
         <voice>
           <Harmony>
+            <harmonyType>1</harmonyType>
             <name>iv6</name>
             </Harmony>
           <Chord>
@@ -4132,6 +4188,7 @@ Presto</text>
               </Note>
             </Chord>
           <Harmony>
+            <harmonyType>1</harmonyType>
             <name>III6</name>
             </Harmony>
           <Chord>
@@ -4167,7 +4224,8 @@ Presto</text>
               </Note>
             </Chord>
           <Harmony>
-            <name>.bII6</name>
+            <harmonyType>1</harmonyType>
+            <name>bII6</name>
             </Harmony>
           <Chord>
             <durationType>16th</durationType>
@@ -4205,6 +4263,7 @@ Presto</text>
       <Measure>
         <voice>
           <Harmony>
+            <harmonyType>1</harmonyType>
             <name>V65/iv</name>
             </Harmony>
           <Chord>
@@ -4308,6 +4367,7 @@ Presto</text>
       <Measure>
         <voice>
           <Harmony>
+            <harmonyType>1</harmonyType>
             <name>iv</name>
             </Harmony>
           <Beam>
@@ -4342,6 +4402,7 @@ Presto</text>
               </Note>
             </Chord>
           <Harmony>
+            <harmonyType>1</harmonyType>
             <name>i6</name>
             </Harmony>
           <Chord>
@@ -4377,6 +4438,7 @@ Presto</text>
               </Note>
             </Chord>
           <Harmony>
+            <harmonyType>1</harmonyType>
             <name>vii6</name>
             </Harmony>
           <Chord>
@@ -4415,6 +4477,7 @@ Presto</text>
       <Measure>
         <voice>
           <Harmony>
+            <harmonyType>1</harmonyType>
             <name>#viio6/vii</name>
             </Harmony>
           <Chord>
@@ -4515,6 +4578,7 @@ Presto</text>
       <Measure>
         <voice>
           <Harmony>
+            <harmonyType>1</harmonyType>
             <name>vii</name>
             </Harmony>
           <Chord>
@@ -4612,6 +4676,7 @@ Presto</text>
       <Measure>
         <voice>
           <Harmony>
+            <harmonyType>1</harmonyType>
             <name>V/iv</name>
             </Harmony>
           <Chord>
@@ -4674,6 +4739,7 @@ Presto</text>
               </Note>
             </Chord>
           <Harmony>
+            <harmonyType>1</harmonyType>
             <name>iio6/iv</name>
             </Harmony>
           <Chord>
@@ -4712,6 +4778,7 @@ Presto</text>
       <Measure>
         <voice>
           <Harmony>
+            <harmonyType>1</harmonyType>
             <name>iv</name>
             </Harmony>
           <Chord>
@@ -4774,6 +4841,7 @@ Presto</text>
               </Note>
             </Chord>
           <Harmony>
+            <harmonyType>1</harmonyType>
             <name>V/iv</name>
             </Harmony>
           <Chord>
@@ -4816,6 +4884,7 @@ Presto</text>
             <accidental>2</accidental>
             </KeySig>
           <Harmony>
+            <harmonyType>1</harmonyType>
             <name>iv</name>
             </Harmony>
           <Chord>
@@ -4910,6 +4979,7 @@ Presto</text>
       <Measure>
         <voice>
           <Harmony>
+            <harmonyType>1</harmonyType>
             <name>viio6/VII</name>
             </Harmony>
           <Chord>
@@ -5008,6 +5078,7 @@ Presto</text>
       <Measure>
         <voice>
           <Harmony>
+            <harmonyType>1</harmonyType>
             <name>VII6</name>
             </Harmony>
           <Chord>
@@ -5102,6 +5173,7 @@ Presto</text>
       <Measure>
         <voice>
           <Harmony>
+            <harmonyType>1</harmonyType>
             <name>IV/VII</name>
             </Harmony>
           <Chord>
@@ -5133,6 +5205,7 @@ Presto</text>
               </Note>
             </Chord>
           <Harmony>
+            <harmonyType>1</harmonyType>
             <name>viio6(2)/VII</name>
             </Harmony>
           <Chord>
@@ -5164,6 +5237,7 @@ Presto</text>
               </Note>
             </Chord>
           <Harmony>
+            <harmonyType>1</harmonyType>
             <name>V7/VII</name>
             </Harmony>
           <Chord>
@@ -5202,6 +5276,7 @@ Presto</text>
       <Measure>
         <voice>
           <Harmony>
+            <harmonyType>1</harmonyType>
             <name>VII</name>
             </Harmony>
           <Chord>
@@ -5233,6 +5308,7 @@ Presto</text>
               </Note>
             </Chord>
           <Harmony>
+            <harmonyType>1</harmonyType>
             <name>V7/III</name>
             </Harmony>
           <Chord>
@@ -5296,6 +5372,7 @@ Presto</text>
       <Measure>
         <voice>
           <Harmony>
+            <harmonyType>1</harmonyType>
             <name>III6</name>
             </Harmony>
           <Chord>
@@ -5327,6 +5404,7 @@ Presto</text>
               </Note>
             </Chord>
           <Harmony>
+            <harmonyType>1</harmonyType>
             <name>viio6/III</name>
             </Harmony>
           <Chord>
@@ -5358,6 +5436,7 @@ Presto</text>
               </Note>
             </Chord>
           <Harmony>
+            <harmonyType>1</harmonyType>
             <name>vi6/III</name>
             </Harmony>
           <Chord>
@@ -5393,6 +5472,7 @@ Presto</text>
       <Measure>
         <voice>
           <Harmony>
+            <harmonyType>1</harmonyType>
             <name>V65/III</name>
             </Harmony>
           <Chord>
@@ -5484,6 +5564,7 @@ Presto</text>
       <Measure>
         <voice>
           <Harmony>
+            <harmonyType>1</harmonyType>
             <name>III</name>
             </Harmony>
           <Chord>
@@ -5515,6 +5596,7 @@ Presto</text>
               </Note>
             </Chord>
           <Harmony>
+            <harmonyType>1</harmonyType>
             <name>V6/III</name>
             </Harmony>
           <Chord>
@@ -5546,6 +5628,7 @@ Presto</text>
               </Note>
             </Chord>
           <Harmony>
+            <harmonyType>1</harmonyType>
             <name>IV6/III</name>
             </Harmony>
           <Chord>
@@ -5581,6 +5664,7 @@ Presto</text>
       <Measure>
         <voice>
           <Harmony>
+            <harmonyType>1</harmonyType>
             <name>V7/III</name>
             </Harmony>
           <Chord>
@@ -5672,6 +5756,7 @@ Presto</text>
       <Measure>
         <voice>
           <Harmony>
+            <harmonyType>1</harmonyType>
             <name>V7/VI</name>
             </Harmony>
           <Chord>
@@ -5766,6 +5851,7 @@ Presto</text>
       <Measure>
         <voice>
           <Harmony>
+            <harmonyType>1</harmonyType>
             <name>VI</name>
             </Harmony>
           <Chord>
@@ -5828,6 +5914,7 @@ Presto</text>
               </Note>
             </Chord>
           <Harmony>
+            <harmonyType>1</harmonyType>
             <name>viio64/III</name>
             </Harmony>
           <Chord>
@@ -5867,6 +5954,7 @@ Presto</text>
       <Measure>
         <voice>
           <Harmony>
+            <harmonyType>1</harmonyType>
             <name>III6</name>
             </Harmony>
           <Chord>
@@ -5898,6 +5986,7 @@ Presto</text>
               </Note>
             </Chord>
           <Harmony>
+            <harmonyType>1</harmonyType>
             <name>III</name>
             </Harmony>
           <Chord>
@@ -5929,6 +6018,7 @@ Presto</text>
               </Note>
             </Chord>
           <Harmony>
+            <harmonyType>1</harmonyType>
             <name>V/III</name>
             </Harmony>
           <Chord>
@@ -5964,6 +6054,7 @@ Presto</text>
       <Measure>
         <voice>
           <Harmony>
+            <harmonyType>1</harmonyType>
             <name>III</name>
             </Harmony>
           <Beam>
@@ -6026,6 +6117,7 @@ Presto</text>
               </Note>
             </Chord>
           <Harmony>
+            <harmonyType>1</harmonyType>
             <name>i</name>
             </Harmony>
           <Chord>
@@ -6061,6 +6153,7 @@ Presto</text>
       <Measure>
         <voice>
           <Harmony>
+            <harmonyType>1</harmonyType>
             <name>V65</name>
             </Harmony>
           <Chord>
@@ -6161,6 +6254,7 @@ Presto</text>
       <Measure>
         <voice>
           <Harmony>
+            <harmonyType>1</harmonyType>
             <name>i</name>
             </Harmony>
           <Chord>
@@ -6263,6 +6357,7 @@ Presto</text>
             <transposingClefType>G</transposingClefType>
             </Clef>
           <Harmony>
+            <harmonyType>1</harmonyType>
             <name>V/V</name>
             </Harmony>
           <Chord>
@@ -6366,6 +6461,7 @@ Presto</text>
       <Measure>
         <voice>
           <Harmony>
+            <harmonyType>1</harmonyType>
             <name>V</name>
             </Harmony>
           <Chord>
@@ -6428,6 +6524,7 @@ Presto</text>
               </Note>
             </Chord>
           <Harmony>
+            <harmonyType>1</harmonyType>
             <name>iio6</name>
             </Harmony>
           <Chord>
@@ -6471,6 +6568,7 @@ Presto</text>
       <Measure>
         <voice>
           <Harmony>
+            <harmonyType>1</harmonyType>
             <name>V65/iv</name>
             </Harmony>
           <Chord>
@@ -6536,6 +6634,7 @@ Presto</text>
               </Note>
             </Chord>
           <Harmony>
+            <harmonyType>1</harmonyType>
             <name>viio64/VII</name>
             </Harmony>
           <Chord>
@@ -6577,6 +6676,7 @@ Presto</text>
       <Measure>
         <voice>
           <Harmony>
+            <harmonyType>1</harmonyType>
             <name>V65/III</name>
             </Harmony>
           <Chord>
@@ -6640,6 +6740,7 @@ Presto</text>
               </Note>
             </Chord>
           <Harmony>
+            <harmonyType>1</harmonyType>
             <name>viio64/VI</name>
             </Harmony>
           <Chord>
@@ -6678,6 +6779,7 @@ Presto</text>
       <Measure>
         <voice>
           <Harmony>
+            <harmonyType>1</harmonyType>
             <name>VIM65</name>
             </Harmony>
           <Chord>
@@ -6737,6 +6839,7 @@ Presto</text>
               </Note>
             </Chord>
           <Harmony>
+            <harmonyType>1</harmonyType>
             <name>iv64</name>
             </Harmony>
           <Chord>
@@ -6776,6 +6879,7 @@ Presto</text>
       <Measure>
         <voice>
           <Harmony>
+            <harmonyType>1</harmonyType>
             <name>V65</name>
             </Harmony>
           <Chord>
@@ -6838,6 +6942,7 @@ Presto</text>
               </Note>
             </Chord>
           <Harmony>
+            <harmonyType>1</harmonyType>
             <name>#viio64/iv</name>
             </Harmony>
           <Chord>
@@ -6879,6 +6984,7 @@ Presto</text>
       <Measure>
         <voice>
           <Harmony>
+            <harmonyType>1</harmonyType>
             <name>vii%7/VII</name>
             </Harmony>
           <Chord>
@@ -6983,6 +7089,7 @@ Presto</text>
       <Measure>
         <voice>
           <Harmony>
+            <harmonyType>1</harmonyType>
             <name>V</name>
             </Harmony>
           <Chord>
@@ -7080,6 +7187,7 @@ Presto</text>
       <Measure>
         <voice>
           <Harmony>
+            <harmonyType>1</harmonyType>
             <name>i</name>
             </Harmony>
           <Chord>
@@ -7139,6 +7247,7 @@ Presto</text>
               </Note>
             </Chord>
           <Harmony>
+            <harmonyType>1</harmonyType>
             <name>V(64)</name>
             </Harmony>
           <Chord>
@@ -7156,6 +7265,7 @@ Presto</text>
               </Note>
             </Chord>
           <Harmony>
+            <harmonyType>1</harmonyType>
             <name>V</name>
             </Harmony>
           <Chord>
@@ -7180,6 +7290,7 @@ Presto</text>
       <Measure>
         <voice>
           <Harmony>
+            <harmonyType>1</harmonyType>
             <name>VIM7</name>
             </Harmony>
           <Chord>
@@ -7239,6 +7350,7 @@ Presto</text>
               </Note>
             </Chord>
           <Harmony>
+            <harmonyType>1</harmonyType>
             <name>V7/VII</name>
             </Harmony>
           <Chord>
@@ -7420,6 +7532,7 @@ Presto</text>
             <accidental>2</accidental>
             </KeySig>
           <Harmony>
+            <harmonyType>1</harmonyType>
             <name>V7/III</name>
             </Harmony>
           <Chord>
@@ -7479,6 +7592,7 @@ Presto</text>
               </Note>
             </Chord>
           <Harmony>
+            <harmonyType>1</harmonyType>
             <name>V7</name>
             </Harmony>
           <Chord>
@@ -7664,6 +7778,7 @@ Presto</text>
       <Measure>
         <voice>
           <Harmony>
+            <harmonyType>1</harmonyType>
             <name>V7/iv</name>
             </Harmony>
           <Chord>
@@ -7726,6 +7841,7 @@ Presto</text>
               </Note>
             </Chord>
           <Harmony>
+            <harmonyType>1</harmonyType>
             <name>#viio7/iv</name>
             </Harmony>
           <Chord>
@@ -7764,6 +7880,7 @@ Presto</text>
       <Measure>
         <voice>
           <Harmony>
+            <harmonyType>1</harmonyType>
             <name>V7(+9)</name>
             </Harmony>
           <Chord>
@@ -7830,6 +7947,7 @@ Presto</text>
               </Note>
             </Chord>
           <Harmony>
+            <harmonyType>1</harmonyType>
             <name>V7</name>
             </Harmony>
           <Chord>
@@ -8002,6 +8120,7 @@ Presto</text>
               </Note>
             </Chord>
           <Harmony>
+            <harmonyType>1</harmonyType>
             <name>i</name>
             </Harmony>
           <Chord>
@@ -8033,6 +8152,7 @@ Presto</text>
               </Note>
             </Chord>
           <Harmony>
+            <harmonyType>1</harmonyType>
             <name>V</name>
             </Harmony>
           <Chord>
@@ -8068,6 +8188,7 @@ Presto</text>
       <Measure>
         <voice>
           <Harmony>
+            <harmonyType>1</harmonyType>
             <name>i}</name>
             </Harmony>
           <Chord>
