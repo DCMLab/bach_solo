@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <museScore version="3.02">
-  <programVersion>3.6.0</programVersion>
-  <programRevision>1977cb3</programRevision>
+  <programVersion>3.6.2</programVersion>
+  <programRevision>3224f34</programRevision>
   <Score>
     <LayerTag id="0" tag="default"></LayerTag>
     <currentLayer>0</currentLayer>
@@ -156,13 +156,13 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>G.I{</name>
-            <color r="170" g="0" b="0" a="255"/>
             </Harmony>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>G.I{</name>
-            <color r="0" g="85" b="0" a="255"/>
-            </Harmony>
+          <Tempo>
+            <tempo>2.5</tempo>
+            <followText>1</followText>
+            <visible>0</visible>
+            <text><b></b><font face="ScoreText"></font> <b><font face="FreeSerif"></font> = 100</b></text>
+            </Tempo>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -1943,7 +1943,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>v6</name>
+            <name>vi6</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -1957,7 +1957,6 @@
                 </next>
               </Spanner>
             <Note>
-              <color r="255" g="0" b="0" a="255"/>
               <pitch>55</pitch>
               <tpc>15</tpc>
               </Note>
@@ -1965,7 +1964,6 @@
           <Chord>
             <durationType>eighth</durationType>
             <Note>
-              <color r="255" g="0" b="0" a="255"/>
               <pitch>52</pitch>
               <tpc>18</tpc>
               </Note>
@@ -1980,6 +1978,7 @@
                 </prev>
               </Spanner>
             <Note>
+              <color r="255" g="0" b="0" a="255"/>
               <Accidental>
                 <subtype>accidentalNatural</subtype>
                 </Accidental>
@@ -2051,7 +2050,7 @@
             </Clef>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>IV6</name>
+            <name>v6</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -2065,7 +2064,6 @@
                 </next>
               </Spanner>
             <Note>
-              <color r="255" g="0" b="0" a="255"/>
               <Accidental>
                 <subtype>accidentalNatural</subtype>
                 </Accidental>
@@ -2076,7 +2074,6 @@
           <Chord>
             <durationType>eighth</durationType>
             <Note>
-              <color r="255" g="0" b="0" a="255"/>
               <pitch>50</pitch>
               <tpc>16</tpc>
               </Note>
@@ -2091,6 +2088,7 @@
                 </prev>
               </Spanner>
             <Note>
+              <color r="255" g="0" b="0" a="255"/>
               <pitch>52</pitch>
               <tpc>18</tpc>
               </Note>
