@@ -1104,6 +1104,7 @@
           </voice>
         </Measure>
       <Measure>
+        <startRepeat/>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
