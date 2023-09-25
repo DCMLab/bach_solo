@@ -25,7 +25,7 @@
     <metaTag name="harmony_version">2.3.0</metaTag>
     <metaTag name="lyricist"></metaTag>
     <metaTag name="movementNumber">3</metaTag>
-    <metaTag name="movementTitle"></metaTag>
+    <metaTag name="movementTitle">Sarabande</metaTag>
     <metaTag name="platform">Apple Macintosh</metaTag>
     <metaTag name="poet"></metaTag>
     <metaTag name="source"></metaTag>
@@ -35,7 +35,7 @@
     <Order id="orchestral" customized="1">
       <name>Orchestral</name>
       <instrument id="piano">
-        <family id="keyboards">Tasteninstrumente</family>
+        <family id="keyboards">Keyboards</family>
         </instrument>
       <section id="woodwind" brackets="true" showSystemMarkings="true" barLineSpan="true" thinBrackets="true">
         <family>flutes</family>
@@ -165,6 +165,12 @@
             <harmonyType>1</harmonyType>
             <name>a.i{</name>
             </Harmony>
+          <Tempo>
+            <tempo>1.6000000000000001</tempo>
+            <followText>1</followText>
+            <visible>0</visible>
+            <text><b></b><font face="ScoreText"/><b><font face="Edwin"/> = 96</b></text>
+            </Tempo>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -339,6 +345,7 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>#viio6|HC}</name>
+            <offset x="-0.11331" y="4.54948"/>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
