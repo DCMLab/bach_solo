@@ -82,7 +82,7 @@ Scores downloaded as CAP files from http://www.tobis-notenarchiv.de/bach/12-Kamm
 |BWV1012_05_GavotteI       |      28|    58|2.3.0   |Adrian Nagel|
 |BWV1012_06_GavotteII      |      24|    64|2.3.0   |Adrian Nagel|
 |BWV1012_07_Gique          |      68|   112|2.3.0   |Adrian Nagel|
-|BWV1013_01_Allemande      |      46|   159|2.3.0   |Adrian Nagel|
+|BWV1013_01_Allemande      |      47|   163|2.3.0   |Adrian Nagel|
 |BWV1013_02_Corrente       |      62|   120|2.3.0   |Adrian Nagel|
 |BWV1013_03_Sarabande      |      46|    57|2.3.0   |Adrian Nagel|
 |BWV1013_04_BourreeAnglaise|      70|    98|2.3.0   |Adrian Nagel|
