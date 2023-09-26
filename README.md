@@ -34,8 +34,8 @@ Scores downloaded as CAP files from http://www.tobis-notenarchiv.de/bach/12-Kamm
 |BWV1003_02_Fuga           |     289|   479|2.3.0   |Adrian Nagel|
 |BWV1003_03_Andante        |      26|    79|2.3.0   |Adrian Nagel|
 |BWV1003_04_Allegro        |      58|   206|2.3.0   |Adrian Nagel|
-|BWV1004_01_Allemande      |      34|    91|2.3.0   |Adrian Nagel|
-|BWV1004_02_Courante       |      56|    73|2.3.0   |Adrian Nagel|
+|BWV1004_01_Allemande      |      32|    92|2.3.0   |Adrian Nagel|
+|BWV1004_02_Courante       |      54|    73|2.3.0   |Adrian Nagel|
 |BWV1005_02_Fuga           |     355|   748|2.3.0   |Adrian Nagel|
 |BWV1006_04_Menuett        |      66|   125|2.3.0   |Adrian Nagel|
 |BWV1006_05_Bourée         |      38|    57|2.3.0   |Adrian Nagel|
