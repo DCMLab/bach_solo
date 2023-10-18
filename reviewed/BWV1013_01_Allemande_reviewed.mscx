@@ -2780,6 +2780,7 @@
           </voice>
         </Measure>
       <Measure>
+        <noOffset>-1</noOffset>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -2936,7 +2937,6 @@
           </voice>
         </Measure>
       <Measure>
-        <irregular>1</irregular>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -6879,7 +6879,7 @@
           </voice>
         </Measure>
       <Measure>
-        <irregular>1</irregular>
+        <noOffset>-2</noOffset>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>

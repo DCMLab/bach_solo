@@ -173,7 +173,7 @@
             <tempo>1.5333333333333332</tempo>
             <followText>1</followText>
             <visible>0</visible>
-            <text><b></b><font face="ScoreText"/><b><font face="Edwin"/> = 92</b></text>
+            <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 92</b></text>
             </Tempo>
           <Chord>
             <durationType>16th</durationType>
@@ -2740,6 +2740,7 @@
           </voice>
         </Measure>
       <Measure>
+        <noOffset>-1</noOffset>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -2892,7 +2893,6 @@
           </voice>
         </Measure>
       <Measure>
-        <irregular>1</irregular>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -6751,7 +6751,7 @@
           </voice>
         </Measure>
       <Measure>
-        <irregular>1</irregular>
+        <noOffset>-2</noOffset>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>

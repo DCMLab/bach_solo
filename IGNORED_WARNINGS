@@ -15,3 +15,8 @@ DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 24, '3/8', 'iv6') ms3.Parse.ba
 
 VOLTAS_WITH_DIFFERING_LENGTHS_WARNING (4, 27) ms3.Parse.bach_solo.BWV1003_03_Andante
 	Volta group of MC 27 contains voltas with different lengths: [2, 1] Check for correct computation of MNs
+
+VOLTAS_WITH_DIFFERING_LENGTHS_WARNING (4, 19) ms3.Parse.bach_solo.BWV1013_01_Allemande
+	Volta group of MC 19 contains voltas with different lengths: [1, 2] Check for correct computation of MNs and copy this message into an IGNORED_WARNINGS file to make the warning disappear.
+VOLTAS_WITH_DIFFERING_LENGTHS_WARNING (4, 47) ms3.Parse.bach_solo.BWV1013_01_Allemande
+	Volta group of MC 47 contains voltas with different lengths: [2, 1] Check for correct computation of MNs and copy this message into an IGNORED_WARNINGS file to make the warning disappear.

@@ -18,8 +18,8 @@ mc	mn	quarterbeats	quarterbeats_all_endings	duration_qb	keysig	timesig	act_dur	m
 17	17	64	64	4.0	0	4/4	1	0							18
 18	18	68	68	4.0	0	4/4	1	0							19, 20
 19	19		72	4.0	0	4/4	1	0	1					end	1
-20	20	72	76	4.0	0	4/4	1	0	2						21
-21	20	76	80	4.0	0	4/4	1	0	2		1	double			22
+20	19	72	76	4.0	0	4/4	1	0	2	-1					21
+21	20	76	80	4.0	0	4/4	1	0	2			double			22
 22	21	80	84	4.0	0	4/4	1	0						start	23
 23	22	84	88	4.0	0	4/4	1	0							24
 24	23	88	92	4.0	0	4/4	1	0							25
@@ -47,4 +47,4 @@ mc	mn	quarterbeats	quarterbeats_all_endings	duration_qb	keysig	timesig	act_dur	m
 46	45	176	180	4.0	0	4/4	1	0							47, 49
 47	46		184	4.0	0	4/4	1	0	1						48
 48	47		188	4.0	0	4/4	1	0	1					end	22
-49	47	180	192	4.0	0	4/4	1	0	2		1			lastMeasure	-1
+49	46	180	192	4.0	0	4/4	1	0	2	-2				lastMeasure	-1
