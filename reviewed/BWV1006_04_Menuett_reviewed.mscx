@@ -77,6 +77,7 @@
     <showMargins>0</showMargins>
     <metaTag name="annotators">Adrian Nagel</metaTag>
     <metaTag name="arranger"></metaTag>
+    <metaTag name="compared_against">v2.1</metaTag>
     <metaTag name="composed_end">1720</metaTag>
     <metaTag name="composed_start">1720</metaTag>
     <metaTag name="composer">Bach, J.S.</metaTag>
@@ -134,6 +135,12 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>E.I{</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>E.I{</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Tempo>
             <tempo>2.1333333333333333</tempo>
@@ -3904,13 +3911,27 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
+            <name>V(4)}</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
             <name>V}</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Rest>
             <visible>0</visible>
             <durationType>measure</durationType>
             <duration>3/4</duration>
             </Rest>
+          <location>
+            <fractions>-1/4</fractions>
+            </location>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>V</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
           </voice>
         <voice>
           <Chord>

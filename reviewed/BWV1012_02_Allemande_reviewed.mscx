@@ -17,6 +17,7 @@
     <showMargins>0</showMargins>
     <metaTag name="annotators">Adrian Nagel</metaTag>
     <metaTag name="arranger"></metaTag>
+    <metaTag name="compared_against">v2.1</metaTag>
     <metaTag name="composed_end">1723</metaTag>
     <metaTag name="composed_start">1717</metaTag>
     <metaTag name="composer">Bach, J.S.</metaTag>
@@ -148,6 +149,7 @@
         </Instrument>
       </Part>
     <Staff id="1">
+      <VBox/>
       <Measure len="1/16">
         <irregular>1</irregular>
         <voice>
@@ -521,7 +523,13 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
+            <name>IV6(2)</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
             <name>vi7</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Beam>
             <Fragment>
@@ -3922,7 +3930,13 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
+            <name>V/iii</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
             <name>vi</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>32nd</durationType>

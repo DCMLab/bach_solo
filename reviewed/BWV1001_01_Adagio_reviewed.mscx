@@ -78,6 +78,7 @@
     <showMargins>0</showMargins>
     <metaTag name="annotators">Adrian Nagel</metaTag>
     <metaTag name="arranger"></metaTag>
+    <metaTag name="compared_against">v2.1</metaTag>
     <metaTag name="composed_end">1720</metaTag>
     <metaTag name="composed_start">1720</metaTag>
     <metaTag name="composer">Bach, J.S.</metaTag>
@@ -141,6 +142,12 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>g.i{</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>g.i{</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -1163,6 +1170,12 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>bII6(2)</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>bII6(2)</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>16th</durationType>
@@ -1182,6 +1195,12 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>bII6</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>bII6</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -4304,6 +4323,12 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>bII6(2)</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>bII6(2)</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>32nd</durationType>
@@ -4340,6 +4365,12 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>bII6</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>bII6</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -4709,6 +4740,12 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>bII6</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>bII6</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>16th</durationType>

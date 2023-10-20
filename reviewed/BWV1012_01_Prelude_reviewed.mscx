@@ -17,6 +17,7 @@
     <showMargins>0</showMargins>
     <metaTag name="annotators">Adrian Nagel</metaTag>
     <metaTag name="arranger"></metaTag>
+    <metaTag name="compared_against">v2.1</metaTag>
     <metaTag name="composed_end">1723</metaTag>
     <metaTag name="composed_start">1717</metaTag>
     <metaTag name="composer">Bach, J.S.</metaTag>
@@ -149,6 +150,7 @@
         </Instrument>
       </Part>
     <Staff id="1">
+      <VBox/>
       <Measure>
         <voice>
           <KeySig>
@@ -6798,7 +6800,13 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
+            <name>#viio7</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
             <name>viio7/V</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -6918,6 +6926,7 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>#viio7</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -12415,7 +12424,13 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
+            <name>ii6(2)</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
             <name>ii65</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -12502,7 +12517,13 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
+            <name>I6(2)</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
             <name>I6</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -12542,6 +12563,11 @@
               <tpc>21</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>I6</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Note>

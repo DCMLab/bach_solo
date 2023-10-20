@@ -77,6 +77,7 @@
     <showMargins>0</showMargins>
     <metaTag name="annotators">Adrian Nagel</metaTag>
     <metaTag name="arranger"></metaTag>
+    <metaTag name="compared_against">v2.1</metaTag>
     <metaTag name="composed_end">1720</metaTag>
     <metaTag name="composed_start">1720</metaTag>
     <metaTag name="composer">Bach, J.S.</metaTag>
@@ -154,7 +155,13 @@
             </StaffText>
           <Harmony>
             <harmonyType>1</harmonyType>
+            <name>C.V{</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
             <name>C.I{</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Tempo>
             <tempo>2.7999999999999998</tempo>
@@ -175,7 +182,13 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
+            <name>vi</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
             <name>IV</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -5989,6 +6002,12 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>bVI</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>bVI</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -8721,6 +8740,12 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>bII6</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>bII6</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -9984,6 +10009,12 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>bIII6</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>bIII6</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -10064,6 +10095,12 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>bVII</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>bVII</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>half</durationType>
@@ -11768,6 +11805,12 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>bVII6</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>bVII6</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -16947,6 +16990,12 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>bVII</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>bVII</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -17268,6 +17317,12 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>bVII6</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>bVII6</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -17430,7 +17485,13 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
+            <name>#viio/iii</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
             <name>#viio/vi</name>
+            <color r="0" g="85" b="0" a="255"/>
             <offset x="-0.391367" y="6.89185"/>
             </Harmony>
           <Chord>
@@ -17459,7 +17520,13 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
+            <name>iii</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
             <name>vi</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -19938,7 +20005,13 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
+            <name>V7</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
             <name>V7]</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -23816,6 +23889,12 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>bVII</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>bVII</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>half</durationType>
@@ -26552,6 +26631,12 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>bVII6</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>bVII6</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -29153,7 +29238,13 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
+            <name>ii/ii</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
             <name>vii</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>half</durationType>
@@ -29171,7 +29262,13 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
+            <name>ii%65/ii</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
             <name>ii</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -34473,6 +34570,12 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>bVI</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>bVI</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
