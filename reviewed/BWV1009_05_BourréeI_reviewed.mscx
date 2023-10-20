@@ -168,6 +168,12 @@
             <harmonyType>1</harmonyType>
             <name>C.I6{</name>
             </Harmony>
+          <Tempo>
+            <tempo>3.0666666666666664</tempo>
+            <followText>1</followText>
+            <visible>0</visible>
+            <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 92</b></text>
+            </Tempo>
           <Chord>
             <durationType>eighth</durationType>
             <Note>

@@ -1,9 +1,0 @@
-Warnings encountered during the last execution of ms3 review
-============================================================
-
-FIRST_BAR_MISSING_TEMPO_MARK_WARNING (29,) ms3.Parse.bach_solo.BWV1010_01_Prelude
-	No metronome mark found in the first measure nor anywhere else in the score.
-DCML_DEFAULT_CORRECTION_WARNING (27, 'MC 49: ') ms3.Parse.bach_solo.BWV1010_01_Prelude
-	MC 49: #vii in major context corrected to vii.
-DCML_DEFAULT_CORRECTION_WARNING (27, 'MC 49: ') ms3.Parse.bach_solo.BWV1010_01_Prelude
-	MC 49: #vii in major context corrected to vii.

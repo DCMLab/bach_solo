@@ -1,5 +1,5 @@
 # J.S. Bach - Solo Pieces (A corpus of annotated scores)
-## Currently BWV 1001-1013 (v2.5)
+## Currently BWV 1001-1013 (v2.14)
 
 Scores downloaded as CAP files from http://www.tobis-notenarchiv.de/bach/12-Kammermusik/index.htm and converted to MuseScore. The original license is [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/).
 
@@ -34,16 +34,16 @@ Scores downloaded as CAP files from http://www.tobis-notenarchiv.de/bach/12-Kamm
 |BWV1003_02_Fuga           |     289|   479|2.3.0   |Adrian Nagel|
 |BWV1003_03_Andante        |      26|    79|2.3.0   |Adrian Nagel|
 |BWV1003_04_Allegro        |      58|   206|2.3.0   |Adrian Nagel|
-|BWV1004_01_Allemande      |      34|    91|2.3.0   |Adrian Nagel|
-|BWV1004_02_Courante       |      56|    73|2.3.0   |Adrian Nagel|
-|BWV1005_02_Fuga           |     355|   748|2.3.0   |Adrian Nagel|
-|BWV1006_04_Menuett        |      66|   125|2.3.0   |Adrian Nagel|
-|BWV1006_05_Bourée         |      38|    57|2.3.0   |Adrian Nagel|
-|BWV1006_06_Gigue          |      34|    52|2.3.0   |Adrian Nagel|
-|BWV1007_01_Prelude        |      42|    55|2.3.0   |Adrian Nagel|
+|BWV1004_01_Allemande      |      32|    92|2.3.0   |Adrian Nagel|
+|BWV1004_02_Courante       |      54|    73|2.3.0   |Adrian Nagel|
+|BWV1005_02_Fuga           |     354|   748|2.3.0   |Adrian Nagel|
+|BWV1006_04_Menuett        |      66|   124|2.3.0   |Adrian Nagel|
+|BWV1006_05_Bourée         |      36|    57|2.3.0   |Adrian Nagel|
+|BWV1006_06_Gigue          |      32|    52|2.3.0   |Adrian Nagel|
+|BWV1007_01_Prelude        |      42|    54|2.3.0   |Adrian Nagel|
 |BWV1007_02_Allemande      |      32|    75|2.3.0   |Adrian Nagel|
-|BWV1007_03_Courante       |      42|    67|2.3.0   |Adrian Nagel|
-|BWV1007_04_Sarabande      |      16|    42|2.3.0   |Adrian Nagel|
+|BWV1007_03_Courante       |      42|    66|2.3.0   |Adrian Nagel|
+|BWV1007_04_Sarabande      |      16|    43|2.3.0   |Adrian Nagel|
 |BWV1007_05_MenuetI        |      24|    35|2.3.0   |Adrian Nagel|
 |BWV1007_06_MenuetII       |      24|    33|2.3.0   |Adrian Nagel|
 |BWV1007_07_Gique          |      34|    59|2.3.0   |Adrian Nagel|
@@ -68,16 +68,16 @@ Scores downloaded as CAP files from http://www.tobis-notenarchiv.de/bach/12-Kamm
 |BWV1010_05_BourreeI       |      48|    78|2.3.0   |Adrian Nagel|
 |BWV1010_06_BourreeII      |      12|    28|2.3.0   |Adrian Nagel|
 |BWV1010_07_Gique          |      42|    80|2.3.0   |Adrian Nagel|
-|BWV1011_01_Prelude        |     223|   323|2.3.0   |Adrian Nagel|
+|BWV1011_01_Prelude        |     223|   327|2.3.0   |Adrian Nagel|
 |BWV1011_02_Allemande      |      36|    70|2.3.0   |Adrian Nagel|
 |BWV1011_03_Courante       |      24|    68|2.3.0   |Adrian Nagel|
 |BWV1011_04_Sarabande      |      20|    27|2.3.0   |Adrian Nagel|
 |BWV1011_05_GavotteI       |      36|    80|2.3.0   |Adrian Nagel|
-|BWV1011_06_GavotteII      |      22|    64|2.3.0   |Adrian Nagel|
+|BWV1011_06_GavotteII      |      22|    65|2.3.0   |Adrian Nagel|
 |BWV1011_07_Gique          |      72|    73|2.3.0   |Adrian Nagel|
 |BWV1012_01_Prelude        |     104|   189|2.3.0   |Adrian Nagel|
 |BWV1012_02_Allemande      |      20|    80|2.3.0   |Adrian Nagel|
-|BWV1012_03_Courante       |      72|    89|2.3.0   |Adrian Nagel|
+|BWV1012_03_Courante       |      72|    90|2.3.0   |Adrian Nagel|
 |BWV1012_04_Sarabande      |      32|    61|2.3.0   |Adrian Nagel|
 |BWV1012_05_GavotteI       |      28|    58|2.3.0   |Adrian Nagel|
 |BWV1012_06_GavotteII      |      24|    64|2.3.0   |Adrian Nagel|
