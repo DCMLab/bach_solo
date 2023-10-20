@@ -77,7 +77,7 @@ Scores downloaded as CAP files from http://www.tobis-notenarchiv.de/bach/12-Kamm
 |BWV1011_07_Gique          |      72|    73|2.3.0   |Adrian Nagel|
 |BWV1012_01_Prelude        |     104|   189|2.3.0   |Adrian Nagel|
 |BWV1012_02_Allemande      |      20|    80|2.3.0   |Adrian Nagel|
-|BWV1012_03_Courante       |      72|    89|2.3.0   |Adrian Nagel|
+|BWV1012_03_Courante       |      72|    90|2.3.0   |Adrian Nagel|
 |BWV1012_04_Sarabande      |      32|    61|2.3.0   |Adrian Nagel|
 |BWV1012_05_GavotteI       |      28|    58|2.3.0   |Adrian Nagel|
 |BWV1012_06_GavotteII      |      24|    64|2.3.0   |Adrian Nagel|
