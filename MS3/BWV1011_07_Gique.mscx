@@ -15,9 +15,6 @@
     <showUnprintable>1</showUnprintable>
     <showFrames>1</showFrames>
     <showMargins>0</showMargins>
-    <metaTag name="SCORDATURA_PLUGIN_SCORDATURA_TUNING">C2,G2,D3,G3</metaTag>
-    <metaTag name="SCORDATURA_PLUGIN_STANDARD_TUNING">C2,G2,D3,A3</metaTag>
-    <metaTag name="SCORDATURA_PLUGIN_TRACKS">0,0</metaTag>
     <metaTag name="annotators">Adrian Nagel</metaTag>
     <metaTag name="arranger"></metaTag>
     <metaTag name="composed_end">1723</metaTag>
@@ -168,6 +165,7 @@
         </Instrument>
       </Part>
     <Staff id="1">
+      <VBox/>
       <Measure len="1/8">
         <irregular>1</irregular>
         <voice>
@@ -182,7 +180,7 @@
             <tempo>1.9500000000000002</tempo>
             <followText>1</followText>
             <visible>0</visible>
-            <text><b></b><font face="ScoreText"/> <b><font face="Edwin"/> = 78</b></text>
+            <text><b></b><font face="ScoreText"></font> <b><font face="Edwin"></font> = 78</b></text>
             </Tempo>
           <StaffText>
             <family>Times New Roman</family>
