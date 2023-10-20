@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <museScore version="3.02">
-  <programVersion>3.6.0</programVersion>
-  <programRevision>1977cb3</programRevision>
+  <programVersion>3.6.2</programVersion>
+  <programRevision>3224f34</programRevision>
   <Score>
     <LayerTag id="0" tag="default"></LayerTag>
     <currentLayer>0</currentLayer>
@@ -35,7 +35,7 @@
     <Order id="orchestral" customized="1">
       <name>Orchestral</name>
       <instrument id="piano">
-        <family id="keyboards">Tasteninstrumente</family>
+        <family id="keyboards">Keyboards</family>
         </instrument>
       <section id="woodwind" brackets="true" showSystemMarkings="true" barLineSpan="true" thinBrackets="true">
         <family>flutes</family>
@@ -49,6 +49,7 @@
         <family>horns</family>
         <family>trumpets</family>
         <family>cornets</family>
+        <family>flugelhorns</family>
         <family>trombones</family>
         <family>tubas</family>
         </section>
@@ -170,6 +171,12 @@
             <harmonyType>1</harmonyType>
             <name>Eb.I{</name>
             </Harmony>
+          <Tempo>
+            <tempo>1.8</tempo>
+            <followText>1</followText>
+            <visible>0</visible>
+            <text><b></b><font face="ScoreText"/><b><font face="Edwin"/> = 54</b></text>
+            </Tempo>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -3215,7 +3222,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iv6/vi</name>
+            <name>#viio7/vi</name>
             </Harmony>
           <Chord>
             <durationType>16th</durationType>
@@ -3313,7 +3320,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iio6/vi</name>
+            <name>V2/vi</name>
             </Harmony>
           <Chord>
             <durationType>16th</durationType>
