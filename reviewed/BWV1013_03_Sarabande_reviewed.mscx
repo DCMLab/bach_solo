@@ -17,6 +17,7 @@
     <showMargins>0</showMargins>
     <metaTag name="annotators">Adrian Nagel</metaTag>
     <metaTag name="arranger"></metaTag>
+    <metaTag name="compared_against">v2.1</metaTag>
     <metaTag name="composed_end">1723</metaTag>
     <metaTag name="composed_start">1722</metaTag>
     <metaTag name="composer">Bach, J.S.</metaTag>
@@ -148,6 +149,7 @@
         </Instrument>
       </Part>
     <Staff id="1">
+      <VBox/>
       <Measure>
         <voice>
           <TimeSig>

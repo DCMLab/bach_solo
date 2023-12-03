@@ -15,11 +15,9 @@
     <showUnprintable>1</showUnprintable>
     <showFrames>1</showFrames>
     <showMargins>0</showMargins>
-    <metaTag name="SCORDATURA_PLUGIN_SCORDATURA_TUNING">C2,G2,D3,G3</metaTag>
-    <metaTag name="SCORDATURA_PLUGIN_STANDARD_TUNING">C2,G2,D3,A3</metaTag>
-    <metaTag name="SCORDATURA_PLUGIN_TRACKS">0,0</metaTag>
     <metaTag name="annotators">Adrian Nagel</metaTag>
     <metaTag name="arranger"></metaTag>
+    <metaTag name="compared_against">v2.1</metaTag>
     <metaTag name="composed_end">1723</metaTag>
     <metaTag name="composed_start">1717</metaTag>
     <metaTag name="composer">Bach, J.S.</metaTag>
@@ -168,6 +166,7 @@
         </Instrument>
       </Part>
     <Staff id="1">
+      <VBox/>
       <Measure len="1/2">
         <irregular>1</irregular>
         <voice>
@@ -3067,6 +3066,7 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>VI</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
