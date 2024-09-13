@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <museScore version="3.02">
-  <programVersion>3.6.0</programVersion>
-  <programRevision>1977cb3</programRevision>
+  <programVersion>3.6.2</programVersion>
+  <programRevision>3224f34</programRevision>
   <Score>
     <LayerTag id="0" tag="default"></LayerTag>
     <currentLayer>0</currentLayer>
@@ -108,30 +108,33 @@
         </Staff>
       <trackName>Violin</trackName>
       <Instrument id="violin">
+        <longName>Violin</longName>
+        <shortName>Vln.</shortName>
         <trackName>Violin</trackName>
         <instrumentId>strings.violin</instrumentId>
         <Channel name="arco">
+          <controller ctrl="0" value="0"/>
           <controller ctrl="32" value="17"/>
           <program value="40"/>
           <synti>Fluid</synti>
-          <controller ctrl="32" value="17"/>
           </Channel>
         <Channel name="pizzicato">
+          <controller ctrl="0" value="0"/>
           <controller ctrl="32" value="17"/>
           <program value="45"/>
           <synti>Fluid</synti>
           </Channel>
-        <longName>Violin</longName>
-        <shortName>Vln.</shortName>
+        <Channel name="harmony">
+          <controller ctrl="0" value="0"/>
+          <controller ctrl="32" value="17"/>
+          <program value="0"/>
+          <synti>Fluid</synti>
+          </Channel>
         </Instrument>
-      <Channel name="tremolo">
-        <program value="44"/>
-        <controller ctrl="32" value="17"/>
-        </Channel>
       </Part>
     <Staff id="1">
       <VBox>
-        <height>4</height>
+        <height>10.8188</height>
         <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>Title</style>
@@ -159,6 +162,12 @@
             <harmonyType>1</harmonyType>
             <name>E.I{</name>
             </Harmony>
+          <Tempo>
+            <tempo>1.8</tempo>
+            <followText>1</followText>
+            <visible>0</visible>
+            <text><b></b><font face="ScoreText"/> <b><font face="FreeSerif"/> = 72</b></text>
+            </Tempo>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -170,13 +179,6 @@
         </Measure>
       <Measure>
         <voice>
-          <StaffText>
-            <family>Victorian LET</family>
-            <size>21</size>
-            <align>left,baseline</align>
-            <offset x="-16.5938" y="-4.09375"/>
-            <text>GIGUE</text>
-            </StaffText>
           <Chord>
             <durationType>eighth</durationType>
             <Note>

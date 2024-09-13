@@ -71,7 +71,7 @@
       <defaultsVersion>301</defaultsVersion>
       <Spatium>1.78</Spatium>
       </Style>
-    <showInvisible>0</showInvisible>
+    <showInvisible>1</showInvisible>
     <showUnprintable>1</showUnprintable>
     <showFrames>1</showFrames>
     <showMargins>0</showMargins>
@@ -109,10 +109,12 @@
         </Staff>
       <trackName>Violin</trackName>
       <Instrument id="violin">
+        <longName>Violin</longName>
+        <shortName>Vln.</shortName>
         <trackName>Violin</trackName>
         <instrumentId>strings.violin</instrumentId>
         <Channel name="arco">
-          <controller ctrl="32" value="17"/>
+          <controller ctrl="0" value="0"/>
           <controller ctrl="32" value="17"/>
           <program value="40"/>
           <synti>Fluid</synti>
@@ -123,16 +125,18 @@
           <program value="45"/>
           <synti>Fluid</synti>
           </Channel>
-        <longName>Violin</longName>
-        <shortName>Vln.</shortName>
+        <Channel name="harmony">
+          <controller ctrl="0" value="0"/>
+          <controller ctrl="32" value="17"/>
+          <program value="0"/>
+          <synti>Fluid</synti>
+          </Channel>
         </Instrument>
-      <Channel name="tremolo">
-        <program value="44"/>
-        <controller ctrl="32" value="17"/>
-        </Channel>
       </Part>
     <Staff id="1">
       <VBox>
+        <height>12.8731</height>
+        <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>Title</style>
           <text>1. Allemanda</text>
@@ -157,18 +161,6 @@
             <sigN>4</sigN>
             <sigD>4</sigD>
             </TimeSig>
-          <StaffText>
-            <offset x="38.3157" y="-13.2458"/>
-            <text>Partita I</text>
-            </StaffText>
-          <StaffText>
-            <offset x="37.0553" y="-16.3971"/>
-            <text>BWV 1002</text>
-            </StaffText>
-          <StaffText>
-            <offset x="-10.5938" y="-7.5"/>
-            <text>Allemanda</text>
-            </StaffText>
           <Tempo>
             <tempo>1.1000000000000001</tempo>
             <followText>1</followText>

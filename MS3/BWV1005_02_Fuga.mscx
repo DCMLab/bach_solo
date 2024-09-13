@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <museScore version="3.02">
-  <programVersion>3.6.0</programVersion>
-  <programRevision>1977cb3</programRevision>
+  <programVersion>3.6.2</programVersion>
+  <programRevision>3224f34</programRevision>
   <Score>
     <LayerTag id="0" tag="default"></LayerTag>
     <currentLayer>0</currentLayer>
@@ -71,7 +71,7 @@
       <defaultsVersion>301</defaultsVersion>
       <Spatium>1.52</Spatium>
       </Style>
-    <showInvisible>0</showInvisible>
+    <showInvisible>1</showInvisible>
     <showUnprintable>1</showUnprintable>
     <showFrames>1</showFrames>
     <showMargins>0</showMargins>
@@ -108,10 +108,12 @@
         </Staff>
       <trackName>Violin</trackName>
       <Instrument id="violin">
+        <longName>Violin</longName>
+        <shortName>Vln.</shortName>
         <trackName>Violin</trackName>
         <instrumentId>strings.violin</instrumentId>
         <Channel name="arco">
-          <controller ctrl="32" value="17"/>
+          <controller ctrl="0" value="0"/>
           <controller ctrl="32" value="17"/>
           <program value="40"/>
           <synti>Fluid</synti>
@@ -122,17 +124,17 @@
           <program value="45"/>
           <synti>Fluid</synti>
           </Channel>
-        <longName>Violin</longName>
-        <shortName>Vln.</shortName>
+        <Channel name="harmony">
+          <controller ctrl="0" value="0"/>
+          <controller ctrl="32" value="17"/>
+          <program value="0"/>
+          <synti>Fluid</synti>
+          </Channel>
         </Instrument>
-      <Channel name="tremolo">
-        <program value="44"/>
-        <controller ctrl="32" value="17"/>
-        </Channel>
       </Part>
     <Staff id="1">
       <VBox>
-        <height>3</height>
+        <height>13.7665</height>
         <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>Title</style>
@@ -154,14 +156,6 @@
             <sigD>2</sigD>
             </TimeSig>
           <StaffText>
-            <family>Times New Roman</family>
-            <size>9</size>
-            <bold>1</bold>
-            <align>left,baseline</align>
-            <offset x="-2.71875" y="-4.89178"/>
-            <text>Fuga</text>
-            </StaffText>
-          <StaffText>
             <placement>below</placement>
             <family>Times New Roman</family>
             <size>9</size>
@@ -175,6 +169,12 @@
             <harmonyType>1</harmonyType>
             <name>C.V{</name>
             </Harmony>
+          <Tempo>
+            <tempo>2.7999999999999998</tempo>
+            <followText>1</followText>
+            <visible>0</visible>
+            <text><b></b><font face="ScoreText"/><b><font face="FreeSerif"/> = 84</b></text>
+            </Tempo>
           <Chord>
             <durationType>half</durationType>
             <Note>

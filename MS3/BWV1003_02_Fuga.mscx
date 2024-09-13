@@ -169,6 +169,8 @@
       </Part>
     <Staff id="1">
       <VBox>
+        <height>14.8712</height>
+        <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>Title</style>
           <text>2. Fuga</text>
@@ -188,12 +190,6 @@
             <sigN>2</sigN>
             <sigD>4</sigD>
             </TimeSig>
-          <StaffText>
-            <family>Times New Roman</family>
-            <size>15.552</size>
-            <offset x="-11.4688" y="-3.46875"/>
-            <text>Fuga</text>
-            </StaffText>
           <Rest>
             <durationType>eighth</durationType>
             </Rest>

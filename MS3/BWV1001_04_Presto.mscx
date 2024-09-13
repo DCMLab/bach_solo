@@ -71,7 +71,7 @@
       <defaultsVersion>301</defaultsVersion>
       <Spatium>1.8</Spatium>
       </Style>
-    <showInvisible>0</showInvisible>
+    <showInvisible>1</showInvisible>
     <showUnprintable>1</showUnprintable>
     <showFrames>1</showFrames>
     <showMargins>0</showMargins>
@@ -108,10 +108,12 @@
         </Staff>
       <trackName>Violin</trackName>
       <Instrument id="violin">
+        <longName>Violin</longName>
+        <shortName>Vln.</shortName>
         <trackName>Violin</trackName>
         <instrumentId>strings.violin</instrumentId>
         <Channel name="arco">
-          <controller ctrl="32" value="17"/>
+          <controller ctrl="0" value="0"/>
           <controller ctrl="32" value="17"/>
           <program value="40"/>
           <synti>Fluid</synti>
@@ -122,17 +124,17 @@
           <program value="45"/>
           <synti>Fluid</synti>
           </Channel>
-        <longName>Violin</longName>
-        <shortName>Vln.</shortName>
+        <Channel name="harmony">
+          <controller ctrl="0" value="0"/>
+          <controller ctrl="32" value="17"/>
+          <program value="0"/>
+          <synti>Fluid</synti>
+          </Channel>
         </Instrument>
-      <Channel name="tremolo">
-        <program value="44"/>
-        <controller ctrl="32" value="17"/>
-        </Channel>
       </Part>
     <Staff id="1">
       <VBox>
-        <height>4</height>
+        <height>12.1447</height>
         <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>Title</style>
@@ -212,14 +214,6 @@
         </Measure>
       <Measure>
         <voice>
-          <StaffText>
-            <family>Victorian LET</family>
-            <size>17</size>
-            <italic>1</italic>
-            <align>left,baseline</align>
-            <offset x="-22.3438" y="-8.09375"/>
-            <text>Presto</text>
-            </StaffText>
           <Chord>
             <durationType>16th</durationType>
             <Note>

@@ -105,6 +105,7 @@
         <minPitchA>21</minPitchA>
         <maxPitchA>108</maxPitchA>
         <instrumentId>keyboard.piano</instrumentId>
+        <clef>F</clef>
         <Articulation>
           <velocity>100</velocity>
           <gateTime>95</gateTime>
@@ -149,11 +150,16 @@
           <program value="0"/>
           <synti>Fluid</synti>
           </Channel>
-        <clef>F</clef>
+        <Channel name="harmony">
+          <program value="0"/>
+          <synti>Fluid</synti>
+          </Channel>
         </Instrument>
       </Part>
     <Staff id="1">
       <VBox>
+        <height>13.6042</height>
+        <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>Title</style>
           <text>1. Prelude</text>
@@ -173,30 +179,16 @@
             <sigN>3</sigN>
             <sigD>4</sigD>
             </TimeSig>
-          <StaffText>
-            <family>Times New Roman</family>
-            <size>17</size>
-            <bold>1</bold>
-            <offset x="36.5" y="-14.5"/>
-            <text>Suite III</text>
-            </StaffText>
-          <StaffText>
-            <family>Times New Roman</family>
-            <size>11</size>
-            <offset x="38" y="-11.6563"/>
-            <text>BWV 1009</text>
-            </StaffText>
-          <StaffText>
-            <family>Times New Roman</family>
-            <size>12</size>
-            <bold>1</bold>
-            <offset x="-5.06637" y="-5.90461"/>
-            <text>PRÈLUDE</text>
-            </StaffText>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>C.I{</name>
             </Harmony>
+          <Tempo>
+            <tempo>1</tempo>
+            <followText>1</followText>
+            <visible>0</visible>
+            <text><b></b><font face="ScoreText"/><b><font face="Edwin"/> = 60</b></text>
+            </Tempo>
           <Chord>
             <durationType>eighth</durationType>
             <Note>

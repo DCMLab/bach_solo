@@ -72,7 +72,7 @@
       <defaultsVersion>301</defaultsVersion>
       <Spatium>1.8</Spatium>
       </Style>
-    <showInvisible>0</showInvisible>
+    <showInvisible>1</showInvisible>
     <showUnprintable>1</showUnprintable>
     <showFrames>1</showFrames>
     <showMargins>0</showMargins>
@@ -109,10 +109,12 @@
         </Staff>
       <trackName>Violin</trackName>
       <Instrument id="violin">
+        <longName>Violin</longName>
+        <shortName>Vln.</shortName>
         <trackName>Violin</trackName>
         <instrumentId>strings.violin</instrumentId>
         <Channel name="arco">
-          <controller ctrl="32" value="17"/>
+          <controller ctrl="0" value="0"/>
           <controller ctrl="32" value="17"/>
           <program value="40"/>
           <synti>Fluid</synti>
@@ -123,17 +125,17 @@
           <program value="45"/>
           <synti>Fluid</synti>
           </Channel>
-        <longName>Violin</longName>
-        <shortName>Vln.</shortName>
+        <Channel name="harmony">
+          <controller ctrl="0" value="0"/>
+          <controller ctrl="32" value="17"/>
+          <program value="0"/>
+          <synti>Fluid</synti>
+          </Channel>
         </Instrument>
-      <Channel name="tremolo">
-        <program value="44"/>
-        <controller ctrl="32" value="17"/>
-        </Channel>
       </Part>
     <Staff id="1">
       <VBox>
-        <height>4</height>
+        <height>14.4176</height>
         <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>Title</style>
@@ -196,13 +198,6 @@
               <tpc>15</tpc>
               </Note>
             </Chord>
-          <StaffText>
-            <family>Victorian LET</family>
-            <size>13</size>
-            <align>left,baseline</align>
-            <offset x="-11.625" y="-2.65625"/>
-            <text>Adagio</text>
-            </StaffText>
           <Chord>
             <durationType>32nd</durationType>
             <Note>
@@ -350,13 +345,6 @@
               <tpc>18</tpc>
               </Note>
             </Chord>
-          <StaffText>
-            <family>Victorian LET</family>
-            <size>21</size>
-            <align>left,baseline</align>
-            <offset x="-9.84375" y="-7.1875"/>
-            <text>Sonata g-moll</text>
-            </StaffText>
           <Chord>
             <durationType>32nd</durationType>
             <Note>
@@ -627,14 +615,6 @@
           <location>
             <fractions>1/8</fractions>
             </location>
-          <StaffText>
-            <family>Times New Roman</family>
-            <size>13</size>
-            <bold>1</bold>
-            <align>left,baseline</align>
-            <offset x="-7.9375" y="-5.875"/>
-            <text>J.S. Bach</text>
-            </StaffText>
           <Rest>
             <durationType>eighth</durationType>
             </Rest>

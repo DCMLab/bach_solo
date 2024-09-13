@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <museScore version="3.02">
-  <programVersion>3.6.0</programVersion>
-  <programRevision>1977cb3</programRevision>
+  <programVersion>3.6.2</programVersion>
+  <programRevision>3224f34</programRevision>
   <Score>
     <LayerTag id="0" tag="default"></LayerTag>
     <currentLayer>0</currentLayer>
@@ -109,39 +109,25 @@
         </Staff>
       <trackName>Piano</trackName>
       <Instrument id="piano">
+        <longName>Piano</longName>
+        <shortName>Pno.</shortName>
         <trackName>Piano</trackName>
         <instrumentId>keyboard.piano</instrumentId>
+        <clef>F</clef>
         <Channel>
           <program value="0"/>
           <synti>Fluid</synti>
           </Channel>
-        <longName>Piano</longName>
-        <shortName>Pno.</shortName>
-        <clef>F</clef>
+        <Channel name="harmony">
+          <program value="0"/>
+          <synti>Fluid</synti>
+          </Channel>
         </Instrument>
       </Part>
     <Staff id="1">
       <VBox>
-        <height>4</height>
+        <height>15.8263</height>
         <boxAutoSize>0</boxAutoSize>
-        <Text>
-          <style>Lyricist</style>
-          <size>20</size>
-          <offset x="89.0859" y="-2.69539"/>
-          <text>Suite I</text>
-          </Text>
-        <Text>
-          <style>Lyricist</style>
-          <size>11</size>
-          <offset x="1.74913" y="-0.749625"/>
-          <text>BWV 1007</text>
-          </Text>
-        <Text>
-          <style>Lyricist</style>
-          <size>11</size>
-          <offset x="21.7391" y="-0.9995"/>
-          <text>J.S.Bach  Suite I für Violoncello</text>
-          </Text>
         <Text>
           <style>Title</style>
           <text>1. Prelude</text>
@@ -154,12 +140,6 @@
           <style>Composer</style>
           <text>Johann Sebastian Bach</text>
           </Text>
-        <Text>
-          <style>Lyricist</style>
-          <size>14</size>
-          <offset x="169.915" y="-0.9995"/>
-          <text>J.S.Bach</text>
-          </Text>
         </VBox>
       <Measure>
         <voice>
@@ -171,17 +151,16 @@
             <sigN>4</sigN>
             <sigD>4</sigD>
             </TimeSig>
-          <StaffText>
-            <family>Times New Roman</family>
-            <size>13</size>
-            <align>left,baseline</align>
-            <offset x="-9.68569" y="-9.05782"/>
-            <text>PRÉLUDE</text>
-            </StaffText>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>G.I[I{</name>
             </Harmony>
+          <Tempo>
+            <tempo>1.9333333333333333</tempo>
+            <followText>1</followText>
+            <visible>0</visible>
+            <text><b></b><font face="ScoreText"/><b><font face="FreeSerif"/> = 116</b></text>
+            </Tempo>
           <Chord>
             <durationType>16th</durationType>
             <Spanner type="Slur">

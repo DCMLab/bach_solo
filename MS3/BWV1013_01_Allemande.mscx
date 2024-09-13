@@ -40,8 +40,8 @@
     <metaTag name="workTitle">Partita in A minor</metaTag>
     <Order id="orchestral" customized="1">
       <name>Orchestral</name>
-      <instrument id="piano">
-        <family id="keyboards">Tasteninstrumente</family>
+      <instrument id="flute">
+        <family id="flutes">Flutes</family>
         </instrument>
       <section id="woodwind" brackets="true" showSystemMarkings="true" barLineSpan="true" thinBrackets="true">
         <family>flutes</family>
@@ -144,9 +144,16 @@
           <gateTime>100</gateTime>
           </Articulation>
         <Channel>
+          <controller ctrl="0" value="0"/>
+          <controller ctrl="32" value="17"/>
           <program value="73"/>
           <synti>Fluid</synti>
+          </Channel>
+        <Channel name="harmony">
+          <controller ctrl="0" value="0"/>
           <controller ctrl="32" value="17"/>
+          <program value="0"/>
+          <synti>Fluid</synti>
           </Channel>
         </Instrument>
       </Part>
@@ -172,6 +179,11 @@
             <sigN>4</sigN>
             <sigD>4</sigD>
             </TimeSig>
+          <Tempo>
+            <tempo>1.2</tempo>
+            <followText>1</followText>
+            <text><b></b><font face="ScoreText"/><b><font face="Edwin"/> = 72</b></text>
+            </Tempo>
           <Rest>
             <durationType>16th</durationType>
             </Rest>
@@ -179,13 +191,6 @@
             <harmonyType>1</harmonyType>
             <name>a.i{</name>
             </Harmony>
-          <StaffText>
-            <family>Times New Roman</family>
-            <size>14</size>
-            <bold>1</bold>
-            <offset x="-10" y="-4.5"/>
-            <text>Allemande</text>
-            </StaffText>
           <Chord>
             <durationType>16th</durationType>
             <Note>
@@ -266,12 +271,6 @@
               <tpc>22</tpc>
               </Note>
             </Chord>
-          <StaffText>
-            <family>Times New Roman</family>
-            <size>9.216</size>
-            <offset x="-4.0625" y="-7.5"/>
-            <text>für Flöte Solo</text>
-            </StaffText>
           <Chord>
             <durationType>16th</durationType>
             <Note>
@@ -293,19 +292,6 @@
               <tpc>17</tpc>
               </Note>
             </Chord>
-          <StaffText>
-            <family>Times New Roman</family>
-            <size>28</size>
-            <bold>1</bold>
-            <offset x="-14.75" y="-12.125"/>
-            <text>Partita</text>
-            </StaffText>
-          <StaffText>
-            <family>Times New Roman</family>
-            <size>9</size>
-            <offset x="-10.1875" y="-9.75"/>
-            <text>BWV 1013</text>
-            </StaffText>
           <Chord>
             <durationType>16th</durationType>
             <Note>
@@ -426,12 +412,6 @@
               <tpc>18</tpc>
               </Note>
             </Chord>
-          <StaffText>
-            <family>Times New Roman</family>
-            <size>9</size>
-            <offset x="-10.375" y="-4.25"/>
-            <text>J.S.Bach (1685-1750)</text>
-            </StaffText>
           <Chord>
             <durationType>16th</durationType>
             <Note>
