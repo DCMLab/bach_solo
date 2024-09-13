@@ -34,12 +34,12 @@ Scores downloaded as CAP files from http://www.tobis-notenarchiv.de/bach/12-Kamm
 |BWV1003_02_Fuga           |     289|   479|2.3.0   |Adrian Nagel|
 |BWV1003_03_Andante        |      26|    79|2.3.0   |Adrian Nagel|
 |BWV1003_04_Allegro        |      58|   206|2.3.0   |Adrian Nagel|
-|BWV1004_01_Allemande      |      33|    91|2.3.0   |Adrian Nagel|
-|BWV1004_02_Courante       |      56|    73|2.3.0   |Adrian Nagel|
-|BWV1005_02_Fuga           |     355|   748|2.3.0   |Adrian Nagel|
+|BWV1004_01_Allemande      |      32|    91|2.3.0   |Adrian Nagel|
+|BWV1004_02_Courante       |      54|    73|2.3.0   |Adrian Nagel|
+|BWV1005_02_Fuga           |     354|   748|2.3.0   |Adrian Nagel|
 |BWV1006_04_Menuett        |      66|   125|2.3.0   |Adrian Nagel|
 |BWV1006_05_Bourée         |      38|    57|2.3.0   |Adrian Nagel|
-|BWV1006_06_Gigue          |      34|    52|2.3.0   |Adrian Nagel|
+|BWV1006_06_Gigue          |      32|    52|2.3.0   |Adrian Nagel|
 |BWV1007_01_Prelude        |      42|    55|2.3.0   |Adrian Nagel|
 |BWV1007_02_Allemande      |      32|    75|2.3.0   |Adrian Nagel|
 |BWV1007_03_Courante       |      42|    67|2.3.0   |Adrian Nagel|
@@ -82,7 +82,7 @@ Scores downloaded as CAP files from http://www.tobis-notenarchiv.de/bach/12-Kamm
 |BWV1012_05_GavotteI       |      28|    58|2.3.0   |Adrian Nagel|
 |BWV1012_06_GavotteII      |      24|    64|2.3.0   |Adrian Nagel|
 |BWV1012_07_Gique          |      68|   112|2.3.0   |Adrian Nagel|
-|BWV1013_01_Allemande      |      46|   159|2.3.0   |Adrian Nagel|
+|BWV1013_01_Allemande      |      45|   159|2.3.0   |Adrian Nagel|
 |BWV1013_02_Corrente       |      62|   120|2.3.0   |Adrian Nagel|
 |BWV1013_03_Sarabande      |      46|    57|2.3.0   |Adrian Nagel|
 |BWV1013_04_BourreeAnglaise|      70|    98|2.3.0   |Adrian Nagel|
