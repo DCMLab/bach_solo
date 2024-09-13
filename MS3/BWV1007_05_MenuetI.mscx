@@ -140,12 +140,6 @@
           <style>Composer</style>
           <text>Johann Sebastian Bach</text>
           </Text>
-        <Text>
-          <style>Lyricist</style>
-          <size>14</size>
-          <offset x="169.915" y="-0.9995"/>
-          <text>J.S.Bach</text>
-          </Text>
         </VBox>
       <Measure>
         <voice>
@@ -164,7 +158,7 @@
             <tempo>1</tempo>
             <followText>1</followText>
             <visible>0</visible>
-            <text><b></b><font face="ScoreText"/><b><font face="FreeSerif"/> = 60</b></text>
+            <text><b></b><font face="ScoreText"></font><b><font face="FreeSerif"></font> = 60</b></text>
             </Tempo>
           <Chord>
             <durationType>eighth</durationType>

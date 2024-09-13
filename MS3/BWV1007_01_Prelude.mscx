@@ -159,7 +159,7 @@
             <tempo>1.9333333333333333</tempo>
             <followText>1</followText>
             <visible>0</visible>
-            <text><b></b><font face="ScoreText"/><b><font face="FreeSerif"/> = 116</b></text>
+            <text><b></b><font face="ScoreText"></font><b><font face="FreeSerif"></font> = 116</b></text>
             </Tempo>
           <Chord>
             <durationType>16th</durationType>
@@ -781,7 +781,7 @@
             </Clef>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>vi6</name>
+            <name>vi6]</name>
             </Harmony>
           <Chord>
             <durationType>16th</durationType>
