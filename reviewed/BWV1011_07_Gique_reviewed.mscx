@@ -2534,7 +2534,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i6{</name>
+            <name>i.i6{</name>
             </Harmony>
           <Chord>
             <durationType>16th</durationType>
@@ -2588,10 +2588,6 @@
               <tpc>11</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>i</name>
-            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <Note>
@@ -2670,7 +2666,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>VI</name>
+            <name>viio/iv</name>
             </Harmony>
           <Chord>
             <dots>1</dots>
