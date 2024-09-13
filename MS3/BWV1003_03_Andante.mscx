@@ -15,23 +15,30 @@
     <showUnprintable>1</showUnprintable>
     <showFrames>1</showFrames>
     <showMargins>0</showMargins>
+    <metaTag name="P86 (composer)">Q1339</metaTag>
     <metaTag name="annotators">Adrian Nagel</metaTag>
     <metaTag name="arranger"></metaTag>
     <metaTag name="composed_end">1720</metaTag>
+    <metaTag name="composed_source">https://en.wikipedia.org/wiki/Sonatas_and_Partitas_for_Solo_Violin_(Bach)</metaTag>
     <metaTag name="composed_start">1720</metaTag>
     <metaTag name="composer">Bach, J.S.</metaTag>
     <metaTag name="copyright"></metaTag>
     <metaTag name="creationDate">2021-02-11</metaTag>
     <metaTag name="harmony_version">2.3.0</metaTag>
+    <metaTag name="imslp">https://imslp.org/wiki/Violin_Sonata_No.2_in_A_minor,_BWV_1003_(Bach,_Johann_Sebastian)</metaTag>
     <metaTag name="lyricist"></metaTag>
     <metaTag name="movementNumber">3</metaTag>
-    <metaTag name="movementTitle"></metaTag>
+    <metaTag name="movementTitle">Andante</metaTag>
+    <metaTag name="musicbrainz">https://musicbrainz.org/work/bbd1a422-e55d-3c92-8465-ebacefb65464</metaTag>
+    <metaTag name="pdf">https://imslp.org/wiki/Special:ReverseLookup/497205</metaTag>
     <metaTag name="platform">Apple Macintosh</metaTag>
     <metaTag name="poet"></metaTag>
     <metaTag name="source"></metaTag>
     <metaTag name="translator"></metaTag>
-    <metaTag name="workNumber"></metaTag>
-    <metaTag name="workTitle">Violin Sonata No.2 in A minor</metaTag>
+    <metaTag name="viaf">https://viaf.org/viaf/178649074/</metaTag>
+    <metaTag name="wikidata">https://www.wikidata.org/wiki/Q20646570</metaTag>
+    <metaTag name="workNumber">BWV 1003</metaTag>
+    <metaTag name="workTitle">Sonata No. 2 in A minor</metaTag>
     <Order id="orchestral" customized="1">
       <name>Orchestral</name>
       <instrument id="piano">
@@ -148,6 +155,7 @@
         </Instrument>
       </Part>
     <Staff id="1">
+      <VBox/>
       <Measure>
         <voice>
           <TimeSig>
