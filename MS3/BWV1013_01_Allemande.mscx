@@ -154,7 +154,20 @@
         </Instrument>
       </Part>
     <Staff id="1">
-      <VBox/>
+      <VBox>
+        <Text>
+          <style>Title</style>
+          <text>1. Allemande</text>
+          </Text>
+        <Text>
+          <style>Subtitle</style>
+          <text>from: Partita in A minor, BWV 1013</text>
+          </Text>
+        <Text>
+          <style>Composer</style>
+          <text>Johann Sebastian Bach</text>
+          </Text>
+        </VBox>
       <Measure>
         <voice>
           <TimeSig>

@@ -126,6 +126,18 @@
       <VBox>
         <height>4</height>
         <boxAutoSize>0</boxAutoSize>
+        <Text>
+          <style>Title</style>
+          <text>6. Gigue</text>
+          </Text>
+        <Text>
+          <style>Subtitle</style>
+          <text>from: Partita No. 3 in E major, BWV 1006</text>
+          </Text>
+        <Text>
+          <style>Composer</style>
+          <text>Johann Sebastian Bach</text>
+          </Text>
         </VBox>
       <Measure len="1/8">
         <voice>
