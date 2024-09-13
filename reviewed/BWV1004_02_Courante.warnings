@@ -1,18 +1,8 @@
 Warnings encountered during the last execution of ms3 review
 ============================================================
 
-MCS_NOT_EXCLUDED_FROM_BARCOUNT_WARNING (1, 1, 26) ms3.Parse.bach_solo.BWV1004_02_Courante
-	MCs 1, 26 seem to be offset from the MN's beginning but have not been excluded from barcount. Context:
-	    mc  mn act_dur mc_offset  dont_count  numbering_offset
-	0    1   1    1/16     11/16        <NA>              <NA>
-	1    2   2     3/4         0        <NA>              <NA>
-	24  25  25   11/16         0        <NA>              <NA>
-	25  26  26    1/16     11/16        <NA>              <NA>
-	26  27  27     3/4         0        <NA>              <NA>
-FIRST_BAR_MISSING_TEMPO_MARK_WARNING (29,) ms3.Parse.bach_solo.BWV1004_02_Courante
-	No metronome mark found in the first measure nor anywhere else in the score.
 DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 15, '0', 'ii') ms3.Parse.bach_solo.BWV1004_02_Courante
-	The label 'ii' in m. 15, onset 0 (MC 15, onset 0) seems not to correspond well to the score (which does not necessarily mean it is wrong).
+	The label 'ii' in m. 14, onset 0 (MC 15, onset 0) seems not to correspond well to the score (which does not necessarily mean it is wrong).
 	In the context of d.i, it expresses the scale degrees
 	('2', '4', '#6') [('E', 'G', 'B')].
 	The corresponding score segment has 2 within-label and 7 out-of-label note onsets,

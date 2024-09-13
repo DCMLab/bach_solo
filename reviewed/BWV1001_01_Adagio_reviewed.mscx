@@ -72,42 +72,57 @@
       <defaultsVersion>301</defaultsVersion>
       <Spatium>1.8</Spatium>
       </Style>
-    <showInvisible>0</showInvisible>
+    <showInvisible>1</showInvisible>
     <showUnprintable>1</showUnprintable>
     <showFrames>1</showFrames>
     <showMargins>0</showMargins>
+    <metaTag name="P86 (composer)">Q1339</metaTag>
     <metaTag name="annotators">Adrian Nagel</metaTag>
     <metaTag name="arranger"></metaTag>
     <metaTag name="composed_end">1720</metaTag>
+    <metaTag name="composed_source">https://en.wikipedia.org/wiki/Sonatas_and_Partitas_for_Solo_Violin_(Bach)</metaTag>
     <metaTag name="composed_start">1720</metaTag>
-    <metaTag name="composer">Bach, J.S.</metaTag>
+    <metaTag name="composer">Johann Sebastian Bach</metaTag>
     <metaTag name="copyright"></metaTag>
     <metaTag name="creationDate">2020-02-19</metaTag>
     <metaTag name="harmony_version">2.3.0</metaTag>
+    <metaTag name="imslp">https://imslp.org/wiki/Violin_Sonata_No.1_in_G_minor,_BWV_1001_(Bach,_Johann_Sebastian)</metaTag>
     <metaTag name="lyricist"></metaTag>
     <metaTag name="movementNumber">1</metaTag>
-    <metaTag name="movementTitle"></metaTag>
+    <metaTag name="movementTitle">Adagio</metaTag>
     <metaTag name="mscVersion">3.02</metaTag>
+    <metaTag name="musicbrainz">https://musicbrainz.org/work/a7c0ad42-a277-35c3-973f-e69c2214263d</metaTag>
     <metaTag name="originalFormat">cap</metaTag>
+    <metaTag name="pdf">https://imslp.org/wiki/Special:ReverseLookup/497205</metaTag>
     <metaTag name="platform">Linux</metaTag>
     <metaTag name="poet"></metaTag>
     <metaTag name="source"></metaTag>
     <metaTag name="translator"></metaTag>
-    <metaTag name="workNumber"></metaTag>
-    <metaTag name="workTitle">Violin Sonata No.1 in G minor</metaTag>
+    <metaTag name="viaf">https://viaf.org/viaf/178649074/</metaTag>
+    <metaTag name="wikidata">https://www.wikidata.org/wiki/Q20646569</metaTag>
+    <metaTag name="workNumber">BWV 1001</metaTag>
+    <metaTag name="workTitle">Sonata No. 1 in G minor</metaTag>
     <Part>
       <Staff id="1">
         <StaffType group="pitched">
           </StaffType>
         </Staff>
-      <trackName>violine</trackName>
+      <trackName>Violin</trackName>
       <Instrument id="violin">
-        <trackName></trackName>
+        <longName>Violin</longName>
+        <shortName>Vln.</shortName>
+        <trackName>Violin</trackName>
         <instrumentId>strings.violin</instrumentId>
-        <Channel>
+        <Channel name="arco">
           <controller ctrl="0" value="0"/>
           <controller ctrl="32" value="17"/>
           <program value="40"/>
+          <synti>Fluid</synti>
+          </Channel>
+        <Channel name="pizzicato">
+          <controller ctrl="0" value="0"/>
+          <controller ctrl="32" value="17"/>
+          <program value="45"/>
           <synti>Fluid</synti>
           </Channel>
         <Channel name="harmony">
@@ -120,8 +135,20 @@
       </Part>
     <Staff id="1">
       <VBox>
-        <height>4</height>
+        <height>14.4176</height>
         <boxAutoSize>0</boxAutoSize>
+        <Text>
+          <style>Title</style>
+          <text>1. Adagio</text>
+          </Text>
+        <Text>
+          <style>Subtitle</style>
+          <text>from: Sonata No. 1 in G minor, BWV 1001</text>
+          </Text>
+        <Text>
+          <style>Composer</style>
+          <text>Johann Sebastian Bach</text>
+          </Text>
         </VBox>
       <Measure>
         <voice>
@@ -171,13 +198,6 @@
               <tpc>15</tpc>
               </Note>
             </Chord>
-          <StaffText>
-            <family>Victorian LET</family>
-            <size>13</size>
-            <align>left,baseline</align>
-            <offset x="-11.625" y="-2.65625"/>
-            <text>Adagio</text>
-            </StaffText>
           <Chord>
             <durationType>32nd</durationType>
             <Note>
@@ -331,13 +351,6 @@
               <tpc>18</tpc>
               </Note>
             </Chord>
-          <StaffText>
-            <family>Victorian LET</family>
-            <size>21</size>
-            <align>left,baseline</align>
-            <offset x="-9.84375" y="-7.1875"/>
-            <text>Sonata g-moll</text>
-            </StaffText>
           <Chord>
             <durationType>32nd</durationType>
             <Note>
@@ -615,14 +628,6 @@
           <location>
             <fractions>1/8</fractions>
             </location>
-          <StaffText>
-            <family>Times New Roman</family>
-            <size>13</size>
-            <bold>1</bold>
-            <align>left,baseline</align>
-            <offset x="-7.9375" y="-5.875"/>
-            <text>J.S. Bach</text>
-            </StaffText>
           <Rest>
             <durationType>eighth</durationType>
             </Rest>

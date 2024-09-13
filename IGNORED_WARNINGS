@@ -34,5 +34,24 @@ DCML_DEFAULT_CORRECTION_WARNING (27, 'MC 19: ') ms3.Parse.bach_solo.BWV1008_04_S
 DCML_PHRASE_INCONGRUENCY_WARNING (16,) ms3.Parse.bach_solo.BWV1007_06_MenuetII
 	Phrase beginning and endings don't match.
 
+	All of the above appear to be false positives
+
 VOLTAS_WITH_DIFFERING_LENGTHS_WARNING (4, 47) ms3.Parse.bach_solo.BWV1013_01_Allemande
 	Volta group of MC 47 contains voltas with different lengths: [2, 1] Check for correct computation of MNs and copy this message into an IGNORED_WARNINGS file to make the warning disappear.
+
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 48, '1/2', 'i(2)') ms3.Parse.bach_solo.BWV1013_01_Allemande
+	In our standard it's more typical to call the F# 9 instead of 2, as there is an E in the chord, but it is functioning as a root replacement and E is held over from the previous chord.
+
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 13, '1/2', 'viio6/IV') ms3.Parse.bach_solo.BWV1012_04_Sarabande
+	Harmony persisted from beat 1, which clearly is viio/IV.
+
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 53, '0', 'V6') ms3.Parse.bach_solo.BWV1012_03_Courante
+	Out-of-label notes are 'chromatic noodling' and don't need their own label.
+
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 14, '3/4', 'V/iii') ms3.Parse.bach_solo.BWV1012_02_Allemande
+	Out-of-label notes here are neighbours to the root, C#.
+
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 3, '1/4', 'IV6(2)') ms3.Parse.bach_solo.BWV1012_02_Allemande
+	Here it's diatonic noodling
+
+

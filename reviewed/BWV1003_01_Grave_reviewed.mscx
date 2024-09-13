@@ -15,27 +15,34 @@
     <showUnprintable>1</showUnprintable>
     <showFrames>1</showFrames>
     <showMargins>0</showMargins>
+    <metaTag name="P86 (composer)">Q1339</metaTag>
     <metaTag name="annotators">Adrian Nagel</metaTag>
     <metaTag name="arranger"></metaTag>
     <metaTag name="composed_end">1720</metaTag>
+    <metaTag name="composed_source">https://en.wikipedia.org/wiki/Sonatas_and_Partitas_for_Solo_Violin_(Bach)</metaTag>
     <metaTag name="composed_start">1720</metaTag>
-    <metaTag name="composer">Bach, J.S.</metaTag>
+    <metaTag name="composer">Johann Sebastian Bach</metaTag>
     <metaTag name="copyright"></metaTag>
     <metaTag name="creationDate">2021-02-10</metaTag>
     <metaTag name="harmony_version">2.3.0</metaTag>
+    <metaTag name="imslp">https://imslp.org/wiki/Violin_Sonata_No.2_in_A_minor,_BWV_1003_(Bach,_Johann_Sebastian)</metaTag>
     <metaTag name="lyricist"></metaTag>
     <metaTag name="movementNumber">1</metaTag>
-    <metaTag name="movementTitle"></metaTag>
+    <metaTag name="movementTitle">Grave</metaTag>
+    <metaTag name="musicbrainz">https://musicbrainz.org/work/43948599-1cdf-3c16-9331-2557ec13f967</metaTag>
+    <metaTag name="pdf">https://imslp.org/wiki/Special:ReverseLookup/497205</metaTag>
     <metaTag name="platform">Apple Macintosh</metaTag>
     <metaTag name="poet"></metaTag>
     <metaTag name="source"></metaTag>
     <metaTag name="translator"></metaTag>
-    <metaTag name="workNumber"></metaTag>
-    <metaTag name="workTitle">Violin Sonata No.2 in A minor</metaTag>
+    <metaTag name="viaf">https://viaf.org/viaf/178649074/</metaTag>
+    <metaTag name="wikidata">https://www.wikidata.org/wiki/Q20646570</metaTag>
+    <metaTag name="workNumber">BWV 1003</metaTag>
+    <metaTag name="workTitle">Sonata No. 2 in A minor</metaTag>
     <Order id="orchestral" customized="1">
       <name>Orchestral</name>
-      <instrument id="piano">
-        <family id="keyboards">Keyboards</family>
+      <instrument id="violin">
+        <family id="orchestral-strings">Orchestral Strings</family>
         </instrument>
       <section id="woodwind" brackets="true" showSystemMarkings="true" barLineSpan="true" thinBrackets="true">
         <family>flutes</family>
@@ -87,16 +94,16 @@
         <bracket type="1" span="2" col="2"/>
         <barLineSpan>1</barLineSpan>
         </Staff>
-      <trackName>Piano</trackName>
-      <Instrument id="piano">
-        <longName>Piano</longName>
-        <shortName>Pno.</shortName>
-        <trackName>Piano</trackName>
+      <trackName>Violin</trackName>
+      <Instrument id="violin">
+        <longName>Violin</longName>
+        <shortName>Vln.</shortName>
+        <trackName>Violin</trackName>
         <minPitchP>21</minPitchP>
         <maxPitchP>108</maxPitchP>
         <minPitchA>21</minPitchA>
         <maxPitchA>108</maxPitchA>
-        <instrumentId>keyboard.piano</instrumentId>
+        <instrumentId>strings.violin</instrumentId>
         <Articulation>
           <velocity>100</velocity>
           <gateTime>95</gateTime>
@@ -137,17 +144,41 @@
           <velocity>120</velocity>
           <gateTime>100</gateTime>
           </Articulation>
-        <Channel>
-          <program value="0"/>
+        <Channel name="arco">
+          <controller ctrl="0" value="0"/>
+          <controller ctrl="32" value="17"/>
+          <program value="40"/>
+          <synti>Fluid</synti>
+          </Channel>
+        <Channel name="pizzicato">
+          <program value="45"/>
           <synti>Fluid</synti>
           </Channel>
         <Channel name="harmony">
+          <controller ctrl="0" value="0"/>
+          <controller ctrl="32" value="17"/>
           <program value="0"/>
           <synti>Fluid</synti>
           </Channel>
         </Instrument>
       </Part>
     <Staff id="1">
+      <VBox>
+        <height>14.0913</height>
+        <boxAutoSize>0</boxAutoSize>
+        <Text>
+          <style>Title</style>
+          <text>1. Grave</text>
+          </Text>
+        <Text>
+          <style>Subtitle</style>
+          <text>from: Sonata No. 2 in A minor, BWV 1003</text>
+          </Text>
+        <Text>
+          <style>Composer</style>
+          <text>Johann Sebastian Bach</text>
+          </Text>
+        </VBox>
       <Measure>
         <voice>
           <TimeSig>
@@ -370,24 +401,6 @@
             </Chord>
           </voice>
         <voice>
-          <StaffText>
-            <family>Times New Roman</family>
-            <size>15.552</size>
-            <offset x="-8.6134" y="-5.70756"/>
-            <text>Grave</text>
-            </StaffText>
-          <StaffText>
-            <family>Times New Roman</family>
-            <size>15.552</size>
-            <offset x="34.125" y="-11"/>
-            <text>BWV 1003</text>
-            </StaffText>
-          <StaffText>
-            <family>Times New Roman</family>
-            <size>9</size>
-            <offset x="72.4688" y="-7.28125"/>
-            <text>Johann Sebastian Bach</text>
-            </StaffText>
           <Chord>
             <durationType>quarter</durationType>
             <Note>

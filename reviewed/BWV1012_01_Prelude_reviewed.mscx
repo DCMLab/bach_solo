@@ -15,27 +15,34 @@
     <showUnprintable>1</showUnprintable>
     <showFrames>1</showFrames>
     <showMargins>0</showMargins>
+    <metaTag name="P86 (composer)">Q1339</metaTag>
     <metaTag name="annotators">Adrian Nagel</metaTag>
     <metaTag name="arranger"></metaTag>
     <metaTag name="composed_end">1723</metaTag>
+    <metaTag name="composed_source">https://en.wikipedia.org/wiki/Cello_Suites_(Bach)</metaTag>
     <metaTag name="composed_start">1717</metaTag>
-    <metaTag name="composer">Bach, J.S.</metaTag>
+    <metaTag name="composer">Johann Sebastian Bach</metaTag>
     <metaTag name="copyright"></metaTag>
     <metaTag name="creationDate">2021-04-12</metaTag>
     <metaTag name="harmony_version">2.3.0</metaTag>
+    <metaTag name="imslp">https://imslp.org/wiki/Cello_Suite_No.6_in_D_major,_BWV_1012_(Bach,_Johann_Sebastian)</metaTag>
     <metaTag name="lyricist"></metaTag>
     <metaTag name="movementNumber">1</metaTag>
-    <metaTag name="movementTitle"></metaTag>
+    <metaTag name="movementTitle">Prelude</metaTag>
+    <metaTag name="musicbrainz">https://musicbrainz.org/work/65329f14-c05c-3b8f-a0bb-561ec475317e</metaTag>
+    <metaTag name="pdf">https://imslp.org/wiki/Special:ReverseLookup/480704</metaTag>
     <metaTag name="platform">Apple Macintosh</metaTag>
     <metaTag name="poet"></metaTag>
     <metaTag name="source"></metaTag>
     <metaTag name="translator"></metaTag>
-    <metaTag name="workNumber"></metaTag>
-    <metaTag name="workTitle">Cello Suite No.6 in D major</metaTag>
+    <metaTag name="viaf">https://viaf.org/viaf/212878335</metaTag>
+    <metaTag name="wikidata">https://www.wikidata.org/wiki/Q20645428</metaTag>
+    <metaTag name="workNumber">BWV 1012</metaTag>
+    <metaTag name="workTitle">Suite No. 6 in D major</metaTag>
     <Order id="orchestral" customized="1">
       <name>Orchestral</name>
       <instrument id="piano">
-        <family id="keyboards">Tasteninstrumente</family>
+        <family id="keyboards">Keyboards</family>
         </instrument>
       <section id="woodwind" brackets="true" showSystemMarkings="true" barLineSpan="true" thinBrackets="true">
         <family>flutes</family>
@@ -98,6 +105,7 @@
         <minPitchA>21</minPitchA>
         <maxPitchA>108</maxPitchA>
         <instrumentId>keyboard.piano</instrumentId>
+        <clef>F</clef>
         <Articulation>
           <velocity>100</velocity>
           <gateTime>95</gateTime>
@@ -149,6 +157,22 @@
         </Instrument>
       </Part>
     <Staff id="1">
+      <VBox>
+        <height>13.7016</height>
+        <boxAutoSize>0</boxAutoSize>
+        <Text>
+          <style>Title</style>
+          <text>1. Prelude</text>
+          </Text>
+        <Text>
+          <style>Subtitle</style>
+          <text>from: Suite No. 6 in D major, BWV 1012</text>
+          </Text>
+        <Text>
+          <style>Composer</style>
+          <text>Johann Sebastian Bach</text>
+          </Text>
+        </VBox>
       <Measure>
         <voice>
           <KeySig>
@@ -158,30 +182,16 @@
             <sigN>12</sigN>
             <sigD>8</sigD>
             </TimeSig>
-          <StaffText>
-            <family>Times New Roman</family>
-            <size>17</size>
-            <bold>1</bold>
-            <offset x="26.3125" y="-14.3125"/>
-            <text>Suite VI</text>
-            </StaffText>
-          <StaffText>
-            <family>Times New Roman</family>
-            <size>11</size>
-            <offset x="27.2813" y="-10.1563"/>
-            <text>BWV 1012</text>
-            </StaffText>
-          <StaffText>
-            <family>Times New Roman</family>
-            <size>12</size>
-            <bold>1</bold>
-            <offset x="-13.3437" y="-2.1875"/>
-            <text>PRELUDE</text>
-            </StaffText>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>D.I{</name>
             </Harmony>
+          <Tempo>
+            <tempo>3.3000000000000003</tempo>
+            <followText>1</followText>
+            <visible>0</visible>
+            <text><b></b><font face="ScoreText"></font> <b><font face="Edwin"></font> = 132</b></text>
+            </Tempo>
           <Chord>
             <durationType>eighth</durationType>
             <Spanner type="Slur">

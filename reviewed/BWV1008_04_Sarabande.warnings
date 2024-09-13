@@ -1,16 +1,6 @@
 Warnings encountered during the last execution of ms3 review
 ============================================================
 
-FIRST_BAR_MISSING_TEMPO_MARK_WARNING (29,) ms3.Parse.bach_solo.BWV1008_04_Sarabande
-	No metronome mark found in the first measure nor anywhere else in the score.
-DCML_DEFAULT_CORRECTION_WARNING (27, 'MC 19: ') ms3.Parse.bach_solo.BWV1008_04_Sarabande
-	MC 19: #vii in major context corrected to vii.
-DCML_DEFAULT_CORRECTION_WARNING (27, 'MC 22: ') ms3.Parse.bach_solo.BWV1008_04_Sarabande
-	MC 22: #vii in major context corrected to vii.
-DCML_DEFAULT_CORRECTION_WARNING (27, 'MC 19: ') ms3.Parse.bach_solo.BWV1008_04_Sarabande
-	MC 19: #vii in major context corrected to vii.
-DCML_DEFAULT_CORRECTION_WARNING (27, 'MC 22: ') ms3.Parse.bach_solo.BWV1008_04_Sarabande
-	MC 22: #vii in major context corrected to vii.
 DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 13, '1/4', 'iio64/iv') ms3.Parse.bach_solo.BWV1008_04_Sarabande
 	The label 'iio64/iv' in m. 13, onset 1/4 (MC 13, onset 1/4) seems not to correspond well to the score (which does not necessarily mean it is wrong).
 	In the context of d.III, it expresses the scale degrees

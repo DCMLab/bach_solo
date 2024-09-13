@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <museScore version="3.02">
-  <programVersion>3.6.0</programVersion>
-  <programRevision>1977cb3</programRevision>
+  <programVersion>3.6.2</programVersion>
+  <programRevision>3224f34</programRevision>
   <Score>
     <LayerTag id="0" tag="default"></LayerTag>
     <currentLayer>0</currentLayer>
@@ -75,35 +75,45 @@
     <showUnprintable>1</showUnprintable>
     <showFrames>1</showFrames>
     <showMargins>0</showMargins>
+    <metaTag name="P86 (composer)">Q1339</metaTag>
     <metaTag name="annotators">Adrian Nagel</metaTag>
     <metaTag name="arranger"></metaTag>
     <metaTag name="composed_end">1723</metaTag>
+    <metaTag name="composed_source">https://en.wikipedia.org/wiki/Cello_Suites_(Bach)</metaTag>
     <metaTag name="composed_start">1717</metaTag>
-    <metaTag name="composer">Bach, J.S.</metaTag>
+    <metaTag name="composer">Johann Sebastian Bach</metaTag>
     <metaTag name="copyright"></metaTag>
     <metaTag name="creationDate">2020-02-19</metaTag>
     <metaTag name="harmony_version">2.3.0</metaTag>
+    <metaTag name="imslp">https://imslp.org/wiki/Cello_Suite_No.6_in_D_major,_BWV_1012_(Bach,_Johann_Sebastian)</metaTag>
     <metaTag name="lyricist"></metaTag>
     <metaTag name="movementNumber">6</metaTag>
-    <metaTag name="movementTitle"></metaTag>
+    <metaTag name="movementTitle">Minuet II</metaTag>
     <metaTag name="mscVersion">3.02</metaTag>
+    <metaTag name="musicbrainz">https://musicbrainz.org/work/0b00cd25-2373-36df-8ad7-9fa805a266e3</metaTag>
     <metaTag name="originalFormat">cap</metaTag>
+    <metaTag name="pdf">https://imslp.org/wiki/Special:ReverseLookup/480704</metaTag>
     <metaTag name="platform">Linux</metaTag>
     <metaTag name="poet"></metaTag>
     <metaTag name="source"></metaTag>
     <metaTag name="translator"></metaTag>
-    <metaTag name="workNumber"></metaTag>
-    <metaTag name="workTitle">Cello Suite No.1 in G major</metaTag>
+    <metaTag name="viaf">https://viaf.org/viaf/217002846</metaTag>
+    <metaTag name="wikidata">https://www.wikidata.org/wiki/Q12714023</metaTag>
+    <metaTag name="workNumber">BWV 1007</metaTag>
+    <metaTag name="workTitle">Suite No. 1 in G major</metaTag>
     <Part>
       <Staff id="1">
         <StaffType group="pitched">
           </StaffType>
         <defaultClef>F</defaultClef>
         </Staff>
-      <trackName>unbenannt</trackName>
+      <trackName>Piano</trackName>
       <Instrument id="piano">
-        <trackName></trackName>
+        <longName>Piano</longName>
+        <shortName>Pno.</shortName>
+        <trackName>Piano</trackName>
         <instrumentId>keyboard.piano</instrumentId>
+        <clef>F</clef>
         <Channel>
           <program value="0"/>
           <synti>Fluid</synti>
@@ -116,31 +126,19 @@
       </Part>
     <Staff id="1">
       <VBox>
-        <height>4</height>
+        <height>13.4824</height>
         <boxAutoSize>0</boxAutoSize>
         <Text>
-          <style>Lyricist</style>
-          <size>20</size>
-          <offset x="94.6262" y="-2.12378"/>
-          <text>Suite I</text>
+          <style>Title</style>
+          <text>6. Minuet II</text>
           </Text>
         <Text>
-          <style>Lyricist</style>
-          <size>11</size>
-          <offset x="0.471951" y="-0.235976"/>
-          <text>BWV 1007</text>
+          <style>Subtitle</style>
+          <text>from: Suite No. 1 in G major, BWV 1007</text>
           </Text>
         <Text>
-          <style>Lyricist</style>
-          <size>11</size>
-          <offset x="23.3616" y="-0.471951"/>
-          <text>J.S.Bach  Suite I für Violoncello</text>
-          </Text>
-        <Text>
-          <style>Lyricist</style>
-          <size>14</size>
-          <offset x="168.958" y="-1.17988"/>
-          <text>J.S.Bach</text>
+          <style>Composer</style>
+          <text>Johann Sebastian Bach</text>
           </Text>
         </VBox>
       <Measure>
@@ -155,13 +153,13 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>g.i{</name>
-            <color r="170" g="0" b="0" a="255"/>
             </Harmony>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>g.i{</name>
-            <color r="0" g="85" b="0" a="255"/>
-            </Harmony>
+          <Tempo>
+            <tempo>1.6000000000000001</tempo>
+            <followText>1</followText>
+            <visible>0</visible>
+            <text><b></b><font face="ScoreText"></font><b><font face="FreeSerif"></font> = 96</b></text>
+            </Tempo>
           <Chord>
             <durationType>eighth</durationType>
             <Spanner type="Slur">
