@@ -150,6 +150,7 @@
           </Text>
         </VBox>
       <Measure len="1/16">
+        <irregular>1</irregular>
         <voice>
           <KeySig>
             <accidental>-1</accidental>
@@ -166,7 +167,7 @@
             <tempo>0.93333333333333335</tempo>
             <followText>1</followText>
             <visible>0</visible>
-            <text><b></b><font face="ScoreText"/><b><font face="FreeSerif"/> = 56</b></text>
+            <text><b></b><font face="ScoreText"></font><b><font face="FreeSerif"></font> = 56</b></text>
             </Tempo>
           <Chord>
             <durationType>16th</durationType>
@@ -2423,7 +2424,7 @@
             </Chord>
           </voice>
         </Measure>
-      <Measure len="7/8">
+      <Measure len="15/16">
         <endRepeat>2</endRepeat>
         <LayoutBreak>
           <subtype>line</subtype>
@@ -2523,6 +2524,9 @@
               <tpc>17</tpc>
               </Note>
             </Chord>
+          <Rest>
+            <durationType>16th</durationType>
+            </Rest>
           </voice>
         </Measure>
       <Measure len="1/16">
@@ -4805,7 +4809,7 @@
             </Chord>
           </voice>
         </Measure>
-      <Measure len="7/8">
+      <Measure len="15/16">
         <endRepeat>2</endRepeat>
         <LayoutBreak>
           <subtype>line</subtype>
@@ -4919,6 +4923,9 @@
               <tpc>16</tpc>
               </Note>
             </Chord>
+          <Rest>
+            <durationType>16th</durationType>
+            </Rest>
           </voice>
         </Measure>
       </Staff>
