@@ -15,3 +15,6 @@ DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 24, '3/8', 'iv6') ms3.Parse.ba
 
 VOLTAS_WITH_DIFFERING_LENGTHS_WARNING (4, 27) ms3.Parse.bach_solo.BWV1003_03_Andante
 	Volta group of MC 27 contains voltas with different lengths: [2, 1] Check for correct computation of MNs
+
+DCML_PHRASE_INCONGRUENCY_WARNING (16,) ms3.Parse.bach_solo.BWV1013_01_Allemande
+	Phrase beginning and endings don't match
