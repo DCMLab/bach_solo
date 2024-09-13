@@ -107,18 +107,17 @@
           </StaffType>
         <defaultClef>F</defaultClef>
         </Staff>
-      <trackName>unbenannt</trackName>
+      <trackName>Piano</trackName>
       <Instrument id="piano">
-        <trackName></trackName>
+        <trackName>Piano</trackName>
         <instrumentId>keyboard.piano</instrumentId>
         <Channel>
           <program value="0"/>
           <synti>Fluid</synti>
           </Channel>
-        <Channel name="harmony">
-          <program value="0"/>
-          <synti>Fluid</synti>
-          </Channel>
+        <longName>Piano</longName>
+        <shortName>Pno.</shortName>
+        <clef>F</clef>
         </Instrument>
       </Part>
     <Staff id="1">
