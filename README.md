@@ -1,19 +1,32 @@
-# J.S. Bach - Solo Pieces (A corpus of annotated scores)
-## Currently BWV 1001-1013 (v2.5)
+![Version](https://img.shields.io/github/v/release/DCMLab/bach_solo?display_name=tag)
+[![DOI](https://zenodo.org/badge/{{ zenodo_badge_id }}.svg)](https://zenodo.org/badge/latestdoi/{{ zenodo_badge_id }})
+![GitHub repo size](https://img.shields.io/github/repo-size/DCMLab/bach_solo)
+![License](https://img.shields.io/badge/license-CC%20BY--NC--SA%204.0-9cf)
 
-Scores downloaded as CAP files from http://www.tobis-notenarchiv.de/bach/12-Kammermusik/index.htm and converted to MuseScore. The original license is [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/).
 
-## Status and Limitations
+This is a README file for a data repository originating from the [DCML corpus initiative](https://github.com/DCMLab/dcml_corpora)
+and serves as welcome page for both 
 
-### Scores
+* the GitHub repo [https://github.com/DCMLab/bach_solo](https://github.com/DCMLab/bach_solo) and the corresponding
+* documentation page [https://dcmlab.github.io/bach_solo](https://dcmlab.github.io/bach_solo)
 
-* When looking at samples, the scores seem to focus on pitch content. Still need to be checked more thoroughly.
+For information on how to obtain and use the dataset, please refer to [this documentation page](https://dcmlab.github.io/bach_solo/introduction).
 
-### Annotations
+# J.S. Bach – Solo Pieces (A corpus of annotated scores)
 
-* Harmony labels were created mid-2021 and merged through [this PR](https://github.com/DCMLab/bach_solo/pull/2)
-* The metadata mark all annotations as version 2.3.0. However, BWV 1001-1008 do not include cadence labels. Probably we introduced this feature during the commission.
+All of the works in this repository are essential standard repertoire for their respective instruments. With the possible exception of BWV 1013, all were composed during Bach's prolific period as Kapellmeister in Köthen. Despite their ubiquity, their composition is shrouded in a kind of prophetic mystery; the Sonatas and Partitas for Solo Violin were only published in 1802, the Partita for Solo Flute was completely unknown until the twentieth century, and the Suites for Solo Cello were virtually unplayable on the instruments of the time. These works are outstanding for the sheer melodic and figurative variety they introduce to their ostensibly 'fixed' Baroque dance forms and our analyses will be able to substantiate broad new stylistic interpretations of this music.
 
+## Version history
+
+See the [GitHub releases](https://github.com/DCMLab/bach_solo/releases).
+
+## Questions, Suggestions, Corrections, Bug Reports
+
+Please [create an issue](https://github.com/DCMLab/bach_solo/issues) and/or feel free to fork and submit pull requests.
+
+## License
+
+Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License ([CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)).
 
 ## Overview
 |        file_name         |measures|labels|standard| annotators |
