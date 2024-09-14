@@ -1,12 +1,6 @@
 Warnings encountered during the last execution of ms3 review
 ============================================================
 
-MCS_NOT_EXCLUDED_FROM_BARCOUNT_WARNING (1, 18) ms3.Parse.bach_solo.BWV1004_01_Allemande
-	MC 18 seems to be offset from the MN's beginning but has not been excluded from barcount. Context:
-	    mc  mn act_dur mc_offset  dont_count  numbering_offset
-	16  17  16   15/16         0        <NA>              <NA>
-	17  18  17    1/16     15/16        <NA>              <NA>
-	18  19  18       1         0        <NA>              <NA>
 DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 4, '1/4', 'VI6') ms3.Parse.bach_solo.BWV1004_01_Allemande
 	The label 'VI6' in m. 3, onset 1/4 (MC 4, onset 1/4) seems not to correspond well to the score (which does not necessarily mean it is wrong).
 	In the context of d.i, it expresses the scale degrees
