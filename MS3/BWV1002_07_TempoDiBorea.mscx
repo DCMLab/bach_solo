@@ -106,23 +106,29 @@
         <StaffType group="pitched">
           </StaffType>
         </Staff>
-      <trackName>Soloinstrument</trackName>
-      <Instrument id="violoncello">
-        <trackName></trackName>
-        <instrumentId>strings.cello</instrumentId>
-        <Channel>
-          <controller ctrl="0" value="0"/>
+      <trackName>Violin</trackName>
+      <Instrument id="violin">
+        <trackName>Violin</trackName>
+        <instrumentId>strings.violin</instrumentId>
+        <Channel name="arco">
           <controller ctrl="32" value="17"/>
-          <program value="42"/>
+          <controller ctrl="32" value="17"/>
+          <program value="40"/>
           <synti>Fluid</synti>
           </Channel>
-        <Channel name="harmony">
+        <Channel name="pizzicato">
           <controller ctrl="0" value="0"/>
           <controller ctrl="32" value="17"/>
-          <program value="0"/>
+          <program value="45"/>
           <synti>Fluid</synti>
           </Channel>
+        <longName>Violin</longName>
+        <shortName>Vln.</shortName>
         </Instrument>
+      <Channel name="tremolo">
+        <program value="44"/>
+        <controller ctrl="32" value="17"/>
+        </Channel>
       </Part>
     <Staff id="1">
       <VBox>

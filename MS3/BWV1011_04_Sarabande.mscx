@@ -151,6 +151,7 @@
           <program value="42"/>
           <synti>Fluid</synti>
           <mute>1</mute>
+          <controller ctrl="32" value="17"/>
           </Channel>
         <Channel name="pizzicato">
           <program value="45"/>
@@ -162,12 +163,7 @@
           <program value="44"/>
           <synti>Fluid</synti>
           <mute>1</mute>
-          </Channel>
-        <Channel name="harmony">
           <controller ctrl="32" value="17"/>
-          <program value="0"/>
-          <synti>Fluid</synti>
-          <mute>1</mute>
           </Channel>
         </Instrument>
       </Part>

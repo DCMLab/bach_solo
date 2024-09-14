@@ -147,7 +147,7 @@
           <gateTime>100</gateTime>
           </Articulation>
         <Channel name="arco">
-          <controller ctrl="0" value="0"/>
+          <controller ctrl="32" value="17"/>
           <controller ctrl="32" value="17"/>
           <program value="42"/>
           <synti>Fluid</synti>
@@ -157,13 +157,9 @@
           <synti>Fluid</synti>
           </Channel>
         <Channel name="tremolo">
-          <controller ctrl="0" value="0"/>
+          <controller ctrl="32" value="17"/>
           <controller ctrl="32" value="17"/>
           <program value="44"/>
-          <synti>Fluid</synti>
-          </Channel>
-        <Channel name="harmony">
-          <program value="0"/>
           <synti>Fluid</synti>
           </Channel>
         </Instrument>
