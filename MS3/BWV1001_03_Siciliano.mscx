@@ -128,6 +128,18 @@
       <VBox>
         <height>4</height>
         <boxAutoSize>0</boxAutoSize>
+        <Text>
+          <style>Title</style>
+          <text>3. Siciliana</text>
+          </Text>
+        <Text>
+          <style>Subtitle</style>
+          <text>from: Sonata No. 1 in G minor, BWV 1001</text>
+          </Text>
+        <Text>
+          <style>Composer</style>
+          <text>Johann Sebastian Bach</text>
+          </Text>
         </VBox>
       <Measure>
         <voice>

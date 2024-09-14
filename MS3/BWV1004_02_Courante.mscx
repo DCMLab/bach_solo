@@ -128,6 +128,18 @@
       <VBox>
         <height>4</height>
         <boxAutoSize>0</boxAutoSize>
+        <Text>
+          <style>Title</style>
+          <text>2. Corrente</text>
+          </Text>
+        <Text>
+          <style>Subtitle</style>
+          <text>from: Partita No. 2 in D minor, BWV 1004</text>
+          </Text>
+        <Text>
+          <style>Composer</style>
+          <text>Johann Sebastian Bach</text>
+          </Text>
         </VBox>
       <Measure len="1/16">
         <irregular>1</irregular>

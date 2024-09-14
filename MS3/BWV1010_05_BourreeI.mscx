@@ -156,7 +156,20 @@
         </Instrument>
       </Part>
     <Staff id="1">
-      <VBox/>
+      <VBox>
+        <Text>
+          <style>Title</style>
+          <text>5. Bourrée I</text>
+          </Text>
+        <Text>
+          <style>Subtitle</style>
+          <text>from: Suite No. 4 in E-flat major, BWV 1010</text>
+          </Text>
+        <Text>
+          <style>Composer</style>
+          <text>Johann Sebastian Bach</text>
+          </Text>
+        </VBox>
       <Measure len="1/4">
         <irregular>1</irregular>
         <voice>

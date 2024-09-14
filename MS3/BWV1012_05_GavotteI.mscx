@@ -156,7 +156,20 @@
         </Instrument>
       </Part>
     <Staff id="1">
-      <VBox/>
+      <VBox>
+        <Text>
+          <style>Title</style>
+          <text>5. Gavotte I</text>
+          </Text>
+        <Text>
+          <style>Subtitle</style>
+          <text>from: Suite No. 6 in D major, BWV 1012</text>
+          </Text>
+        <Text>
+          <style>Composer</style>
+          <text>Johann Sebastian Bach</text>
+          </Text>
+        </VBox>
       <Measure len="1/2">
         <irregular>1</irregular>
         <voice>

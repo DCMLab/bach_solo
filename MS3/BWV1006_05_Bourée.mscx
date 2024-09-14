@@ -129,6 +129,18 @@
       <VBox>
         <height>4</height>
         <boxAutoSize>0</boxAutoSize>
+        <Text>
+          <style>Title</style>
+          <text>5. Bourrée</text>
+          </Text>
+        <Text>
+          <style>Subtitle</style>
+          <text>from: Partita No. 3 in E major, BWV 1006</text>
+          </Text>
+        <Text>
+          <style>Composer</style>
+          <text>Johann Sebastian Bach</text>
+          </Text>
         </VBox>
       <Measure len="1/4">
         <irregular>1</irregular>
