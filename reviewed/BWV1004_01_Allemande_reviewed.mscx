@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <museScore version="3.02">
-  <programVersion>3.6.0</programVersion>
-  <programRevision>1977cb3</programRevision>
+  <programVersion>3.6.2</programVersion>
+  <programRevision>3224f34</programRevision>
   <Score>
     <LayerTag id="0" tag="default"></LayerTag>
     <currentLayer>0</currentLayer>
@@ -71,44 +71,62 @@
       <defaultsVersion>301</defaultsVersion>
       <Spatium>1.8</Spatium>
       </Style>
-    <showInvisible>0</showInvisible>
+    <showInvisible>1</showInvisible>
     <showUnprintable>1</showUnprintable>
     <showFrames>1</showFrames>
     <showMargins>0</showMargins>
+    <metaTag name="P86 (composer)">Q1339</metaTag>
     <metaTag name="annotators">Adrian Nagel</metaTag>
     <metaTag name="arranger"></metaTag>
+    <metaTag name="compared_against">LATEST_VERSION</metaTag>
     <metaTag name="composed_end">1720</metaTag>
+    <metaTag name="composed_source">https://en.wikipedia.org/wiki/Sonatas_and_Partitas_for_Solo_Violin_(Bach)</metaTag>
     <metaTag name="composed_start">1720</metaTag>
-    <metaTag name="composer">Bach, J.S.</metaTag>
+    <metaTag name="composer">Johann Sebastian Bach</metaTag>
     <metaTag name="copyright"></metaTag>
     <metaTag name="creationDate">2020-02-19</metaTag>
     <metaTag name="harmony_version">2.3.0</metaTag>
+    <metaTag name="imslp">https://imslp.org/wiki/Violin_Partita_No.2_in_D_minor,_BWV_1004_(Bach,_Johann_Sebastian)</metaTag>
     <metaTag name="lyricist"></metaTag>
     <metaTag name="movementNumber">1</metaTag>
-    <metaTag name="movementTitle"></metaTag>
+    <metaTag name="movementTitle">Allemanda</metaTag>
     <metaTag name="mscVersion">3.02</metaTag>
+    <metaTag name="musicbrainz">https://musicbrainz.org/work/01c608ed-fe23-3562-9f56-91ea5b6eeb9e</metaTag>
     <metaTag name="originalFormat">cap</metaTag>
+    <metaTag name="pdf">https://imslp.org/wiki/Special:ReverseLookup/497205</metaTag>
     <metaTag name="platform">Linux</metaTag>
     <metaTag name="poet"></metaTag>
     <metaTag name="source"></metaTag>
     <metaTag name="translator"></metaTag>
-    <metaTag name="workNumber"></metaTag>
-    <metaTag name="workTitle">Violin Partita No.2 in D minor</metaTag>
+    <metaTag name="viaf">https://viaf.org/viaf/185496649</metaTag>
+    <metaTag name="wikidata">https://www.wikidata.org/wiki/Q625094</metaTag>
+    <metaTag name="workNumber">BWV 1004</metaTag>
+    <metaTag name="workTitle">Partita No. 2 in D minor</metaTag>
     <Part>
       <Staff id="1">
         <StaffType group="pitched">
           </StaffType>
         </Staff>
-      <trackName>unbenannt1</trackName>
+      <trackName>Violin</trackName>
       <Instrument id="violin">
-        <trackName></trackName>
+        <longName>Violin</longName>
+        <shortName>Vln.</shortName>
+        <trackName>Violin</trackName>
         <instrumentId>strings.violin</instrumentId>
-        <Channel>
+        <Channel name="arco">
+          <controller ctrl="0" value="0"/>
           <controller ctrl="32" value="17"/>
           <program value="40"/>
           <synti>Fluid</synti>
           </Channel>
+        <Channel name="pizzicato">
+          <controller ctrl="0" value="0"/>
+          <controller ctrl="32" value="17"/>
+          <program value="45"/>
+          <synti>Fluid</synti>
+          </Channel>
         <Channel name="harmony">
+          <controller ctrl="0" value="0"/>
           <controller ctrl="32" value="17"/>
           <program value="0"/>
           <synti>Fluid</synti>
@@ -117,10 +135,23 @@
       </Part>
     <Staff id="1">
       <VBox>
-        <height>4</height>
+        <height>11.2923</height>
         <boxAutoSize>0</boxAutoSize>
+        <Text>
+          <style>Title</style>
+          <text>1. Allemanda</text>
+          </Text>
+        <Text>
+          <style>Subtitle</style>
+          <text>from: Partita No. 2 in D minor, BWV 1004</text>
+          </Text>
+        <Text>
+          <style>Composer</style>
+          <text>Johann Sebastian Bach</text>
+          </Text>
         </VBox>
       <Measure len="1/16">
+        <irregular>1</irregular>
         <voice>
           <KeySig>
             <accidental>-1</accidental>
@@ -132,13 +163,13 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>d.i{</name>
-            <color r="170" g="0" b="0" a="255"/>
             </Harmony>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>d.i{</name>
-            <color r="0" g="85" b="0" a="255"/>
-            </Harmony>
+          <Tempo>
+            <tempo>0.93333333333333335</tempo>
+            <followText>1</followText>
+            <visible>0</visible>
+            <text><b></b><font face="ScoreText"></font><b><font face="FreeSerif"></font> = 56</b></text>
+            </Tempo>
           <Chord>
             <durationType>16th</durationType>
             <Note>
@@ -158,13 +189,6 @@
               <tpc>16</tpc>
               </Note>
             </Chord>
-          <StaffText>
-            <family>Victorian LET</family>
-            <size>15</size>
-            <align>left,baseline</align>
-            <offset x="-18.3438" y="-5.78125"/>
-            <text>ALLEMANDE</text>
-            </StaffText>
           <Chord>
             <durationType>16th</durationType>
             <Note>
@@ -261,13 +285,6 @@
           <subtype>line</subtype>
           </LayoutBreak>
         <voice>
-          <StaffText>
-            <family>Victorian LET</family>
-            <size>19</size>
-            <align>left,baseline</align>
-            <offset x="-10.7813" y="-7.6875"/>
-            <text>Partita II</text>
-            </StaffText>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>i</name>
@@ -476,7 +493,13 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
+            <name>iv6</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
             <name>VI6</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Tuplet>
             <normalNotes>2</normalNotes>
@@ -511,6 +534,11 @@
               </Note>
             </Chord>
           <endTuplet/>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>i6-III</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
           <Tuplet>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
@@ -1926,12 +1954,6 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>bII6</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>bII6</name>
-            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>16th</durationType>
@@ -2009,12 +2031,6 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>bII64</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>bII64</name>
-            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>16th</durationType>
@@ -2077,12 +2093,6 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>bII</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>bII</name>
-            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>16th</durationType>
@@ -2514,7 +2524,7 @@
             </Chord>
           </voice>
         </Measure>
-      <Measure len="7/8">
+      <Measure len="15/16">
         <endRepeat>2</endRepeat>
         <LayoutBreak>
           <subtype>line</subtype>
@@ -2614,6 +2624,9 @@
               <tpc>17</tpc>
               </Note>
             </Chord>
+          <Rest>
+            <durationType>16th</durationType>
+            </Rest>
           </voice>
         </Measure>
       <Measure len="1/16">
@@ -4767,12 +4780,6 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>bII</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>bII</name>
-            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>16th</durationType>
@@ -4979,7 +4986,7 @@
             </Chord>
           </voice>
         </Measure>
-      <Measure len="7/8">
+      <Measure len="15/16">
         <endRepeat>2</endRepeat>
         <LayoutBreak>
           <subtype>line</subtype>
@@ -5096,6 +5103,9 @@
               <tpc>16</tpc>
               </Note>
             </Chord>
+          <Rest>
+            <durationType>16th</durationType>
+            </Rest>
           </voice>
         </Measure>
       </Staff>

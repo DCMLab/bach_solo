@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <museScore version="3.02">
-  <programVersion>3.6.0</programVersion>
-  <programRevision>1977cb3</programRevision>
+  <programVersion>3.6.2</programVersion>
+  <programRevision>3224f34</programRevision>
   <Score>
     <LayerTag id="0" tag="default"></LayerTag>
     <currentLayer>0</currentLayer>
@@ -15,27 +15,35 @@
     <showUnprintable>1</showUnprintable>
     <showFrames>1</showFrames>
     <showMargins>0</showMargins>
+    <metaTag name="P86 (composer)">Q1339</metaTag>
     <metaTag name="annotators">Adrian Nagel</metaTag>
     <metaTag name="arranger"></metaTag>
+    <metaTag name="compared_against">LATEST_VERSION</metaTag>
     <metaTag name="composed_end">1723</metaTag>
+    <metaTag name="composed_source">https://en.wikipedia.org/wiki/Cello_Suites_(Bach)</metaTag>
     <metaTag name="composed_start">1717</metaTag>
-    <metaTag name="composer">Bach, J.S.</metaTag>
+    <metaTag name="composer">Johann Sebastian Bach</metaTag>
     <metaTag name="copyright"></metaTag>
     <metaTag name="creationDate">2021-02-20</metaTag>
     <metaTag name="harmony_version">2.3.0</metaTag>
+    <metaTag name="imslp">https://imslp.org/wiki/Cello_Suite_No.2_in_D_minor,_BWV_1008_(Bach,_Johann_Sebastian)</metaTag>
     <metaTag name="lyricist"></metaTag>
     <metaTag name="movementNumber">5</metaTag>
-    <metaTag name="movementTitle"></metaTag>
+    <metaTag name="movementTitle">Minuet I</metaTag>
+    <metaTag name="musicbrainz">https://musicbrainz.org/work/346b7f0d-d10a-3afb-95b1-5001621633c9</metaTag>
+    <metaTag name="pdf">https://imslp.org/wiki/Special:ReverseLookup/480704</metaTag>
     <metaTag name="platform">Apple Macintosh</metaTag>
     <metaTag name="poet"></metaTag>
     <metaTag name="source"></metaTag>
     <metaTag name="translator"></metaTag>
-    <metaTag name="workNumber"></metaTag>
-    <metaTag name="workTitle">Cello Suite No.2 in D minor</metaTag>
+    <metaTag name="viaf">https://viaf.org/viaf/218079940</metaTag>
+    <metaTag name="wikidata">https://www.wikidata.org/wiki/Q20645424</metaTag>
+    <metaTag name="workNumber">BWV 1008</metaTag>
+    <metaTag name="workTitle">Suite No. 2 in D minor</metaTag>
     <Order id="orchestral" customized="1">
       <name>Orchestral</name>
       <instrument id="piano">
-        <family id="keyboards">Tasteninstrumente</family>
+        <family id="keyboards">Keyboards</family>
         </instrument>
       <section id="woodwind" brackets="true" showSystemMarkings="true" barLineSpan="true" thinBrackets="true">
         <family>flutes</family>
@@ -49,6 +57,7 @@
         <family>horns</family>
         <family>trumpets</family>
         <family>cornets</family>
+        <family>flugelhorns</family>
         <family>trombones</family>
         <family>tubas</family>
         </section>
@@ -97,6 +106,7 @@
         <minPitchA>21</minPitchA>
         <maxPitchA>108</maxPitchA>
         <instrumentId>keyboard.piano</instrumentId>
+        <clef>F</clef>
         <Articulation>
           <velocity>100</velocity>
           <gateTime>95</gateTime>
@@ -148,6 +158,22 @@
         </Instrument>
       </Part>
     <Staff id="1">
+      <VBox>
+        <height>13.2146</height>
+        <boxAutoSize>0</boxAutoSize>
+        <Text>
+          <style>Title</style>
+          <text>5. Minuet I</text>
+          </Text>
+        <Text>
+          <style>Subtitle</style>
+          <text>from: Suite No. 2 in D minor, BWV 1008</text>
+          </Text>
+        <Text>
+          <style>Composer</style>
+          <text>Johann Sebastian Bach</text>
+          </Text>
+        </VBox>
       <Measure>
         <voice>
           <KeySig>
@@ -157,23 +183,16 @@
             <sigN>3</sigN>
             <sigD>4</sigD>
             </TimeSig>
-          <StaffText>
-            <family>Times New Roman</family>
-            <size>12</size>
-            <bold>1</bold>
-            <offset x="-9.96833" y="-7.62338"/>
-            <text>MENUET I</text>
-            </StaffText>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>d.i{</name>
-            <color r="170" g="0" b="0" a="255"/>
             </Harmony>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>d.i{</name>
-            <color r="0" g="85" b="0" a="255"/>
-            </Harmony>
+          <Tempo>
+            <tempo>1</tempo>
+            <followText>1</followText>
+            <visible>0</visible>
+            <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 60</b></text>
+            </Tempo>
           <Chord>
             <durationType>half</durationType>
             <Note>

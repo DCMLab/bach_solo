@@ -7,8 +7,6 @@ VOLTAS_WITH_DIFFERING_LENGTHS_WARNING (4, 47) ms3.Parse.bach_solo.BWV1013_01_All
 	Volta group of MC 47 contains voltas with different lengths: [2, 1] Check for correct computation of MNs and copy this message into an IGNORED_WARNINGS file to make the warning disappear.
 INCORRECT_VOLTA_MN_WARNING (2, 49) ms3.Parse.bach_solo.BWV1013_01_Allemande
 	MC 49, the 1st measure of a 2nd volta, should have MN 45, not MN 46.
-FIRST_BAR_MISSING_TEMPO_MARK_WARNING (29,) ms3.Parse.bach_solo.BWV1013_01_Allemande
-	No metronome mark found in the first measure nor anywhere else in the score.
 DCML_PHRASE_INCONGRUENCY_WARNING (16,) ms3.Parse.bach_solo.BWV1013_01_Allemande
 	Phrase beginning and endings don't match:
 	mn_playthrough phraseend mn_playthrough phraseend

@@ -15,27 +15,35 @@
     <showUnprintable>1</showUnprintable>
     <showFrames>1</showFrames>
     <showMargins>0</showMargins>
+    <metaTag name="P86 (composer)">Q1339</metaTag>
     <metaTag name="annotators">Adrian Nagel</metaTag>
     <metaTag name="arranger"></metaTag>
+    <metaTag name="compared_against">LATEST_VERSION</metaTag>
     <metaTag name="composed_end">1723</metaTag>
+    <metaTag name="composed_source">https://en.wikipedia.org/wiki/Cello_Suites_(Bach)</metaTag>
     <metaTag name="composed_start">1717</metaTag>
-    <metaTag name="composer">Bach, J.S.</metaTag>
+    <metaTag name="composer">Johann Sebastian Bach</metaTag>
     <metaTag name="copyright"></metaTag>
     <metaTag name="creationDate">2021-04-12</metaTag>
     <metaTag name="harmony_version">2.3.0</metaTag>
+    <metaTag name="imslp">https://imslp.org/wiki/Cello_Suite_No.6_in_D_major,_BWV_1012_(Bach,_Johann_Sebastian)</metaTag>
     <metaTag name="lyricist"></metaTag>
     <metaTag name="movementNumber">2</metaTag>
-    <metaTag name="movementTitle"></metaTag>
+    <metaTag name="movementTitle">Allemande</metaTag>
+    <metaTag name="musicbrainz">https://musicbrainz.org/work/45f40f0e-6aec-30da-91c0-7f88aeebf98d</metaTag>
+    <metaTag name="pdf">https://imslp.org/wiki/Special:ReverseLookup/480704</metaTag>
     <metaTag name="platform">Apple Macintosh</metaTag>
     <metaTag name="poet"></metaTag>
     <metaTag name="source"></metaTag>
     <metaTag name="translator"></metaTag>
-    <metaTag name="workNumber"></metaTag>
-    <metaTag name="workTitle">Cello Suite No.6 in D major</metaTag>
+    <metaTag name="viaf">https://viaf.org/viaf/212878335</metaTag>
+    <metaTag name="wikidata">https://www.wikidata.org/wiki/Q20645428</metaTag>
+    <metaTag name="workNumber">BWV 1012</metaTag>
+    <metaTag name="workTitle">Suite No. 6 in D major</metaTag>
     <Order id="orchestral" customized="1">
       <name>Orchestral</name>
       <instrument id="piano">
-        <family id="keyboards">Tasteninstrumente</family>
+        <family id="keyboards">Keyboards</family>
         </instrument>
       <section id="woodwind" brackets="true" showSystemMarkings="true" barLineSpan="true" thinBrackets="true">
         <family>flutes</family>
@@ -97,6 +105,7 @@
         <minPitchA>21</minPitchA>
         <maxPitchA>108</maxPitchA>
         <instrumentId>keyboard.piano</instrumentId>
+        <clef>F</clef>
         <Articulation>
           <velocity>100</velocity>
           <gateTime>95</gateTime>
@@ -148,6 +157,22 @@
         </Instrument>
       </Part>
     <Staff id="1">
+      <VBox>
+        <height>14.5783</height>
+        <boxAutoSize>0</boxAutoSize>
+        <Text>
+          <style>Title</style>
+          <text>2. Allemande</text>
+          </Text>
+        <Text>
+          <style>Subtitle</style>
+          <text>from: Suite No. 6 in D major, BWV 1012</text>
+          </Text>
+        <Text>
+          <style>Composer</style>
+          <text>Johann Sebastian Bach</text>
+          </Text>
+        </VBox>
       <Measure len="1/16">
         <irregular>1</irregular>
         <voice>
@@ -163,17 +188,16 @@
             <sigN>4</sigN>
             <sigD>4</sigD>
             </TimeSig>
-          <StaffText>
-            <family>Times New Roman</family>
-            <size>12</size>
-            <bold>1</bold>
-            <offset x="-8.8125" y="-5.65625"/>
-            <text>ALLEMANDE</text>
-            </StaffText>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>D.I{</name>
             </Harmony>
+          <Tempo>
+            <tempo>0.8666666666666667</tempo>
+            <followText>1</followText>
+            <visible>0</visible>
+            <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 52</b></text>
+            </Tempo>
           <Chord>
             <durationType>16th</durationType>
             <StemDirection>up</StemDirection>
@@ -515,7 +539,13 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
+            <name>vi7</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
             <name>IV6(2)</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Beam>
             <Fragment>
@@ -3919,7 +3949,13 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
+            <name>vi</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
             <name>V/iii</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>32nd</durationType>

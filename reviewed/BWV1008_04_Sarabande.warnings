@@ -1,8 +1,6 @@
 Warnings encountered during the last execution of ms3 review
 ============================================================
 
-FIRST_BAR_MISSING_TEMPO_MARK_WARNING (29,) ms3.Parse.bach_solo.BWV1008_04_Sarabande
-	No metronome mark found in the first measure nor anywhere else in the score.
 DCML_DEFAULT_CORRECTION_WARNING (27, 'MC 19: ') ms3.Parse.bach_solo.BWV1008_04_Sarabande
 	MC 19: #vii in major context corrected to vii.
 DCML_DEFAULT_CORRECTION_WARNING (27, 'MC 22: ') ms3.Parse.bach_solo.BWV1008_04_Sarabande

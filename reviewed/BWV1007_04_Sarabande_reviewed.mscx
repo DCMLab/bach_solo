@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <museScore version="3.02">
-  <programVersion>3.6.0</programVersion>
-  <programRevision>1977cb3</programRevision>
+  <programVersion>3.6.2</programVersion>
+  <programRevision>3224f34</programRevision>
   <Score>
     <LayerTag id="0" tag="default"></LayerTag>
     <currentLayer>0</currentLayer>
@@ -75,35 +75,46 @@
     <showUnprintable>1</showUnprintable>
     <showFrames>1</showFrames>
     <showMargins>0</showMargins>
+    <metaTag name="P86 (composer)">Q1339</metaTag>
     <metaTag name="annotators">Adrian Nagel</metaTag>
     <metaTag name="arranger"></metaTag>
+    <metaTag name="compared_against">LATEST_VERSION</metaTag>
     <metaTag name="composed_end">1723</metaTag>
+    <metaTag name="composed_source">https://en.wikipedia.org/wiki/Cello_Suites_(Bach)</metaTag>
     <metaTag name="composed_start">1717</metaTag>
-    <metaTag name="composer">Bach, J.S.</metaTag>
+    <metaTag name="composer">Johann Sebastian Bach</metaTag>
     <metaTag name="copyright"></metaTag>
     <metaTag name="creationDate">2020-02-19</metaTag>
     <metaTag name="harmony_version">2.3.0</metaTag>
+    <metaTag name="imslp">https://imslp.org/wiki/Cello_Suite_No.6_in_D_major,_BWV_1012_(Bach,_Johann_Sebastian)</metaTag>
     <metaTag name="lyricist"></metaTag>
     <metaTag name="movementNumber">4</metaTag>
-    <metaTag name="movementTitle"></metaTag>
+    <metaTag name="movementTitle">Sarabande</metaTag>
     <metaTag name="mscVersion">3.02</metaTag>
+    <metaTag name="musicbrainz">https://musicbrainz.org/work/c1f362aa-1652-3913-8731-e8c3e912e520</metaTag>
     <metaTag name="originalFormat">cap</metaTag>
+    <metaTag name="pdf">https://imslp.org/wiki/Special:ReverseLookup/480704</metaTag>
     <metaTag name="platform">Linux</metaTag>
     <metaTag name="poet"></metaTag>
     <metaTag name="source"></metaTag>
     <metaTag name="translator"></metaTag>
-    <metaTag name="workNumber"></metaTag>
-    <metaTag name="workTitle">Cello Suite No.1 in G major</metaTag>
+    <metaTag name="viaf">https://viaf.org/viaf/217002846</metaTag>
+    <metaTag name="wikidata">https://www.wikidata.org/wiki/Q12714023</metaTag>
+    <metaTag name="workNumber">BWV 1007</metaTag>
+    <metaTag name="workTitle">Suite No. 1 in G major</metaTag>
     <Part>
       <Staff id="1">
         <StaffType group="pitched">
           </StaffType>
         <defaultClef>F</defaultClef>
         </Staff>
-      <trackName>unbenannt</trackName>
+      <trackName>Piano</trackName>
       <Instrument id="piano">
-        <trackName></trackName>
+        <longName>Piano</longName>
+        <shortName>Pno.</shortName>
+        <trackName>Piano</trackName>
         <instrumentId>keyboard.piano</instrumentId>
+        <clef>F</clef>
         <Channel>
           <program value="0"/>
           <synti>Fluid</synti>
@@ -116,32 +127,19 @@
       </Part>
     <Staff id="1">
       <VBox>
-        <height>4</height>
+        <height>15.4002</height>
         <boxAutoSize>0</boxAutoSize>
         <Text>
-          <style>Lyricist</style>
-          <size>20</size>
-          <offset x="96.9515" y="-2.49875"/>
-          <text>Suite I</text>
+          <style>Title</style>
+          <text>4. Sarabande</text>
           </Text>
         <Text>
-          <style>Lyricist</style>
-          <size>11</size>
-          <offset x="1.74913" y="-0.749625"/>
-          <text>BWV 1007</text>
+          <style>Subtitle</style>
+          <text>from: Suite No. 1 in G major, BWV 1007</text>
           </Text>
         <Text>
-          <style>Lyricist</style>
-          <size>11</size>
-          <offset x="21.7391" y="-0.9995"/>
-          <text>J.S.Bach  Suite I für Violoncello
-</text>
-          </Text>
-        <Text>
-          <style>Lyricist</style>
-          <size>14</size>
-          <offset x="169.915" y="-0.9995"/>
-          <text>J.S.Bach</text>
+          <style>Composer</style>
+          <text>Johann Sebastian Bach</text>
           </Text>
         </VBox>
       <Measure>
@@ -156,13 +154,13 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>G.I{</name>
-            <color r="170" g="0" b="0" a="255"/>
             </Harmony>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>G.I{</name>
-            <color r="0" g="85" b="0" a="255"/>
-            </Harmony>
+          <Tempo>
+            <tempo>0.83333333333333337</tempo>
+            <followText>1</followText>
+            <visible>0</visible>
+            <text><b></b><font face="ScoreText"></font><b><font face="FreeSerif"></font> = 50</b></text>
+            </Tempo>
           <Chord>
             <durationType>quarter</durationType>
             <Note>
@@ -208,13 +206,6 @@
             </Chord>
           </voice>
         <voice>
-          <StaffText>
-            <family>Times New Roman</family>
-            <size>13</size>
-            <align>left,baseline</align>
-            <offset x="-9.76294" y="-12.1731"/>
-            <text>SARABANDE</text>
-            </StaffText>
           <Chord>
             <durationType>quarter</durationType>
             <Note>
@@ -421,20 +412,22 @@
           <Chord>
             <dots>1</dots>
             <durationType>eighth</durationType>
-            <Spanner type="Slur">
-              <Slur>
-                </Slur>
-              <next>
-                <location>
-                  <fractions>9/32</fractions>
-                  </location>
-                </next>
-              </Spanner>
             <Note>
               <pitch>52</pitch>
               <tpc>18</tpc>
               </Note>
             </Chord>
+          <Tuplet>
+            <visible>0</visible>
+            <normalNotes>2</normalNotes>
+            <actualNotes>3</actualNotes>
+            <baseNote>32nd</baseNote>
+            <Number>
+              <visible>0</visible>
+              <style>Tuplet</style>
+              <text>3</text>
+              </Number>
+            </Tuplet>
           <Chord>
             <durationType>32nd</durationType>
             <Note>
@@ -444,7 +437,6 @@
               </Note>
             </Chord>
           <Chord>
-            <BeamMode>mid</BeamMode>
             <durationType>32nd</durationType>
             <Note>
               <pitch>48</pitch>
@@ -452,7 +444,6 @@
               </Note>
             </Chord>
           <Chord>
-            <BeamMode>mid</BeamMode>
             <durationType>32nd</durationType>
             <Note>
               <color r="255" g="0" b="0" a="255"/>
@@ -460,25 +451,30 @@
               <tpc>19</tpc>
               </Note>
             </Chord>
+          <endTuplet/>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>IV</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
-            <BeamMode>begin</BeamMode>
             <durationType>eighth</durationType>
-            <Spanner type="Slur">
-              <prev>
-                <location>
-                  <fractions>-9/32</fractions>
-                  </location>
-                </prev>
-              </Spanner>
             <Note>
               <pitch>48</pitch>
               <tpc>14</tpc>
               </Note>
             </Chord>
+          <location>
+            <fractions>-3/32</fractions>
+            </location>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>IV</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <location>
+            <fractions>3/32</fractions>
+            </location>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -488,7 +484,7 @@
             </Chord>
           </voice>
         </Measure>
-      <Measure len="23/32">
+      <Measure>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -497,25 +493,12 @@
           <Chord>
             <durationType>16th</durationType>
             <Note>
-              <Accidental>
-                <role>1</role>
-                <subtype>accidentalSharp</subtype>
-                </Accidental>
               <pitch>54</pitch>
               <tpc>20</tpc>
               </Note>
             </Chord>
           <Chord>
             <durationType>16th</durationType>
-            <Spanner type="Slur">
-              <Slur>
-                </Slur>
-              <next>
-                <location>
-                  <fractions>1/8</fractions>
-                  </location>
-                </next>
-              </Spanner>
             <Note>
               <pitch>60</pitch>
               <tpc>14</tpc>
@@ -524,6 +507,7 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>I</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>16th</durationType>
@@ -534,13 +518,6 @@
             </Chord>
           <Chord>
             <durationType>16th</durationType>
-            <Spanner type="Slur">
-              <prev>
-                <location>
-                  <fractions>-1/8</fractions>
-                  </location>
-                </prev>
-              </Spanner>
             <Note>
               <pitch>55</pitch>
               <tpc>15</tpc>
@@ -593,7 +570,7 @@
             </Chord>
           </voice>
         </Measure>
-      <Measure len="23/32">
+      <Measure>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -713,7 +690,7 @@
             </Chord>
           </voice>
         </Measure>
-      <Measure len="23/32">
+      <Measure>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -846,7 +823,7 @@
             </Chord>
           </voice>
         </Measure>
-      <Measure len="23/32">
+      <Measure>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -902,7 +879,13 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
+            <name>I</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
             <name>I6</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>16th</durationType>
@@ -969,7 +952,13 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
+            <name>I6</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
             <name>I</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>16th</durationType>
@@ -1003,7 +992,7 @@
             </Chord>
           </voice>
         </Measure>
-      <Measure len="23/32">
+      <Measure>
         <endRepeat>2</endRepeat>
         <voice>
           <Harmony>
@@ -1100,13 +1089,17 @@
       <Measure>
         <startRepeat/>
         <voice>
-          <Chord>
-            <durationType>eighth</durationType>
-            <Note>
-              <pitch>54</pitch>
-              <tpc>20</tpc>
-              </Note>
-            </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>I.V{</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Rest>
+            <durationType>32nd</durationType>
+            </Rest>
+          <location>
+            <fractions>3/32</fractions>
+            </location>
           <Chord>
             <durationType>16th</durationType>
             <Note>
@@ -1124,7 +1117,13 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
+            <name>V7</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
             <name>I.V7</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <dots>1</dots>
@@ -2082,7 +2081,7 @@
             </Chord>
           </voice>
         </Measure>
-      <Measure len="23/32">
+      <Measure>
         <endRepeat>2</endRepeat>
         <voice>
           <Harmony>
@@ -2139,28 +2138,33 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I}</name>
+            <name>I</name>
+            <color r="170" g="0" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
+            <Lyrics>
+              <text>I}</text>
+              </Lyrics>
             <Note>
+              <color r="255" g="0" b="0" a="255"/>
               <pitch>55</pitch>
               <tpc>15</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>}</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <Note>
+              <color r="255" g="0" b="0" a="255"/>
               <pitch>43</pitch>
               <tpc>15</tpc>
               </Note>
             </Chord>
-          <location>
-            <fractions>-1/32</fractions>
-            </location>
-          <Fermata>
-            <subtype>fermataAbove</subtype>
-            </Fermata>
           </voice>
         </Measure>
       </Staff>

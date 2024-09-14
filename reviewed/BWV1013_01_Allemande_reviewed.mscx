@@ -15,27 +15,34 @@
     <showUnprintable>1</showUnprintable>
     <showFrames>1</showFrames>
     <showMargins>0</showMargins>
+    <metaTag name="P86 (composer)">Q1339</metaTag>
     <metaTag name="annotators">Adrian Nagel</metaTag>
     <metaTag name="arranger"></metaTag>
+    <metaTag name="compared_against">LATEST_VERSION</metaTag>
     <metaTag name="composed_end">1723</metaTag>
+    <metaTag name="composed_source">https://en.wikipedia.org/wiki/Partita_in_A_minor_for_solo_flute_(Bach) (uncertain)</metaTag>
     <metaTag name="composed_start">1722</metaTag>
-    <metaTag name="composer">Bach, J.S.</metaTag>
+    <metaTag name="composer">Johann Sebastian Bach</metaTag>
     <metaTag name="copyright"></metaTag>
     <metaTag name="creationDate">2021-04-21</metaTag>
     <metaTag name="harmony_version">2.3.0</metaTag>
+    <metaTag name="imslp">https://imslp.org/wiki/Partita_in_A_minor,_BWV_1013_(Bach,_Johann_Sebastian)</metaTag>
     <metaTag name="lyricist"></metaTag>
     <metaTag name="movementNumber">1</metaTag>
-    <metaTag name="movementTitle"></metaTag>
+    <metaTag name="movementTitle">Allemande</metaTag>
+    <metaTag name="musicbrainz">https://musicbrainz.org/work/1158ae1f-4cb5-315f-a26a-cc49280372be</metaTag>
+    <metaTag name="pdf">https://imslp.org/wiki/Special:ReverseLookup/921462</metaTag>
     <metaTag name="platform">Apple Macintosh</metaTag>
     <metaTag name="poet"></metaTag>
     <metaTag name="source"></metaTag>
     <metaTag name="translator"></metaTag>
-    <metaTag name="workNumber"></metaTag>
+    <metaTag name="wikidata">https://www.wikidata.org/wiki/Q989855</metaTag>
+    <metaTag name="workNumber">BWV 1013</metaTag>
     <metaTag name="workTitle">Partita in A minor</metaTag>
     <Order id="orchestral" customized="1">
       <name>Orchestral</name>
-      <instrument id="piano">
-        <family id="keyboards">Tasteninstrumente</family>
+      <instrument id="flute">
+        <family id="flutes">Flutes</family>
         </instrument>
       <section id="woodwind" brackets="true" showSystemMarkings="true" barLineSpan="true" thinBrackets="true">
         <family>flutes</family>
@@ -87,16 +94,16 @@
         <bracket type="1" span="2" col="2"/>
         <barLineSpan>1</barLineSpan>
         </Staff>
-      <trackName>Piano</trackName>
-      <Instrument id="piano">
-        <longName>Piano</longName>
-        <shortName>Pno.</shortName>
-        <trackName>Piano</trackName>
+      <trackName>Flute</trackName>
+      <Instrument id="flute">
+        <longName>Flute</longName>
+        <shortName>Fl.</shortName>
+        <trackName>Flute</trackName>
         <minPitchP>21</minPitchP>
         <maxPitchP>108</maxPitchP>
         <minPitchA>21</minPitchA>
         <maxPitchA>108</maxPitchA>
-        <instrumentId>keyboard.piano</instrumentId>
+        <instrumentId>wind.flutes.flute</instrumentId>
         <Articulation>
           <velocity>100</velocity>
           <gateTime>95</gateTime>
@@ -138,16 +145,34 @@
           <gateTime>100</gateTime>
           </Articulation>
         <Channel>
-          <program value="0"/>
+          <controller ctrl="0" value="0"/>
+          <controller ctrl="32" value="17"/>
+          <program value="73"/>
           <synti>Fluid</synti>
           </Channel>
         <Channel name="harmony">
+          <controller ctrl="0" value="0"/>
+          <controller ctrl="32" value="17"/>
           <program value="0"/>
           <synti>Fluid</synti>
           </Channel>
         </Instrument>
       </Part>
     <Staff id="1">
+      <VBox>
+        <Text>
+          <style>Title</style>
+          <text>1. Allemande</text>
+          </Text>
+        <Text>
+          <style>Subtitle</style>
+          <text>from: Partita in A minor, BWV 1013</text>
+          </Text>
+        <Text>
+          <style>Composer</style>
+          <text>Johann Sebastian Bach</text>
+          </Text>
+        </VBox>
       <Measure>
         <voice>
           <TimeSig>
@@ -155,6 +180,11 @@
             <sigN>4</sigN>
             <sigD>4</sigD>
             </TimeSig>
+          <Tempo>
+            <tempo>1.2</tempo>
+            <followText>1</followText>
+            <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 72</b></text>
+            </Tempo>
           <Rest>
             <durationType>16th</durationType>
             </Rest>
@@ -162,13 +192,6 @@
             <harmonyType>1</harmonyType>
             <name>a.i{</name>
             </Harmony>
-          <StaffText>
-            <family>Times New Roman</family>
-            <size>14</size>
-            <bold>1</bold>
-            <offset x="-10" y="-4.5"/>
-            <text>Allemande</text>
-            </StaffText>
           <Chord>
             <durationType>16th</durationType>
             <Note>
@@ -251,12 +274,6 @@
               <tpc>22</tpc>
               </Note>
             </Chord>
-          <StaffText>
-            <family>Times New Roman</family>
-            <size>9.216</size>
-            <offset x="-4.0625" y="-7.5"/>
-            <text>für Flöte Solo</text>
-            </StaffText>
           <Chord>
             <durationType>16th</durationType>
             <Note>
@@ -278,19 +295,6 @@
               <tpc>17</tpc>
               </Note>
             </Chord>
-          <StaffText>
-            <family>Times New Roman</family>
-            <size>28</size>
-            <bold>1</bold>
-            <offset x="-14.75" y="-12.125"/>
-            <text>Partita</text>
-            </StaffText>
-          <StaffText>
-            <family>Times New Roman</family>
-            <size>9</size>
-            <offset x="-10.1875" y="-9.75"/>
-            <text>BWV 1013</text>
-            </StaffText>
           <Chord>
             <durationType>16th</durationType>
             <Note>
@@ -414,12 +418,6 @@
               <tpc>18</tpc>
               </Note>
             </Chord>
-          <StaffText>
-            <family>Times New Roman</family>
-            <size>9</size>
-            <offset x="-10.375" y="-4.25"/>
-            <text>J.S.Bach (1685-1750)</text>
-            </StaffText>
           <Chord>
             <durationType>16th</durationType>
             <Note>
@@ -2861,7 +2859,13 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
+            <name>i</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
             <name>i|PAC}{</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>16th</durationType>
@@ -3367,7 +3371,13 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
+            <name>i|PAC}</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
             <name>i|PAC}{</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>16th</durationType>
@@ -3376,6 +3386,11 @@
               <tpc>18</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>{</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
           <Chord>
             <durationType>16th</durationType>
             <Note>
@@ -3678,7 +3693,13 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
+            <name>i/iv|IAC}</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
             <name>i/iv|IAC}{</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>16th</durationType>
@@ -3687,6 +3708,11 @@
               <tpc>13</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>{</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
           <Chord>
             <durationType>16th</durationType>
             <Note>
@@ -6598,6 +6624,11 @@
               <tpc>17</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>{</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
           <Chord>
             <durationType>16th</durationType>
             <Note>
@@ -6736,7 +6767,13 @@
             </Rest>
           <Harmony>
             <harmonyType>1</harmonyType>
+            <name>v.i</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
             <name>v.i{</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>16th</durationType>
@@ -6863,6 +6900,11 @@
       <Measure>
         <irregular>1</irregular>
         <voice>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>i.i|PAC}</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
           <Spanner type="Volta">
             <prev>
               <location>

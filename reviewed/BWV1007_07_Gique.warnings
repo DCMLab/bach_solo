@@ -1,8 +1,6 @@
 Warnings encountered during the last execution of ms3 review
 ============================================================
 
-FIRST_BAR_MISSING_TEMPO_MARK_WARNING (29,) ms3.Parse.bach_solo.BWV1007_07_Gique
-	No metronome mark found in the first measure nor anywhere else in the score.
 DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 24, '0', 'v6') ms3.Parse.bach_solo.BWV1007_07_Gique
 	The label 'v6' in m. 22, onset 0 (MC 24, onset 0) seems not to correspond well to the score (which does not necessarily mean it is wrong).
 	In the context of G.I, it expresses the scale degrees

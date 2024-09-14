@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <museScore version="3.02">
-  <programVersion>3.6.0</programVersion>
-  <programRevision>1977cb3</programRevision>
+  <programVersion>3.6.2</programVersion>
+  <programRevision>3224f34</programRevision>
   <Score>
     <LayerTag id="0" tag="default"></LayerTag>
     <currentLayer>0</currentLayer>
@@ -71,42 +71,58 @@
       <defaultsVersion>301</defaultsVersion>
       <Spatium>1.52</Spatium>
       </Style>
-    <showInvisible>0</showInvisible>
+    <showInvisible>1</showInvisible>
     <showUnprintable>1</showUnprintable>
     <showFrames>1</showFrames>
     <showMargins>0</showMargins>
+    <metaTag name="P86 (composer)">Q1339</metaTag>
     <metaTag name="annotators">Adrian Nagel</metaTag>
     <metaTag name="arranger"></metaTag>
+    <metaTag name="compared_against">LATEST_VERSION</metaTag>
     <metaTag name="composed_end">1720</metaTag>
+    <metaTag name="composed_source">https://en.wikipedia.org/wiki/Sonatas_and_Partitas_for_Solo_Violin_(Bach)</metaTag>
     <metaTag name="composed_start">1720</metaTag>
-    <metaTag name="composer">Bach, J.S.</metaTag>
+    <metaTag name="composer">Johann Sebastian Bach</metaTag>
     <metaTag name="copyright"></metaTag>
     <metaTag name="creationDate">2020-02-19</metaTag>
     <metaTag name="harmony_version">2.3.0</metaTag>
+    <metaTag name="imslp">https://imslp.org/wiki/Violin_Sonata_No.3_in_C_major,_BWV_1005_(Bach,_Johann_Sebastian)</metaTag>
     <metaTag name="lyricist"></metaTag>
     <metaTag name="movementNumber">2</metaTag>
-    <metaTag name="movementTitle"></metaTag>
+    <metaTag name="movementTitle">Fuga</metaTag>
     <metaTag name="mscVersion">3.02</metaTag>
+    <metaTag name="musicbrainz">https://musicbrainz.org/work/8897bf32-98b8-3d64-be4b-123d082d53bd</metaTag>
     <metaTag name="originalFormat">cap</metaTag>
+    <metaTag name="pdf">https://imslp.org/wiki/Special:ReverseLookup/497205</metaTag>
     <metaTag name="platform">Linux</metaTag>
     <metaTag name="poet"></metaTag>
     <metaTag name="source"></metaTag>
     <metaTag name="translator"></metaTag>
-    <metaTag name="workNumber"></metaTag>
-    <metaTag name="workTitle">Violin Sonata No.3 in C major</metaTag>
+    <metaTag name="viaf">https://viaf.org/viaf/178649074/</metaTag>
+    <metaTag name="wikidata">https://www.wikidata.org/wiki/Q20646571</metaTag>
+    <metaTag name="workNumber">BWV 1005</metaTag>
+    <metaTag name="workTitle">Sonata No. 3 in C major</metaTag>
     <Part>
       <Staff id="1">
         <StaffType group="pitched">
           </StaffType>
         </Staff>
-      <trackName>unbenannt</trackName>
+      <trackName>Violin</trackName>
       <Instrument id="violin">
-        <trackName></trackName>
+        <longName>Violin</longName>
+        <shortName>Vln.</shortName>
+        <trackName>Violin</trackName>
         <instrumentId>strings.violin</instrumentId>
-        <Channel>
+        <Channel name="arco">
           <controller ctrl="0" value="0"/>
           <controller ctrl="32" value="17"/>
           <program value="40"/>
+          <synti>Fluid</synti>
+          </Channel>
+        <Channel name="pizzicato">
+          <controller ctrl="0" value="0"/>
+          <controller ctrl="32" value="17"/>
+          <program value="45"/>
           <synti>Fluid</synti>
           </Channel>
         <Channel name="harmony">
@@ -119,12 +135,19 @@
       </Part>
     <Staff id="1">
       <VBox>
-        <height>3</height>
+        <height>13.7665</height>
         <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>Title</style>
-          <size>15.552</size>
-          <text>SONATA III  (BWV 1005)</text>
+          <text>2. Fuga</text>
+          </Text>
+        <Text>
+          <style>Subtitle</style>
+          <text>from: Sonata No. 3 in C major, BWV 1005</text>
+          </Text>
+        <Text>
+          <style>Composer</style>
+          <text>Johann Sebastian Bach</text>
           </Text>
         </VBox>
       <Measure len="1/2">
@@ -133,14 +156,6 @@
             <sigN>2</sigN>
             <sigD>2</sigD>
             </TimeSig>
-          <StaffText>
-            <family>Times New Roman</family>
-            <size>9</size>
-            <bold>1</bold>
-            <align>left,baseline</align>
-            <offset x="-2.71875" y="-4.89178"/>
-            <text>Fuga</text>
-            </StaffText>
           <StaffText>
             <placement>below</placement>
             <family>Times New Roman</family>
@@ -153,7 +168,7 @@
             </StaffText>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>C.V{</name>
+            <name>C.I{</name>
             <color r="170" g="0" b="0" a="255"/>
             </Harmony>
           <Harmony>
@@ -161,6 +176,12 @@
             <name>C.V{</name>
             <color r="0" g="85" b="0" a="255"/>
             </Harmony>
+          <Tempo>
+            <tempo>2.7999999999999998</tempo>
+            <followText>1</followText>
+            <visible>0</visible>
+            <text><b></b><font face="ScoreText"></font><b><font face="FreeSerif"></font> = 84</b></text>
+            </Tempo>
           <Chord>
             <durationType>half</durationType>
             <Note>
@@ -174,7 +195,13 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
+            <name>IV</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
             <name>vi</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -5989,12 +6016,6 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>bVI</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>bVI</name>
-            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -8727,12 +8748,6 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>bII6</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>bII6</name>
-            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -9996,12 +10011,6 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>bIII6</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>bIII6</name>
-            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -10082,12 +10091,6 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>bVII</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>bVII</name>
-            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>half</durationType>
@@ -11792,12 +11795,6 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>bVII6</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>bVII6</name>
-            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -16977,12 +16974,6 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>bVII</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>bVII</name>
-            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -17304,12 +17295,6 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>bVII6</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>bVII6</name>
-            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -17472,7 +17457,13 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
+            <name>#viio/vi</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
             <name>#viio/iii</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -17502,7 +17493,13 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
+            <name>vi</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
             <name>iii</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -19983,7 +19980,13 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
+            <name>V7]</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
             <name>V7</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -23861,12 +23864,6 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>bVII</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>bVII</name>
-            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>half</durationType>
@@ -26603,12 +26600,6 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>bVII6</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>bVII6</name>
-            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -29210,7 +29201,13 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
+            <name>vii</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
             <name>ii/ii</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>half</durationType>
@@ -29230,7 +29227,13 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
+            <name>ii</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
             <name>ii%65/ii</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -34534,12 +34537,6 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>bVI</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>bVI</name>
-            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>

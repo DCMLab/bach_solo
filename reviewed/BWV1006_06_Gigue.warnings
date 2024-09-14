@@ -9,5 +9,3 @@ MCS_NOT_EXCLUDED_FROM_BARCOUNT_WARNING (1, 1, 18) ms3.Parse.bach_solo.BWV1006_06
 	16  17  17     5/8         0        <NA>              <NA>
 	17  18  18     1/8       5/8        <NA>              <NA>
 	18  19  19     3/4         0        <NA>              <NA>
-FIRST_BAR_MISSING_TEMPO_MARK_WARNING (29,) ms3.Parse.bach_solo.BWV1006_06_Gigue
-	No metronome mark found in the first measure nor anywhere else in the score.

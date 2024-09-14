@@ -6,8 +6,6 @@ MCS_NOT_EXCLUDED_FROM_BARCOUNT_WARNING (1, 1) ms3.Parse.bach_solo.BWV1005_02_Fug
 	   mc  mn act_dur mc_offset  dont_count  numbering_offset
 	0   1   1     1/2       1/2        <NA>              <NA>
 	1   2   2       1         0        <NA>              <NA>
-FIRST_BAR_MISSING_TEMPO_MARK_WARNING (29,) ms3.Parse.bach_solo.BWV1005_02_Fuga
-	No metronome mark found in the first measure nor anywhere else in the score.
 DCML_HARMONY_INCOMPLETE_PEDAL_COLUMN_WARNING (13,) ms3.Parse.bach_solo.BWV1005_02_Fuga
 	propagate_pedal() failed with
 	3 organ points started, 2 ended:

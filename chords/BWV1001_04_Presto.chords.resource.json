@@ -1,0 +1,29 @@
+{
+  "name": "bwv1001_04_presto.chords",
+  "type": "table",
+  "path": "BWV1001_04_Presto.chords.tsv",
+  "scheme": "file",
+  "format": "tsv",
+  "mediatype": "text/tsv",
+  "encoding": "utf-8",
+  "dialect": {
+    "csv": {
+      "delimiter": "\t"
+    }
+  },
+  "schema": "https://raw.githubusercontent.com/DCMLab/frictionless_schemas/main/chords/Hz705whsWj_D8Q.schema.yaml",
+  "creator": {
+    "@context": "https://schema.org/",
+    "@type": "SoftwareApplication",
+    "@id": "https://pypi.org/project/ms3/",
+    "name": "ms3",
+    "description": "A parser for MuseScore 3 files and data factory for annotated music corpora.",
+    "author": {
+      "name": "Johannes Hentschel",
+      "@id": "https://orcid.org/0000-0002-1986-9545"
+    },
+    "softwareVersion": "2.5.2"
+  },
+  "git_revision": "292acdfadf9700d706d5a2c9f38c9f1f74f589c2",
+  "git_tag": "v2.5-12-g292acdf"
+}
