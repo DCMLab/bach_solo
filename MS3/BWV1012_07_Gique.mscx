@@ -15,23 +15,30 @@
     <showUnprintable>1</showUnprintable>
     <showFrames>1</showFrames>
     <showMargins>0</showMargins>
+    <metaTag name="P86 (composer)">Q1339</metaTag>
     <metaTag name="annotators">Adrian Nagel</metaTag>
     <metaTag name="arranger"></metaTag>
     <metaTag name="composed_end">1723</metaTag>
+    <metaTag name="composed_source">https://en.wikipedia.org/wiki/Cello_Suites_(Bach)</metaTag>
     <metaTag name="composed_start">1717</metaTag>
     <metaTag name="composer">Bach, J.S.</metaTag>
     <metaTag name="copyright"></metaTag>
     <metaTag name="creationDate">2021-04-12</metaTag>
     <metaTag name="harmony_version">2.3.0</metaTag>
+    <metaTag name="imslp">https://imslp.org/wiki/Cello_Suite_No.6_in_D_major,_BWV_1012_(Bach,_Johann_Sebastian)</metaTag>
     <metaTag name="lyricist"></metaTag>
     <metaTag name="movementNumber">7</metaTag>
-    <metaTag name="movementTitle"></metaTag>
+    <metaTag name="movementTitle">Gigue</metaTag>
+    <metaTag name="musicbrainz">https://musicbrainz.org/work/ddd9f05c-b5a4-3ea8-b9b1-8d2624447423</metaTag>
+    <metaTag name="pdf">https://imslp.org/wiki/Special:ReverseLookup/480704</metaTag>
     <metaTag name="platform">Apple Macintosh</metaTag>
     <metaTag name="poet"></metaTag>
     <metaTag name="source"></metaTag>
     <metaTag name="translator"></metaTag>
-    <metaTag name="workNumber"></metaTag>
-    <metaTag name="workTitle">Cello Suite No.6 in D major</metaTag>
+    <metaTag name="viaf">https://viaf.org/viaf/212878335</metaTag>
+    <metaTag name="wikidata">https://www.wikidata.org/wiki/Q20645428</metaTag>
+    <metaTag name="workNumber">BWV 1012</metaTag>
+    <metaTag name="workTitle">Suite No. 6 in D major</metaTag>
     <Order id="orchestral" customized="1">
       <name>Orchestral</name>
       <instrument id="piano">
@@ -149,6 +156,7 @@
         </Instrument>
       </Part>
     <Staff id="1">
+      <VBox/>
       <Measure len="1/8">
         <irregular>1</irregular>
         <voice>
@@ -178,7 +186,7 @@
             <tempo>2.3000000000000003</tempo>
             <followText>1</followText>
             <visible>0</visible>
-            <text><b></b><font face="ScoreText"/> <b><font face="Edwin"/> = 92</b></text>
+            <text><b></b><font face="ScoreText"></font> <b><font face="Edwin"></font> = 92</b></text>
             </Tempo>
           <Chord>
             <durationType>eighth</durationType>
