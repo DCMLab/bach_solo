@@ -15,23 +15,30 @@
     <showUnprintable>1</showUnprintable>
     <showFrames>1</showFrames>
     <showMargins>0</showMargins>
+    <metaTag name="P86 (composer)">Q1339</metaTag>
     <metaTag name="annotators">Adrian Nagel</metaTag>
     <metaTag name="arranger"></metaTag>
     <metaTag name="composed_end">1723</metaTag>
+    <metaTag name="composed_source">https://en.wikipedia.org/wiki/Cello_Suites_(Bach)</metaTag>
     <metaTag name="composed_start">1717</metaTag>
-    <metaTag name="composer">Bach, J.S.</metaTag>
+    <metaTag name="composer">Johann Sebastian Bach</metaTag>
     <metaTag name="copyright"></metaTag>
     <metaTag name="creationDate">2021-02-20</metaTag>
     <metaTag name="harmony_version">2.3.0</metaTag>
+    <metaTag name="imslp">https://imslp.org/wiki/Cello_Suite_No.2_in_D_minor,_BWV_1008_(Bach,_Johann_Sebastian)</metaTag>
     <metaTag name="lyricist"></metaTag>
     <metaTag name="movementNumber">2</metaTag>
     <metaTag name="movementTitle">Allemande</metaTag>
+    <metaTag name="musicbrainz">https://musicbrainz.org/work/cf2249c8-6b0d-3e73-b788-e76c203be13a</metaTag>
+    <metaTag name="pdf">https://imslp.org/wiki/Special:ReverseLookup/480704</metaTag>
     <metaTag name="platform">Apple Macintosh</metaTag>
     <metaTag name="poet"></metaTag>
     <metaTag name="source"></metaTag>
     <metaTag name="translator"></metaTag>
-    <metaTag name="workNumber"></metaTag>
-    <metaTag name="workTitle">Cello Suite No.2 in D minor</metaTag>
+    <metaTag name="viaf">https://viaf.org/viaf/218079940</metaTag>
+    <metaTag name="wikidata">https://www.wikidata.org/wiki/Q20645424</metaTag>
+    <metaTag name="workNumber">BWV 1008</metaTag>
+    <metaTag name="workTitle">Suite No. 2 in D minor</metaTag>
     <Order id="orchestral" customized="1">
       <name>Orchestral</name>
       <instrument id="piano">
@@ -142,13 +149,24 @@
           <program value="0"/>
           <synti>Fluid</synti>
           </Channel>
-        <Channel name="harmony">
-          <program value="0"/>
-          <synti>Fluid</synti>
-          </Channel>
+        <clef>F</clef>
         </Instrument>
       </Part>
     <Staff id="1">
+      <VBox>
+        <Text>
+          <style>Title</style>
+          <text>2. Allemande</text>
+          </Text>
+        <Text>
+          <style>Subtitle</style>
+          <text>from: Suite No. 2 in D minor, BWV 1008</text>
+          </Text>
+        <Text>
+          <style>Composer</style>
+          <text>Johann Sebastian Bach</text>
+          </Text>
+        </VBox>
       <Measure len="1/16">
         <irregular>1</irregular>
         <voice>
@@ -168,7 +186,7 @@
             <tempo>1.4666666666666666</tempo>
             <followText>1</followText>
             <visible>0</visible>
-            <text><b></b><font face="ScoreText"/><b><font face="Edwin"/> = 88</b></text>
+            <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 88</b></text>
             </Tempo>
           <Chord>
             <durationType>16th</durationType>

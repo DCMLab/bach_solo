@@ -75,52 +75,77 @@
     <showUnprintable>1</showUnprintable>
     <showFrames>1</showFrames>
     <showMargins>0</showMargins>
+    <metaTag name="P86 (composer)">Q1339</metaTag>
     <metaTag name="annotators">Adrian Nagel</metaTag>
     <metaTag name="arranger"></metaTag>
     <metaTag name="composed_end">1720</metaTag>
+    <metaTag name="composed_source">https://en.wikipedia.org/wiki/Sonatas_and_Partitas_for_Solo_Violin_(Bach)</metaTag>
     <metaTag name="composed_start">1720</metaTag>
-    <metaTag name="composer">Bach, J.S.</metaTag>
+    <metaTag name="composer">Johann Sebastian Bach</metaTag>
     <metaTag name="copyright"></metaTag>
     <metaTag name="creationDate">2020-02-19</metaTag>
     <metaTag name="harmony_version">2.3.0</metaTag>
+    <metaTag name="imslp">https://imslp.org/wiki/Violin_Partita_No.2_in_D_minor,_BWV_1004_(Bach,_Johann_Sebastian)</metaTag>
     <metaTag name="lyricist"></metaTag>
     <metaTag name="movementNumber">2</metaTag>
-    <metaTag name="movementTitle"></metaTag>
+    <metaTag name="movementTitle">Corrente</metaTag>
     <metaTag name="mscVersion">3.02</metaTag>
+    <metaTag name="musicbrainz">https://musicbrainz.org/work/b865d91d-82ac-308f-8d14-dbecca400e14</metaTag>
     <metaTag name="originalFormat">cap</metaTag>
+    <metaTag name="pdf">https://imslp.org/wiki/Special:ReverseLookup/497205</metaTag>
     <metaTag name="platform">Linux</metaTag>
     <metaTag name="poet"></metaTag>
     <metaTag name="source"></metaTag>
     <metaTag name="translator"></metaTag>
-    <metaTag name="workNumber"></metaTag>
-    <metaTag name="workTitle">Violin Partita No.2 in D minor</metaTag>
+    <metaTag name="viaf">https://viaf.org/viaf/185496649</metaTag>
+    <metaTag name="wikidata">https://www.wikidata.org/wiki/Q625094</metaTag>
+    <metaTag name="workNumber">BWV 1004</metaTag>
+    <metaTag name="workTitle">Partita No. 2 in D minor</metaTag>
     <Part>
       <Staff id="1">
         <StaffType group="pitched">
           </StaffType>
         </Staff>
-      <trackName>violine</trackName>
+      <trackName>Violin</trackName>
       <Instrument id="violin">
-        <trackName></trackName>
+        <trackName>Violin</trackName>
         <instrumentId>strings.violin</instrumentId>
-        <Channel>
-          <controller ctrl="0" value="0"/>
+        <Channel name="arco">
+          <controller ctrl="32" value="17"/>
           <controller ctrl="32" value="17"/>
           <program value="40"/>
           <synti>Fluid</synti>
           </Channel>
-        <Channel name="harmony">
+        <Channel name="pizzicato">
           <controller ctrl="0" value="0"/>
           <controller ctrl="32" value="17"/>
-          <program value="0"/>
+          <program value="45"/>
           <synti>Fluid</synti>
           </Channel>
+        <longName>Violin</longName>
+        <shortName>Vln.</shortName>
         </Instrument>
+      <Channel name="tremolo">
+        <program value="44"/>
+        <controller ctrl="32" value="17"/>
+        </Channel>
       </Part>
     <Staff id="1">
       <VBox>
         <height>4</height>
         <boxAutoSize>0</boxAutoSize>
+        <Text>
+          <style>Title</style>
+          <text>2. Corrente</text>
+          </Text>
+        <Text>
+          <style>Subtitle</style>
+          <text>from: Partita No. 2 in D minor, BWV 1004</text>
+          </Text>
+        <Text>
+          <style>Composer</style>
+          <text>Johann Sebastian Bach</text>
+          </Text>
         </VBox>
       <Measure len="1/16">
         <irregular>1</irregular>
@@ -140,7 +165,7 @@
             <tempo>2</tempo>
             <followText>1</followText>
             <visible>0</visible>
-            <text><b></b><font face="ScoreText"/><b><font face="FreeSerif"/> = 120</b></text>
+            <text><b></b><font face="ScoreText"></font><b><font face="FreeSerif"></font> = 120</b></text>
             </Tempo>
           <Chord>
             <durationType>16th</durationType>

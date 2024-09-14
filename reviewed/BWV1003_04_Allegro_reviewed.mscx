@@ -75,53 +75,78 @@
     <showUnprintable>1</showUnprintable>
     <showFrames>1</showFrames>
     <showMargins>0</showMargins>
+    <metaTag name="P86 (composer)">Q1339</metaTag>
     <metaTag name="annotators">Adrian Nagel</metaTag>
     <metaTag name="arranger"></metaTag>
-    <metaTag name="compared_against">v2.1</metaTag>
+    <metaTag name="compared_against">LATEST_VERSION</metaTag>
     <metaTag name="composed_end">1720</metaTag>
+    <metaTag name="composed_source">https://en.wikipedia.org/wiki/Sonatas_and_Partitas_for_Solo_Violin_(Bach)</metaTag>
     <metaTag name="composed_start">1720</metaTag>
-    <metaTag name="composer">Bach, J.S.</metaTag>
+    <metaTag name="composer">Johann Sebastian Bach</metaTag>
     <metaTag name="copyright"></metaTag>
     <metaTag name="creationDate">2020-02-19</metaTag>
     <metaTag name="harmony_version">2.3.0</metaTag>
+    <metaTag name="imslp">https://imslp.org/wiki/Violin_Sonata_No.2_in_A_minor,_BWV_1003_(Bach,_Johann_Sebastian)</metaTag>
     <metaTag name="lyricist"></metaTag>
     <metaTag name="movementNumber">4</metaTag>
-    <metaTag name="movementTitle"></metaTag>
+    <metaTag name="movementTitle">Allegro</metaTag>
     <metaTag name="mscVersion">3.02</metaTag>
+    <metaTag name="musicbrainz">https://musicbrainz.org/work/d7a3733a-f059-3a8a-bc46-0ceff4f86e94</metaTag>
     <metaTag name="originalFormat">cap</metaTag>
+    <metaTag name="pdf">https://imslp.org/wiki/Special:ReverseLookup/497205</metaTag>
     <metaTag name="platform">Linux</metaTag>
     <metaTag name="poet"></metaTag>
     <metaTag name="source"></metaTag>
     <metaTag name="translator"></metaTag>
-    <metaTag name="workNumber"></metaTag>
-    <metaTag name="workTitle">Violin Sonata No.2 in A minor</metaTag>
+    <metaTag name="viaf">https://viaf.org/viaf/178649074/</metaTag>
+    <metaTag name="wikidata">https://www.wikidata.org/wiki/Q20646570</metaTag>
+    <metaTag name="workNumber">BWV 1003</metaTag>
+    <metaTag name="workTitle">Sonata No. 2 in A minor</metaTag>
     <Part>
       <Staff id="1">
         <StaffType group="pitched">
           </StaffType>
         </Staff>
-      <trackName>unbenannt</trackName>
+      <trackName>Violin</trackName>
       <Instrument id="violin">
-        <trackName></trackName>
+        <trackName>Violin</trackName>
         <instrumentId>strings.violin</instrumentId>
-        <Channel>
-          <controller ctrl="0" value="0"/>
+        <Channel name="arco">
+          <controller ctrl="32" value="17"/>
           <controller ctrl="32" value="17"/>
           <program value="40"/>
           <synti>Fluid</synti>
           </Channel>
-        <Channel name="harmony">
+        <Channel name="pizzicato">
           <controller ctrl="0" value="0"/>
           <controller ctrl="32" value="17"/>
-          <program value="0"/>
+          <program value="45"/>
           <synti>Fluid</synti>
           </Channel>
+        <longName>Violin</longName>
+        <shortName>Vln.</shortName>
         </Instrument>
+      <Channel name="tremolo">
+        <program value="44"/>
+        <controller ctrl="32" value="17"/>
+        </Channel>
       </Part>
     <Staff id="1">
       <VBox>
         <height>6</height>
         <boxAutoSize>0</boxAutoSize>
+        <Text>
+          <style>Title</style>
+          <text>4. Allegro</text>
+          </Text>
+        <Text>
+          <style>Subtitle</style>
+          <text>from: Sonata No. 2 in A minor, BWV 1003</text>
+          </Text>
+        <Text>
+          <style>Composer</style>
+          <text>Johann Sebastian Bach</text>
+          </Text>
         </VBox>
       <Measure>
         <voice>
@@ -145,12 +170,6 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>a.i{</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>a.i{</name>
-            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>16th</durationType>
@@ -2758,12 +2777,6 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>bII6</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>bII6</name>
-            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>16th</durationType>
@@ -3459,12 +3472,6 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>bIIM65</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>bIIM65</name>
-            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>16th</durationType>
