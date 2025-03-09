@@ -1,5 +1,5 @@
 ![Version](https://img.shields.io/github/v/release/DCMLab/bach_solo?display_name=tag)
-[![DOI](https://zenodo.org/badge/{{ zenodo_badge_id }}.svg)](https://zenodo.org/badge/latestdoi/{{ zenodo_badge_id }})
+[![DOI](https://zenodo.org/badge/{{ zenodo_badge_id }}.svg)](https://doi.org/{{ concept_doi }})
 ![GitHub repo size](https://img.shields.io/github/repo-size/DCMLab/bach_solo)
 ![License](https://img.shields.io/badge/license-CC%20BY--NC--SA%204.0-9cf)
 
@@ -14,7 +14,68 @@ For information on how to obtain and use the dataset, please refer to [this docu
 
 # J.S. Bach – Solo Pieces (A corpus of annotated scores)
 
-All of the works in this repository are essential standard repertoire for their respective instruments. With the possible exception of BWV 1013, all were composed during Bach's prolific period as Kapellmeister in Köthen. Despite their ubiquity, their composition is shrouded in a kind of prophetic mystery; the Sonatas and Partitas for Solo Violin were only published in 1802, the Partita for Solo Flute was completely unknown until the twentieth century, and the Suites for Solo Cello were virtually unplayable on the instruments of the time. These works are outstanding for the sheer melodic and figurative variety they introduce to their ostensibly 'fixed' Baroque dance forms and our analyses will be able to substantiate broad new stylistic interpretations of this music.
+All of the works in this repository are essential standard repertoire for their respective instruments. With the
+possible exception of BWV 1013, all were composed during Bach's prolific period as Kapellmeister in Köthen. Despite
+their ubiquity, their composition is shrouded in a kind of prophetic mystery; the Sonatas and Partitas for Solo Violin
+were only published in 1802, the Partita for Solo Flute was completely unknown until the twentieth century, and the
+Suites for Solo Cello were virtually unplayable on the instruments of the time. These works are outstanding for the
+sheer melodic and figurative variety they introduce to their ostensibly 'fixed' Baroque dance forms and our analyses
+will be able to substantiate broad new stylistic interpretations of this music.
+
+## Getting the data
+
+* download repository as a [ZIP file](https://github.com/DCMLab/bach_solo/archive/main.zip)
+* download a [Frictionless Datapackage](https://specs.frictionlessdata.io/data-package/) that includes concatenations
+  of the TSV files in the four folders (`measures`, `notes`, `chords`, and `harmonies`) and a JSON descriptor:
+  * [bach_solo.zip](https://github.com/DCMLab/bach_solo/releases/latest/download/bach_solo.zip)
+  * [bach_solo.datapackage.json](https://github.com/DCMLab/bach_solo/releases/latest/download/bach_solo.datapackage.json)
+* clone the repo: `git clone https://github.com/DCMLab/bach_solo.git` 
+
+
+## Data Formats
+
+Each piece in this corpus is represented by five files with identical name prefixes, each in its own folder. 
+For example, the first movement of the Violin Sonata No.1 in G minor has the following files:
+
+* `MS3/BWV1001_01_Adagio.mscx`: Uncompressed MuseScore 3.6.2 file including the music and annotation labels.
+* `notes/BWV1001_01_Adagio.notes.tsv`: A table of all note heads contained in the score and their relevant features (not each of them represents an onset, some are tied together)
+* `measures/BWV1001_01_Adagio.measures.tsv`: A table with relevant information about the measures in the score.
+* `chords/BWV1001_01_Adagio.chords.tsv`: A table containing layer-wise unique onset positions with the musical markup (such as dynamics, articulation, lyrics, figured bass, etc.).
+* `harmonies/BWV1001_01_Adagio.harmonies.tsv`: A table of the included harmony labels (including cadences and phrases) with their positions in the score.
+
+Each TSV file comes with its own JSON descriptor that describes the meanings and datatypes of the columns ("fields") it contains,
+follows the [Frictionless specification](https://specs.frictionlessdata.io/tabular-data-resource/),
+and can be used to validate and correctly load the described file. 
+
+### Opening Scores
+
+After navigating to your local copy, you can open the scores in the folder `MS3` with the free and open source score
+editor [MuseScore](https://musescore.org). Please note that the scores have been edited, annotated and tested with
+[MuseScore 3.6.2](https://github.com/musescore/MuseScore/releases/tag/v3.6.2). 
+MuseScore 4 has since been released which renders them correctly but cannot store them back in the same format.
+
+### Opening TSV files in a spreadsheet
+
+Tab-separated value (TSV) files are like Comma-separated value (CSV) files and can be opened with most modern text
+editors. However, for correctly displaying the columns, you might want to use a spreadsheet or an addon for your
+favourite text editor. When you use a spreadsheet such as Excel, it might annoy you by interpreting fractions as
+dates. This can be circumvented by using `Data --> From Text/CSV` or the free alternative
+[LibreOffice Calc](https://www.libreoffice.org/download/download/). Other than that, TSV data can be loaded with
+every modern programming language.
+
+### Loading TSV files in Python
+
+Since the TSV files contain null values, lists, fractions, and numbers that are to be treated as strings, you may want
+to use this code to load any TSV files related to this repository (provided you're doing it in Python). After a quick
+`pip install -U ms3` (requires Python 3.10 or later) you'll be able to load any TSV like this:
+
+```python
+import ms3
+
+labels = ms3.load_tsv("harmonies/BWV1001_01_Adagio.harmonies.tsv")
+notes = ms3.load_tsv("notes/BWV1001_01_Adagio.notes.tsv")
+```
+
 
 ## Version history
 
@@ -24,9 +85,23 @@ See the [GitHub releases](https://github.com/DCMLab/bach_solo/releases).
 
 Please [create an issue](https://github.com/DCMLab/bach_solo/issues) and/or feel free to fork and submit pull requests.
 
+## Cite as
+
+> Johannes Hentschel, Yannis Rammos, Markus Neuwirth, & Martin Rohrmeier. (2025). J.S. Bach – Solo Pieces (A corpus of annotated scores) [Data set]. Zenodo. https://doi.org/{{ concept_doi }}
+
 ## License
 
 Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License ([CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)).
+
+![cc-by-nc-sa-image](https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png)
+
+## File naming convention
+
+```regex
+BWV(?<bwv>\d{4})_
+(?<no>\d{2}a?)_
+(?<movement>\S+)?
+```
 
 ## Overview
 |        file_name         |measures|labels|standard| annotators |
