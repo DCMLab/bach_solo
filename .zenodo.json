@@ -44,7 +44,7 @@
         }
     ],
     "upload_type": "dataset",
-    "version": "v2.18",
+    "version": "v2.19",
     "communities": [
         {
             "identifier": "dcml"
@@ -53,7 +53,7 @@
             "identifier": "epfl"
         }
     ],
-    "publication_date": "2025-03-09",
+    "publication_date": "2025-04-27",
     "creators": [
         {
             "orcid": "0000-0002-1986-9545",
@@ -80,7 +80,7 @@
     "related_identifiers": [
         {
             "scheme": "url",
-            "identifier": "https://github.com/DCMLab/bach_solo/tree/v2.18",
+            "identifier": "https://github.com/DCMLab/bach_solo/tree/v2.19",
             "relation": "references"
         },
         {
