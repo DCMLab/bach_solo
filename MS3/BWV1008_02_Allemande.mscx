@@ -105,6 +105,7 @@
         <minPitchA>21</minPitchA>
         <maxPitchA>108</maxPitchA>
         <instrumentId>keyboard.piano</instrumentId>
+        <clef>F</clef>
         <Articulation>
           <velocity>100</velocity>
           <gateTime>95</gateTime>
@@ -149,7 +150,10 @@
           <program value="0"/>
           <synti>Fluid</synti>
           </Channel>
-        <clef>F</clef>
+        <Channel name="harmony">
+          <program value="0"/>
+          <synti>Fluid</synti>
+          </Channel>
         </Instrument>
       </Part>
     <Staff id="1">
@@ -2362,6 +2366,7 @@
           </voice>
         </Measure>
       <Measure len="15/16">
+        <endRepeat>2</endRepeat>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
