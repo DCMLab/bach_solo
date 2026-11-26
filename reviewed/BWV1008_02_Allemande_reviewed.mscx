@@ -18,7 +18,6 @@
     <metaTag name="P86 (composer)">Q1339</metaTag>
     <metaTag name="annotators">Adrian Nagel</metaTag>
     <metaTag name="arranger"></metaTag>
-    <metaTag name="compared_against">LATEST_VERSION</metaTag>
     <metaTag name="composed_end">1723</metaTag>
     <metaTag name="composed_source">https://en.wikipedia.org/wiki/Cello_Suites_(Bach)</metaTag>
     <metaTag name="composed_start">1717</metaTag>
@@ -106,6 +105,7 @@
         <minPitchA>21</minPitchA>
         <maxPitchA>108</maxPitchA>
         <instrumentId>keyboard.piano</instrumentId>
+        <clef>F</clef>
         <Articulation>
           <velocity>100</velocity>
           <gateTime>95</gateTime>
@@ -150,7 +150,10 @@
           <program value="0"/>
           <synti>Fluid</synti>
           </Channel>
-        <clef>F</clef>
+        <Channel name="harmony">
+          <program value="0"/>
+          <synti>Fluid</synti>
+          </Channel>
         </Instrument>
       </Part>
     <Staff id="1">
@@ -2411,6 +2414,7 @@
           </voice>
         </Measure>
       <Measure len="15/16">
+        <endRepeat>2</endRepeat>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
